@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "8b8b4d7c4c1d73a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "4bdb0265a77a387a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "690a91d12bc2bf52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "09-AI学习/每日整理/2026-02-24.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-24"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "13f9e08ed112f513",
+    "type": "split",
+    "children": [
+      {
+        "id": "69c8b41ba4dc9ea5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e08b22243ce3457",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "8b7fd1b98b78f1c7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "450a82dc78008a95",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "43f7ffd9f0316cdb",
+    "type": "split",
+    "children": [
+      {
+        "id": "786ce69081e2e249",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "569a90ff517a95af",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "a738f390289ec8f7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "ca07a79252a1bd25",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "af72faa2735e1709",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "375a9a4f36650e92",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "690a91d12bc2bf52",
+  "lastOpenFiles": [
+    "09-AI学习/每日整理/2026-02-23.md",
+    "09-AI学习/每日整理/2026-02-22.md",
+    "09-AI学习/每日整理/2026-02-24.md",
+    "09-AI学习/每日整理/每日简报模板.md",
+    "09-AI学习/每日整理/2026-02-18.md",
+    "09-AI学习/每日整理/2026-02-16.md",
+    "09-AI学习/每日整理/2026-02-14.md",
+    "09-AI学习/信源库/01-精选博客.md"
+  ]
+}

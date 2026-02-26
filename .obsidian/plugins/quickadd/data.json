@@ -1,0 +1,607 @@
+{
+  "choices": [
+    {
+      "id": "ca0849e2-5f4a-497f-ad61-8d2f10b7cdd8",
+      "name": "✚ 添加",
+      "type": "Multi",
+      "command": true,
+      "choices": [
+        {
+          "id": "5bc74745-d7ba-4932-aea9-13b7da0ef611",
+          "name": "📥 添加到【收集箱】",
+          "type": "Capture",
+          "command": true,
+          "appendLink": false,
+          "captureTo": "background/日常任务.md",
+          "captureToActiveFile": false,
+          "createFileIfItDoesntExist": {
+            "enabled": false,
+            "createWithTemplate": false,
+            "template": ""
+          },
+          "format": {
+            "enabled": true,
+            "format": "- [ ]  {{value}}  ⏬"
+          },
+          "insertAfter": {
+            "enabled": false,
+            "after": "",
+            "insertAtEnd": false,
+            "considerSubsections": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top"
+          },
+          "prepend": true,
+          "task": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": false,
+          "openFileInMode": "preview"
+        },
+        {
+          "id": "6ff3a16b-4d59-4145-a5e6-1fcbe616fc8e",
+          "name": "✅ 转化成/编辑选中的任务",
+          "type": "Macro",
+          "command": false,
+          "macroId": "c2daffc5-9c5e-4502-8297-1f25f1d9973e"
+        },
+        {
+          "id": "4c7441cd-6c88-499b-8596-bd029c479727",
+          "name": "🎈 添加到【四象限】",
+          "type": "Multi",
+          "command": false,
+          "choices": [
+            {
+              "id": "763da1e1-f2ec-4d60-8010-ab01e6c190b1",
+              "name": "添加到【A象限】",
+              "type": "Capture",
+              "command": false,
+              "appendLink": false,
+              "captureTo": "background/日常任务.md",
+              "captureToActiveFile": false,
+              "createFileIfItDoesntExist": {
+                "enabled": false,
+                "createWithTemplate": false,
+                "template": ""
+              },
+              "format": {
+                "enabled": true,
+                "format": "- [ ]  {{value}}  🔺"
+              },
+              "insertAfter": {
+                "enabled": false,
+                "after": "",
+                "insertAtEnd": false,
+                "considerSubsections": false,
+                "createIfNotFound": false,
+                "createIfNotFoundLocation": "top"
+              },
+              "prepend": true,
+              "task": false,
+              "openFileInNewTab": {
+                "enabled": false,
+                "direction": "vertical",
+                "focus": true
+              },
+              "openFile": false,
+              "openFileInMode": "preview"
+            },
+            {
+              "id": "0f0b4035-a153-4141-b7fe-e3c90b4ed700",
+              "name": "添加到【B象限】",
+              "type": "Capture",
+              "command": false,
+              "appendLink": false,
+              "captureTo": "background/日常任务.md",
+              "captureToActiveFile": false,
+              "createFileIfItDoesntExist": {
+                "enabled": false,
+                "createWithTemplate": false,
+                "template": ""
+              },
+              "format": {
+                "enabled": true,
+                "format": "- [ ]  {{value}}   ⏫"
+              },
+              "insertAfter": {
+                "enabled": false,
+                "after": "",
+                "insertAtEnd": false,
+                "considerSubsections": false,
+                "createIfNotFound": false,
+                "createIfNotFoundLocation": "top"
+              },
+              "prepend": true,
+              "task": false,
+              "openFileInNewTab": {
+                "enabled": true,
+                "direction": "vertical",
+                "focus": true
+              },
+              "openFile": false,
+              "openFileInMode": "preview"
+            },
+            {
+              "id": "6026e943-6f84-4625-8ca3-1398d32bc33e",
+              "name": "添加到【C象限】",
+              "type": "Capture",
+              "command": false,
+              "appendLink": false,
+              "captureTo": "background/日常任务.md",
+              "captureToActiveFile": false,
+              "createFileIfItDoesntExist": {
+                "enabled": false,
+                "createWithTemplate": false,
+                "template": ""
+              },
+              "format": {
+                "enabled": true,
+                "format": "- [ ]  {{value}}   🔼 "
+              },
+              "insertAfter": {
+                "enabled": false,
+                "after": "",
+                "insertAtEnd": false,
+                "considerSubsections": false,
+                "createIfNotFound": false,
+                "createIfNotFoundLocation": "top"
+              },
+              "prepend": true,
+              "task": false,
+              "openFileInNewTab": {
+                "enabled": true,
+                "direction": "vertical",
+                "focus": true
+              },
+              "openFile": false,
+              "openFileInMode": "preview"
+            },
+            {
+              "id": "eefd6ce6-831b-4489-9cd5-5ec195544158",
+              "name": "添加到【D象限】",
+              "type": "Capture",
+              "command": false,
+              "appendLink": false,
+              "captureTo": "background/日常任务.md",
+              "captureToActiveFile": false,
+              "createFileIfItDoesntExist": {
+                "enabled": false,
+                "createWithTemplate": false,
+                "template": ""
+              },
+              "format": {
+                "enabled": true,
+                "format": "- [ ]  {{value}}   🔽"
+              },
+              "insertAfter": {
+                "enabled": false,
+                "after": "",
+                "insertAtEnd": false,
+                "considerSubsections": false,
+                "createIfNotFound": false,
+                "createIfNotFoundLocation": "top"
+              },
+              "prepend": true,
+              "task": false,
+              "openFileInNewTab": {
+                "enabled": true,
+                "direction": "vertical",
+                "focus": true
+              },
+              "openFile": false,
+              "openFileInMode": "preview"
+            }
+          ],
+          "collapsed": true
+        },
+        {
+          "id": "eb9d1017-4e56-41a9-b9c8-e01ee38de85f",
+          "name": "💾 添加存档",
+          "type": "Capture",
+          "command": false,
+          "appendLink": false,
+          "captureTo": "journals/{{date}}",
+          "captureToActiveFile": false,
+          "createFileIfItDoesntExist": {
+            "enabled": false,
+            "createWithTemplate": true,
+            "template": "background/Template/Dailynote模板.md"
+          },
+          "format": {
+            "enabled": true,
+            "format": "- [i] 💾 #存档 👉：*✅{{value}}*。"
+          },
+          "insertAfter": {
+            "enabled": false,
+            "after": "",
+            "insertAtEnd": false,
+            "considerSubsections": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top"
+          },
+          "prepend": true,
+          "task": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": false,
+          "openFileInMode": "default"
+        },
+        {
+          "id": "dfa30f1e-0196-4962-8cd0-3c5f60bdb99b",
+          "name": "🔖 添加到【关注】",
+          "type": "Capture",
+          "command": false,
+          "appendLink": false,
+          "captureTo": "background/日常任务.md",
+          "captureToActiveFile": false,
+          "createFileIfItDoesntExist": {
+            "enabled": false,
+            "createWithTemplate": false,
+            "template": ""
+          },
+          "format": {
+            "enabled": true,
+            "format": "- [b]  {{value}}  #关注   *添加于 🕒{{date}} {{time}}*"
+          },
+          "insertAfter": {
+            "enabled": false,
+            "after": "",
+            "insertAtEnd": false,
+            "considerSubsections": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top"
+          },
+          "prepend": true,
+          "task": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": false,
+          "openFileInMode": "default"
+        },
+        {
+          "id": "2e44a164-199a-4292-9526-9196c9643ad4",
+          "name": "🗓 添加到【未来】",
+          "type": "Capture",
+          "command": false,
+          "appendLink": false,
+          "captureTo": "background/2024年度规划与里程碑.md",
+          "captureToActiveFile": false,
+          "createFileIfItDoesntExist": {
+            "enabled": false,
+            "createWithTemplate": false,
+            "template": ""
+          },
+          "format": {
+            "enabled": true,
+            "format": "- {{value}}"
+          },
+          "insertAfter": {
+            "enabled": true,
+            "after": "### 🎈未来记录",
+            "insertAtEnd": true,
+            "considerSubsections": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top"
+          },
+          "prepend": false,
+          "task": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default"
+        },
+        {
+          "id": "63465916-8e22-4451-9633-9dd5a4e68074",
+          "name": "🗃️ 创建新卡片到【卡片盒】",
+          "type": "Macro",
+          "command": false,
+          "macroId": "42d7a404-fe2a-4645-ace3-ba0b89c91dac"
+        },
+        {
+          "id": "82f0a9e7-2ed8-4e58-a5f3-1db42c71ef78",
+          "name": "🍅 创建新项目",
+          "type": "Template",
+          "command": false,
+          "templatePath": "background/Template/项目模板.md",
+          "fileNameFormat": {
+            "enabled": false,
+            "format": ""
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "Things/短期项目",
+              "Things/长期项目"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default",
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": false
+        },
+        {
+          "id": "92debef6-cdc0-43d9-8c9e-89fab95ad8f0",
+          "name": "🌗 结束一天",
+          "type": "Capture",
+          "command": false,
+          "appendLink": false,
+          "captureTo": "journals/{{date}}",
+          "captureToActiveFile": true,
+          "createFileIfItDoesntExist": {
+            "enabled": false,
+            "createWithTemplate": false,
+            "template": ""
+          },
+          "format": {
+            "enabled": true,
+            "format": "##### 🌕 *{{time}}* 结束一天：统筹一下【📅项目进度】，🛀洗漱收拾一下自己，💨释放觉察。"
+          },
+          "insertAfter": {
+            "enabled": false,
+            "after": "",
+            "insertAtEnd": true,
+            "considerSubsections": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top"
+          },
+          "prepend": true,
+          "task": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": false,
+          "openFileInMode": "default"
+        },
+        {
+          "id": "a48c6959-399a-400b-aed2-81b39f303068",
+          "name": "🧘‍♂️ 添加冥想引导",
+          "type": "Capture",
+          "command": false,
+          "appendLink": false,
+          "captureTo": "",
+          "captureToActiveFile": true,
+          "createFileIfItDoesntExist": {
+            "enabled": false,
+            "createWithTemplate": false,
+            "template": ""
+          },
+          "format": {
+            "enabled": true,
+            "format": "- [l] {{time}} - *觉察你的感受*，**你能把它释放掉吗** ？*你愿意吗* ？**什么时候？** #purple "
+          },
+          "insertAfter": {
+            "enabled": false,
+            "after": "",
+            "insertAtEnd": false,
+            "considerSubsections": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top"
+          },
+          "prepend": true,
+          "task": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": false,
+          "openFileInMode": "default"
+        },
+        {
+          "id": "67f849db-f3c7-437a-8c1f-9b30c264b4f7",
+          "name": "🥊 开始冲刺倒计时",
+          "type": "Capture",
+          "command": true,
+          "appendLink": false,
+          "captureTo": "journals/{{date}}",
+          "captureToActiveFile": false,
+          "createFileIfItDoesntExist": {
+            "enabled": false,
+            "createWithTemplate": false,
+            "template": ""
+          },
+          "format": {
+            "enabled": true,
+            "format": "- [\"] {{time}} - <% tp.date.now(\"HH:mm\",\"PT0H{{value:🕒你要专注多长时间呢？}}M\") %> {{value:✅你要进行什么任务？}}  [🔔](@ <% tp.date.now() %>  <% tp.date.now(\"HH:mm\",\"PT0H{{value:🕒你要专注多长时间呢？}}M\") %>)  "
+          },
+          "insertAfter": {
+            "enabled": false,
+            "after": "",
+            "insertAtEnd": false,
+            "considerSubsections": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top"
+          },
+          "prepend": true,
+          "task": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": false,
+          "openFileInMode": "default"
+        },
+        {
+          "id": "30790a00-b970-4c67-ad4a-36c7278630be",
+          "name": "⚡️ 开始：时间记录",
+          "type": "Capture",
+          "command": true,
+          "appendLink": false,
+          "captureTo": "journals/{{date}}",
+          "captureToActiveFile": false,
+          "createFileIfItDoesntExist": {
+            "enabled": false,
+            "createWithTemplate": false,
+            "template": ""
+          },
+          "format": {
+            "enabled": true,
+            "format": "- {{time}} - {{value}}"
+          },
+          "insertAfter": {
+            "enabled": false,
+            "after": "",
+            "insertAtEnd": true,
+            "considerSubsections": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top"
+          },
+          "prepend": true,
+          "task": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": false,
+          "openFileInMode": "default"
+        }
+      ],
+      "collapsed": false
+    }
+  ],
+  "macros": [
+    {
+      "name": "📥添加任务",
+      "id": "c2daffc5-9c5e-4502-8297-1f25f1d9973e",
+      "commands": [
+        {
+          "name": "Tasks: Create or edit task",
+          "type": "Obsidian",
+          "id": "bbbe3e4c-dddd-4197-8b8e-d81c643468de",
+          "commandId": "obsidian-tasks-plugin:edit-task"
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "创建卡片",
+      "id": "42d7a404-fe2a-4645-ace3-ba0b89c91dac",
+      "commands": [
+        {
+          "name": "创建卡片到【卡片盒】",
+          "type": "NestedChoice",
+          "id": "3c00ad93-e7e7-4734-85b5-d67716ced584",
+          "choice": {
+            "id": "6659f233-b0c2-477e-9b06-3313e9121762",
+            "name": "创建卡片到【卡片盒】",
+            "type": "Template",
+            "command": false,
+            "templatePath": "background/Template/文献笔记模板.md",
+            "fileNameFormat": {
+              "enabled": true,
+              "format": "{{value}}"
+            },
+            "folder": {
+              "enabled": true,
+              "folders": [
+                "page/卡片盒"
+              ],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false,
+              "chooseFromSubfolders": false
+            },
+            "appendLink": true,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": true,
+            "openFileInMode": "default",
+            "fileExistsMode": "Nothing",
+            "setFileExistsBehavior": false
+          }
+        },
+        {
+          "name": "File Tree Alternative: Open File Tree View",
+          "type": "Obsidian",
+          "id": "f3d66085-cfae-4429-add5-583d740c8622",
+          "commandId": "file-tree-alternative:open-file-tree-view"
+        }
+      ],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "single-line",
+  "devMode": false,
+  "templateFolderPath": "",
+  "announceUpdates": true,
+  "version": "1.9.0",
+  "disableOnlineFeatures": true,
+  "ai": {
+    "defaultModel": "Ask me",
+    "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
+    "promptTemplatesFolderPath": "",
+    "showAssistant": true,
+    "providers": [
+      {
+        "name": "OpenAI",
+        "endpoint": "https://api.openai.com/v1",
+        "apiKey": "",
+        "models": [
+          {
+            "name": "gpt-3.5-turbo",
+            "maxTokens": 4096
+          },
+          {
+            "name": "gpt-3.5-turbo-16k",
+            "maxTokens": 16384
+          },
+          {
+            "name": "gpt-3.5-turbo-1106",
+            "maxTokens": 16385
+          },
+          {
+            "name": "gpt-4",
+            "maxTokens": 8192
+          },
+          {
+            "name": "gpt-4-32k",
+            "maxTokens": 32768
+          },
+          {
+            "name": "gpt-4-1106-preview",
+            "maxTokens": 128000
+          },
+          {
+            "name": "text-davinci-003",
+            "maxTokens": 4096
+          }
+        ]
+      }
+    ]
+  },
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true,
+    "addDefaultAIProviders": true
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "settings": {
+    "migrated": 5,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "😊",
+      "TiLayoutBottombarExpand",
+      "TiCake",
+      "TiDeviceProjector",
+      "TiAtom"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": false,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "debugMode": false,
+    "iconInTitlePosition": "inline"
+  },
+  "assets": {
+    "iconName": "TiFileZip",
+    "iconColor": "#8f70ff"
+  },
+  "journals": {
+    "iconName": "TiCalendarWeek",
+    "iconColor": "#ec3c3c"
+  },
+  "Things": {
+    "iconName": "TiCopyCheck",
+    "iconColor": "#3d8af0"
+  },
+  "page": {
+    "iconName": "TiFileText",
+    "iconColor": "#eba62d"
+  },
+  "background/样式预览页.md": {
+    "iconName": "TiPaint",
+    "iconColor": "#569dfb"
+  },
+  "background/项目.md": {
+    "iconName": "TiDeviceProjector",
+    "iconColor": "#7458fd"
+  },
+  "background/Template": "TiTemplate",
+  "background": {
+    "iconName": "TiPlanet",
+    "iconColor": "#65d926"
+  },
+  "Write": {
+    "iconName": "TiPencil",
+    "iconColor": "#ee5b2b"
+  },
+  "background/大看板.canvas": {
+    "iconName": "TiMap",
+    "iconColor": "#cd2c04"
+  },
+  "background/日常任务.md": {
+    "iconName": "TiInbox",
+    "iconColor": "#63e12d"
+  },
+  "background/2024年度规划与里程碑.md": {
+    "iconName": "TiTrophy",
+    "iconColor": "#c89d28"
+  },
+  "待处理区.md": "TiSunset2",
+  "background/生日及重要日.md": {
+    "iconName": "TiCake",
+    "iconColor": "#d6d7a8"
+  },
+  "page/卡片盒": {
+    "iconName": "TiLayoutBottombarExpand",
+    "iconColor": "#c4a945"
+  },
+  "开始使用.md": "😊"
+}
