@@ -5,7 +5,7 @@
 [![Last Commit](https://img.shields.io/github/last-commit/TsekaLuk/Master-Entrance-Exam)](https://github.com/TsekaLuk/Master-Entrance-Exam/commits/main)
 [![Obsidian](https://img.shields.io/badge/Built%20with-Obsidian-7C3AED?logo=obsidian&logoColor=white)](https://obsidian.md)
 
-> 目标院系：清华大学深圳国际研究生院 创新设计与未来教育方向
+> 目标院系：清华大学深圳国际研究生院 互联网+创新设计（IID）
 > 目标分数：政治 65 / 英语一 80 / 数学二 130 / 843专业课 120 = 总分 395
 
 本仓库为备考过程中在 [Obsidian](https://obsidian.md) 中整理的结构化知识图谱，包含系统性的双链笔记、公式速查表和学习框架。
