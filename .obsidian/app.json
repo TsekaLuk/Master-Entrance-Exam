@@ -1,9 +1,9 @@
 {
+  "promptDelete": false,
   "legacyEditor": false,
   "livePreview": true,
   "readableLineLength": true,
   "defaultViewMode": "preview",
   "attachmentFolderPath": "98-Assets",
-  "newFileLocation": "current",
-  "promptDelete": false
+  "newFileLocation": "current"
 }

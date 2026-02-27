@@ -1,9 +1,9 @@
 [
   "dataview",
-  "templater-obsidian",
+  "floating-toc",
+  "obsidian-icon-folder",
   "quickadd",
   "obsidian-style-settings",
-  "floating-toc",
   "obsidian-tasks-plugin",
-  "obsidian-icon-folder"
+  "templater-obsidian"
 ]
