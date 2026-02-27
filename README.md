@@ -1,5 +1,10 @@
 # 清华大学深圳国际研究生院 843 考研备考笔记
 
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![GitHub Stars](https://img.shields.io/github/stars/TsekaLuk/Master-Entrance-Exam?style=social)](https://github.com/TsekaLuk/Master-Entrance-Exam/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/TsekaLuk/Master-Entrance-Exam)](https://github.com/TsekaLuk/Master-Entrance-Exam/commits/main)
+[![Obsidian](https://img.shields.io/badge/Built%20with-Obsidian-7C3AED?logo=obsidian&logoColor=white)](https://obsidian.md)
+
 > 目标院系：清华大学深圳国际研究生院 创新设计与未来教育方向
 > 目标分数：政治 65 / 英语一 80 / 数学二 130 / 843专业课 120 = 总分 395
 
@@ -59,9 +64,15 @@ Master-Entrance-Exam/
 ## 如何使用
 
 1. 安装 [Obsidian](https://obsidian.md)（免费）
-2. 克隆本仓库
+2. 克隆本仓库：`git clone https://github.com/TsekaLuk/Master-Entrance-Exam.git`
 3. 在 Obsidian 中打开文件夹作为 Vault
-4. 推荐插件：Dataview · Calendar · Graph View
+4. 推荐插件：**Dataview** · **Templater** · Calendar · Graph View
+
+详见 [SETUP.md](SETUP.md) 获取完整初始化指南（含插件安装、框架说明、GRE词汇内容说明）。
+
+### 在线预览（Quartz）
+
+待部署：通过 [Quartz](https://quartz.jzhao.xyz/) 将笔记发布为静态网站，届时无需安装 Obsidian 即可浏览。
 
 ---
 

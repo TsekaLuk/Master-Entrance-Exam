@@ -1,0 +1,76 @@
+name: Deploy to GitHub Pages (Quartz)
+
+# 触发条件：推送到 main 分支
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:  # 允许手动触发
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# 只允许一个并发部署
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-22.04
+    steps:
+      - name: Checkout vault
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # 获取完整历史（Quartz 用于生成文件日期）
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Setup Quartz
+        run: |
+          # 克隆 Quartz 到临时目录
+          git clone --depth 1 https://github.com/jackyzha0/quartz.git /tmp/quartz
+          cd /tmp/quartz
+          npm install
+
+      - name: Copy vault content to Quartz
+        run: |
+          # 将 Obsidian vault 内容复制到 Quartz content 目录
+          # 排除不需要发布的目录（模板、附件元数据等）
+          rsync -av \
+            --exclude='.obsidian/' \
+            --exclude='.github/' \
+            --exclude='97-Templates/' \
+            --exclude='98-附件/' \
+            --exclude='.gitignore' \
+            --exclude='.gitattributes' \
+            --exclude='*.pdf' \
+            --exclude='SETUP.md' \
+            $GITHUB_WORKSPACE/ \
+            /tmp/quartz/content/
+
+      - name: Build Quartz
+        run: |
+          cd /tmp/quartz
+          npx quartz build
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: /tmp/quartz/public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

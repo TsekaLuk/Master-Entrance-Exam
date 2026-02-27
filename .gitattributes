@@ -1,0 +1,4 @@
+# 告诉 GitHub 这是一个 Markdown/文档仓库，不要计算为编程语言
+* linguist-documentation
+*.md linguist-documentation
+*.js linguist-detectable=false
