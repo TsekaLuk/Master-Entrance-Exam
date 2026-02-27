@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "df0845296e687ee8",
+        "id": "0b91b2fa6449ab45",
         "type": "tabs",
         "children": [
           {
-            "id": "65086f2f88941810",
+            "id": "d167c9f49575c1e7",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -181,8 +181,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "65086f2f88941810",
+  "active": "d167c9f49575c1e7",
   "lastOpenFiles": [
+    "00-MOC/00-学习进度总览.md",
+    "00-MOC/2026考研日历.md",
+    "未命名.canvas",
     "02-科目/英语一/知识点/词汇/单词/provident.md",
     "01-Daily/2026/02月/2026-02-16.md",
     "02-科目/专业课/知识点/技术/数据结构/05-图.md",
@@ -208,8 +211,6 @@
     "02-科目/数学/知识点/高数/13-反常积分.md",
     "02-科目/专业课/案例库/Databricks.md",
     "02-科目/专业课/案例库/Cursor.md",
-    "02-科目/专业课/案例库/ChatGPT.md",
-    "02-科目/专业课/案例库/Bubble.md",
     "02-科目/英语一/知识点/词汇/单词",
     "LICENSE",
     "02-科目/英语一/知识点/词汇/后缀",
