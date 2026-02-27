@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 词根-cap, 前缀-re]
 
 ## 同根词
 
-**词根 `cap`**：[[02-科目/英语一/知识点/词汇/单词/capricious|capricious]] · [[02-科目/英语一/知识点/词汇/单词/precipitate|precipitate]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-cap|词根 cap — 头]]**：capricious · precipitate
 
-**前缀 `re-`**：[[02-科目/英语一/知识点/词汇/单词/react|react]] · [[02-科目/英语一/知识点/词汇/单词/reactant|reactant]] · [[02-科目/英语一/知识点/词汇/单词/reactionary|reactionary]] · [[02-科目/英语一/知识点/词汇/单词/rebellious|rebellious]] · [[02-科目/英语一/知识点/词汇/单词/recipient|recipient]] · [[02-科目/英语一/知识点/词汇/单词/rescind|rescind]] · [[02-科目/英语一/知识点/词汇/单词/reconcile|reconcile]] · [[02-科目/英语一/知识点/词汇/单词/relevance|relevance]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-re|前缀 re- — 加强]]**：react · reactant · reactionary · rebellious · recipient · rescind · reconcile · relevance
 
 ---
 

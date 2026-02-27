@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 词根-tain, 前缀-re]
 
 ## 同根词
 
-**词根 `tain`**：[[02-科目/英语一/知识点/词汇/单词/abstain|abstain]] · [[02-科目/英语一/知识点/词汇/单词/abstention|abstention]] · [[02-科目/英语一/知识点/词汇/单词/sustain|sustain]] · [[02-科目/英语一/知识点/词汇/单词/sustained|sustained]] · [[02-科目/英语一/知识点/词汇/单词/tenacious|tenacious]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-tain|词根 tain — 持，拿]]**：abstain · abstention · sustain · sustained · tenacious
 
-**前缀 `re-`**：[[02-科目/英语一/知识点/词汇/单词/react|react]] · [[02-科目/英语一/知识点/词汇/单词/reactant|reactant]] · [[02-科目/英语一/知识点/词汇/单词/reactionary|reactionary]] · [[02-科目/英语一/知识点/词汇/单词/rebellious|rebellious]] · [[02-科目/英语一/知识点/词汇/单词/recapitulate|recapitulate]] · [[02-科目/英语一/知识点/词汇/单词/recipient|recipient]] · [[02-科目/英语一/知识点/词汇/单词/rescind|rescind]] · [[02-科目/英语一/知识点/词汇/单词/reconcile|reconcile]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-re|前缀 re- — 加强]]**：react · reactant · reactionary · rebellious · recapitulate · recipient · rescind · reconcile
 
 ---
 

@@ -26,11 +26,11 @@ tags: [GRE词汇, 英语, 词根-sed, 后缀-ary, 后缀-ent]
 
 ## 同根词
 
-**词根 `sed`**：[[02-科目/英语一/知识点/词汇/单词/settle|settle]] · [[02-科目/英语一/知识点/词汇/单词/settled|settled]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-sed|词根 sed — 坐]]**：settle · settled
 
-**后缀 `-ary`**：[[02-科目/英语一/知识点/词汇/单词/reactionary|reactionary]] · [[02-科目/英语一/知识点/词汇/单词/proprietary|proprietary]] · [[02-科目/英语一/知识点/词汇/单词/arbitrary|arbitrary]] · [[02-科目/英语一/知识点/词汇/单词/elementary|elementary]] · [[02-科目/英语一/知识点/词汇/单词/gregariousness|gregariousness]] · [[02-科目/英语一/知识点/词汇/单词/rudimentary|rudimentary]] · [[02-科目/英语一/知识点/词汇/单词/salutary|salutary]] · [[02-科目/英语一/知识点/词汇/单词/solitary|solitary]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ary|后缀 -ary — 形容词后缀]]**：reactionary · proprietary · arbitrary · elementary · gregariousness · rudimentary · salutary · solitary
 
-**后缀 `-ent`**：[[02-科目/英语一/知识点/词汇/单词/intransigent|intransigent]] · [[02-科目/英语一/知识点/词汇/单词/belligerent|belligerent]] · [[02-科目/英语一/知识点/词汇/单词/recipient|recipient]] · [[02-科目/英语一/知识点/词汇/单词/beneficent|beneficent]] · [[02-科目/英语一/知识点/词汇/单词/proficient|proficient]] · [[02-科目/英语一/知识点/词汇/单词/permanent|permanent]] · [[02-科目/英语一/知识点/词汇/单词/preeminent|preeminent]] · [[02-科目/英语一/知识点/词汇/单词/prominent|prominent]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ent|后缀 -ent — 形容词后缀]]**：intransigent · belligerent · recipient · beneficent · proficient · permanent · preeminent · prominent
 
 ---
 

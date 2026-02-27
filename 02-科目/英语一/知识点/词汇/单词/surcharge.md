@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 前缀-sur]
 
 ## 同根词
 
-**前缀 `sur-`**：[[02-科目/英语一/知识点/词汇/单词/surrender|surrender]] · [[02-科目/英语一/知识点/词汇/单词/surfeit|surfeit]] · [[02-科目/英语一/知识点/词汇/单词/surrogate|surrogate]] · [[02-科目/英语一/知识点/词汇/单词/surveillance|surveillance]] · [[02-科目/英语一/知识点/词汇/单词/survive|survive]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-sur|前缀 sur- — 加强]]**：surrender · surfeit · surrogate · surveillance · survive
 
 ---
 

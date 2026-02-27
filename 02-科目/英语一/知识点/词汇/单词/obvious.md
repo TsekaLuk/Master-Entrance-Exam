@@ -26,11 +26,11 @@ tags: [GRE词汇, 英语, 词根-vi, 前缀-ob, 后缀-ous]
 
 ## 同根词
 
-**词根 `vi`**：[[02-科目/英语一/知识点/词汇/单词/devious|devious]] · [[02-科目/英语一/知识点/词汇/单词/obviate|obviate]] · [[02-科目/英语一/知识点/词汇/单词/trivial|trivial]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-vi|词根 vi — 路]]**：devious · obviate · trivial
 
-**前缀 `ob-`**：[[02-科目/英语一/知识点/词汇/单词/obdurate|obdurate]] · [[02-科目/英语一/知识点/词汇/单词/observant|observant]] · [[02-科目/英语一/知识点/词汇/单词/obviate|obviate]] · [[02-科目/英语一/知识点/词汇/单词/obedient|obedient]] · [[02-科目/英语一/知识点/词汇/单词/obligation|obligation]] · [[02-科目/英语一/知识点/词汇/单词/oblique|oblique]] · [[02-科目/英语一/知识点/词汇/单词/oblivious|oblivious]] · [[02-科目/英语一/知识点/词汇/单词/obsequious|obsequious]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-ob|前缀 ob- — 加强]]**：obdurate · observant · obviate · obedient · obligation · oblique · oblivious · obsequious
 
-**后缀 `-ous`**：[[02-科目/英语一/知识点/词汇/单词/unanimous|unanimous]] · [[02-科目/英语一/知识点/词汇/单词/capricious|capricious]] · [[02-科目/英语一/知识点/词汇/单词/portentous|portentous]] · [[02-科目/英语一/知识点/词汇/单词/devious|devious]] · [[02-科目/英语一/知识点/词汇/单词/infamous|infamous]] · [[02-科目/英语一/知识点/词汇/单词/obstreperous|obstreperous]] · [[02-科目/英语一/知识点/词汇/单词/preposterous|preposterous]] · [[02-科目/英语一/知识点/词汇/单词/prodigious|prodigious]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ous|后缀 -ous — 形容词后缀]]**：unanimous · capricious · portentous · devious · infamous · obstreperous · preposterous · prodigious
 
 ---
 

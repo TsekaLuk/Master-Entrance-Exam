@@ -27,13 +27,13 @@ tags: [GRE词汇, 英语, 词根-cept, 前缀-ex, 后缀-al, 后缀-ion]
 
 ## 同根词
 
-**词根 `cept`**：[[02-科目/英语一/知识点/词汇/单词/discipline|discipline]] · [[02-科目/英语一/知识点/词汇/单词/incipient|incipient]] · [[02-科目/英语一/知识点/词汇/单词/precept|precept]] · [[02-科目/英语一/知识点/词汇/单词/recipient|recipient]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-cept|词根 cept — 拿]]**：discipline · incipient · precept · recipient
 
-**前缀 `ex-`**：[[02-科目/英语一/知识点/词汇/单词/exacting|exacting]] · [[02-科目/英语一/知识点/词汇/单词/excitability|excitability]] · [[02-科目/英语一/知识点/词汇/单词/expenditure|expenditure]] · [[02-科目/英语一/知识点/词汇/单词/extend|extend]] · [[02-科目/英语一/知识点/词汇/单词/exceed|exceed]] · [[02-科目/英语一/知识点/词汇/单词/exclusive|exclusive]] · [[02-科目/英语一/知识点/词汇/单词/exempt|exempt]] · [[02-科目/英语一/知识点/词汇/单词/expire|expire]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-ex|前缀 ex- — 出]]**：exacting · excitability · expenditure · extend · exceed · exclusive · exempt · expire
 
-**后缀 `-al`**：[[02-科目/英语一/知识点/词汇/单词/formality|formality]] · [[02-科目/英语一/知识点/词汇/单词/medieval|medieval]] · [[02-科目/英语一/知识点/词汇/单词/residual|residual]] · [[02-科目/英语一/知识点/词汇/单词/trivial|trivial]] · [[02-科目/英语一/知识点/词汇/单词/acquittal|acquittal]] · [[02-科目/英语一/知识点/词汇/单词/communal|communal]] · [[02-科目/英语一/知识点/词汇/单词/conventional|conventional]] · [[02-科目/英语一/知识点/词汇/单词/prodigal|prodigal]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-al|后缀 -al — 形容词后缀]]**：formality · medieval · residual · trivial · acquittal · communal · conventional · prodigal
 
-**后缀 `-ion`**：[[02-科目/英语一/知识点/词汇/单词/reactionary|reactionary]] · [[02-科目/英语一/知识点/词汇/单词/valediction|valediction]] · [[02-科目/英语一/知识点/词汇/单词/commotion|commotion]] · [[02-科目/英语一/知识点/词汇/单词/passionate|passionate]] · [[02-科目/英语一/知识点/词汇/单词/abstention|abstention]] · [[02-科目/英语一/知识点/词汇/单词/tension|tension]] · [[02-科目/英语一/知识点/词汇/单词/affliction|affliction]] · [[02-科目/英语一/知识点/词汇/单词/concession|concession]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ion|后缀 -ion — 名词后缀]]**：reactionary · valediction · commotion · passionate · abstention · tension · affliction · concession
 
 ---
 

@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 前缀-pan]
 
 ## 同根词
 
-**前缀 `pan-`**：[[02-科目/英语一/知识点/词汇/单词/pandemic|pandemic]] · [[02-科目/英语一/知识点/词汇/单词/pandemonium|pandemonium]] · [[02-科目/英语一/知识点/词汇/单词/panegyric|panegyric]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-pan|前缀 pan- — 全]]**：pandemic · pandemonium · panegyric
 
 ---
 

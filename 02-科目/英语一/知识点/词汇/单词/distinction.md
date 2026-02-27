@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 前缀-dis, 后缀-ion]
 
 ## 同根词
 
-**前缀 `dis-`**：[[02-科目/英语一/知识点/词汇/单词/discipline|discipline]] · [[02-科目/英语一/知识点/词汇/单词/discourse|discourse]] · [[02-科目/英语一/知识点/词汇/单词/disparage|disparage]] · [[02-科目/英语一/知识点/词汇/单词/disparate|disparate]] · [[02-科目/英语一/知识点/词汇/单词/indispensable|indispensable]] · [[02-科目/英语一/知识点/词汇/单词/dissident|dissident]] · [[02-科目/英语一/知识点/词汇/单词/diversity|diversity]] · [[02-科目/英语一/知识点/词汇/单词/discombobulated|discombobulated]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-dis|前缀 dis- — 否定]]**：discipline · discourse · disparage · disparate · indispensable · dissident · diversity · discombobulated
 
-**后缀 `-ion`**：[[02-科目/英语一/知识点/词汇/单词/reactionary|reactionary]] · [[02-科目/英语一/知识点/词汇/单词/exceptional|exceptional]] · [[02-科目/英语一/知识点/词汇/单词/valediction|valediction]] · [[02-科目/英语一/知识点/词汇/单词/commotion|commotion]] · [[02-科目/英语一/知识点/词汇/单词/passionate|passionate]] · [[02-科目/英语一/知识点/词汇/单词/abstention|abstention]] · [[02-科目/英语一/知识点/词汇/单词/tension|tension]] · [[02-科目/英语一/知识点/词汇/单词/affliction|affliction]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ion|后缀 -ion — 名词后缀]]**：reactionary · exceptional · valediction · commotion · passionate · abstention · tension · affliction
 
 ---
 

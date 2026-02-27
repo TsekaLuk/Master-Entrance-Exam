@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 前缀-contra, 后缀-ial]
 
 ## 同根词
 
-**前缀 `contra-`**：[[02-科目/英语一/知识点/词汇/单词/contradictory|contradictory]] · [[02-科目/英语一/知识点/词汇/单词/contravene|contravene]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-contra|前缀 contra- — 相反]]**：contradictory · contravene
 
-**后缀 `-ial`**：[[02-科目/英语一/知识点/词汇/单词/superficial|superficial]] · [[02-科目/英语一/知识点/词汇/单词/superficiality|superficiality]] · [[02-科目/英语一/知识点/词汇/单词/congenial|congenial]] · [[02-科目/英语一/知识点/词汇/单词/initial|initial]] · [[02-科目/英语一/知识点/词汇/单词/substantial|substantial]] · [[02-科目/英语一/知识点/词汇/单词/perennial|perennial]] · [[02-科目/英语一/知识点/词汇/单词/crucial|crucial]] · [[02-科目/英语一/知识点/词汇/单词/menial|menial]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ial|后缀 -ial — 形容词后缀]]**：superficial · superficiality · congenial · initial · substantial · perennial · crucial · menial
 
 ---
 

@@ -26,11 +26,11 @@ tags: [GRE词汇, 英语, 词根-mat, 前缀-im, 后缀-ure]
 
 ## 同根词
 
-**词根 `mat`**：[[02-科目/英语一/知识点/词汇/单词/automatic|automatic]] · [[02-科目/英语一/知识点/词汇/单词/maturity|maturity]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-mat|词根 mat — 好]]**：automatic · maturity
 
-**前缀 `im-`**：[[02-科目/英语一/知识点/词汇/单词/impassive|impassive]] · [[02-科目/英语一/知识点/词汇/单词/implacable|implacable]] · [[02-科目/英语一/知识点/词汇/单词/improvise|improvise]] · [[02-科目/英语一/知识点/词汇/单词/immune|immune]] · [[02-科目/英语一/知识点/词汇/单词/immutable|immutable]] · [[02-科目/英语一/知识点/词汇/单词/impenetrable|impenetrable]] · [[02-科目/英语一/知识点/词汇/单词/imperative|imperative]] · [[02-科目/英语一/知识点/词汇/单词/impersonate|impersonate]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-im|前缀 im- — 否定]]**：impassive · implacable · improvise · immune · immutable · impenetrable · imperative · impersonate
 
-**后缀 `-ure`**：[[02-科目/英语一/知识点/词汇/单词/censure|censure]] · [[02-科目/英语一/知识点/词汇/单词/maturity|maturity]] · [[02-科目/英语一/知识点/词汇/单词/enclosure|enclosure]] · [[02-科目/英语一/知识点/词汇/单词/indenture|indenture]] · [[02-科目/英语一/知识点/词汇/单词/featureless|featureless]] · [[02-科目/英语一/知识点/词汇/单词/overture|overture]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ure|后缀 -ure — 抽象名词后缀，表行为、结果、状态]]**：censure · maturity · enclosure · indenture · featureless · overture
 
 ---
 

@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 后缀-al, 后缀-ize]
 
 ## 同根词
 
-**后缀 `-al`**：[[02-科目/英语一/知识点/词汇/单词/exceptional|exceptional]] · [[02-科目/英语一/知识点/词汇/单词/formality|formality]] · [[02-科目/英语一/知识点/词汇/单词/medieval|medieval]] · [[02-科目/英语一/知识点/词汇/单词/residual|residual]] · [[02-科目/英语一/知识点/词汇/单词/trivial|trivial]] · [[02-科目/英语一/知识点/词汇/单词/acquittal|acquittal]] · [[02-科目/英语一/知识点/词汇/单词/communal|communal]] · [[02-科目/英语一/知识点/词汇/单词/conventional|conventional]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-al|后缀 -al — 形容词后缀]]**：exceptional · formality · medieval · residual · trivial · acquittal · communal · conventional
 
-**后缀 `-ize`**：[[02-科目/英语一/知识点/词汇/单词/apologize|apologize]] · [[02-科目/英语一/知识点/词汇/单词/aggrandize|aggrandize]] · [[02-科目/英语一/知识点/词汇/单词/antagonize|antagonize]] · [[02-科目/英语一/知识点/词汇/单词/fertilize|fertilize]] · [[02-科目/英语一/知识点/词汇/单词/jeopardize|jeopardize]] · [[02-科目/英语一/知识点/词汇/单词/monopolize|monopolize]] · [[02-科目/英语一/知识点/词汇/单词/randomize|randomize]] · [[02-科目/英语一/知识点/词汇/单词/scrutinize|scrutinize]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ize|后缀 -ize — 动词后缀]]**：apologize · aggrandize · antagonize · fertilize · jeopardize · monopolize · randomize · scrutinize
 
 ---
 

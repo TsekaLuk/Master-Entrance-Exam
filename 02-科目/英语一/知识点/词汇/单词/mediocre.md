@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 词根-med]
 
 ## 同根词
 
-**词根 `med`**：[[02-科目/英语一/知识点/词汇/单词/medieval|medieval]] · [[02-科目/英语一/知识点/词汇/单词/mediocrity|mediocrity]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-med|词根 med — 中间]]**：medieval · mediocrity
 
 ---
 

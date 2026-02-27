@@ -26,11 +26,11 @@ tags: [GRE词汇, 英语, 词根-it, 前缀-in, 后缀-ial]
 
 ## 同根词
 
-**词根 `it`**：[[02-科目/英语一/知识点/词汇/单词/inevitable|inevitable]] · [[02-科目/英语一/知识点/词汇/单词/uninitiated|uninitiated]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-it|词根 it — 走]]**：inevitable · uninitiated
 
-**前缀 `in-`**：[[02-科目/英语一/知识点/词汇/单词/intransigent|intransigent]] · [[02-科目/英语一/知识点/词汇/单词/inimical|inimical]] · [[02-科目/英语一/知识点/词汇/单词/incipient|incipient]] · [[02-科目/英语一/知识点/词汇/单词/incisive|incisive]] · [[02-科目/英语一/知识点/词汇/单词/indurate|indurate]] · [[02-科目/英语一/知识点/词汇/单词/infinite|infinite]] · [[02-科目/英语一/知识点/词汇/单词/informed|informed]] · [[02-科目/英语一/知识点/词汇/单词/ingenious|ingenious]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-in|前缀 in- — 否定]]**：intransigent · inimical · incipient · incisive · indurate · infinite · informed · ingenious
 
-**后缀 `-ial`**：[[02-科目/英语一/知识点/词汇/单词/superficial|superficial]] · [[02-科目/英语一/知识点/词汇/单词/superficiality|superficiality]] · [[02-科目/英语一/知识点/词汇/单词/congenial|congenial]] · [[02-科目/英语一/知识点/词汇/单词/substantial|substantial]] · [[02-科目/英语一/知识点/词汇/单词/controversial|controversial]] · [[02-科目/英语一/知识点/词汇/单词/perennial|perennial]] · [[02-科目/英语一/知识点/词汇/单词/crucial|crucial]] · [[02-科目/英语一/知识点/词汇/单词/menial|menial]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ial|后缀 -ial — 形容词后缀]]**：superficial · superficiality · congenial · substantial · controversial · perennial · crucial · menial
 
 ---
 

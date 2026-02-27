@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 后缀-ful]
 
 ## 同根词
 
-**后缀 `-ful`**：[[02-科目/英语一/知识点/词汇/单词/doleful|doleful]] · [[02-科目/英语一/知识点/词汇/单词/mournful|mournful]] · [[02-科目/英语一/知识点/词汇/单词/willful|willful]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ful|后缀 -ful — 形容词后缀]]**：doleful · mournful · willful
 
 ---
 

@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 词根-cept, 前缀-pre]
 
 ## 同根词
 
-**词根 `cept`**：[[02-科目/英语一/知识点/词汇/单词/discipline|discipline]] · [[02-科目/英语一/知识点/词汇/单词/exceptional|exceptional]] · [[02-科目/英语一/知识点/词汇/单词/incipient|incipient]] · [[02-科目/英语一/知识点/词汇/单词/recipient|recipient]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-cept|词根 cept — 拿]]**：discipline · exceptional · incipient · recipient
 
-**前缀 `pre-`**：[[02-科目/英语一/知识点/词汇/单词/precipitate|precipitate]] · [[02-科目/英语一/知识点/词汇/单词/precise|precise]] · [[02-科目/英语一/知识点/词汇/单词/preface|preface]] · [[02-科目/英语一/知识点/词汇/单词/preeminent|preeminent]] · [[02-科目/英语一/知识点/词汇/单词/prestige|prestige]] · [[02-科目/英语一/知识点/词汇/单词/pretentious|pretentious]] · [[02-科目/英语一/知识点/词汇/单词/preamble|preamble]] · [[02-科目/英语一/知识点/词汇/单词/preempt|preempt]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-pre|前缀 pre- — 前]]**：precipitate · precise · preface · preeminent · prestige · pretentious · preamble · preempt
 
 ---
 

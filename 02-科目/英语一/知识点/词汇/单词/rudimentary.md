@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 后缀-ary, 后缀-ment]
 
 ## 同根词
 
-**后缀 `-ary`**：[[02-科目/英语一/知识点/词汇/单词/reactionary|reactionary]] · [[02-科目/英语一/知识点/词汇/单词/proprietary|proprietary]] · [[02-科目/英语一/知识点/词汇/单词/sedentary|sedentary]] · [[02-科目/英语一/知识点/词汇/单词/arbitrary|arbitrary]] · [[02-科目/英语一/知识点/词汇/单词/elementary|elementary]] · [[02-科目/英语一/知识点/词汇/单词/gregariousness|gregariousness]] · [[02-科目/英语一/知识点/词汇/单词/salutary|salutary]] · [[02-科目/英语一/知识点/词汇/单词/solitary|solitary]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ary|后缀 -ary — 形容词后缀]]**：reactionary · proprietary · sedentary · arbitrary · elementary · gregariousness · salutary · solitary
 
-**后缀 `-ment`**：[[02-科目/英语一/知识点/词汇/单词/procurement|procurement]] · [[02-科目/英语一/知识点/词汇/单词/understatement|understatement]] · [[02-科目/英语一/知识点/词汇/单词/rapprochement|rapprochement]] · [[02-科目/英语一/知识点/词汇/单词/inclement|inclement]] · [[02-科目/英语一/知识点/词汇/单词/fundamental|fundamental]] · [[02-科目/英语一/知识点/词汇/单词/commencement|commencement]] · [[02-科目/英语一/知识点/词汇/单词/ferment|ferment]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ment|后缀 -ment — 名词后缀]]**：procurement · understatement · rapprochement · inclement · fundamental · commencement · ferment
 
 ---
 

@@ -26,11 +26,11 @@ tags: [GRE词汇, 英语, 词根-ag, 前缀-ex, 后缀-ing]
 
 ## 同根词
 
-**词根 `ag`**：[[02-科目/英语一/知识点/词汇/单词/hyperactivity|hyperactivity]] · [[02-科目/英语一/知识点/词汇/单词/intransigent|intransigent]] · [[02-科目/英语一/知识点/词汇/单词/mitigate|mitigate]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-ag|词根 ag — 做]]**：hyperactivity · intransigent · mitigate
 
-**前缀 `ex-`**：[[02-科目/英语一/知识点/词汇/单词/exceptional|exceptional]] · [[02-科目/英语一/知识点/词汇/单词/excitability|excitability]] · [[02-科目/英语一/知识点/词汇/单词/expenditure|expenditure]] · [[02-科目/英语一/知识点/词汇/单词/extend|extend]] · [[02-科目/英语一/知识点/词汇/单词/exceed|exceed]] · [[02-科目/英语一/知识点/词汇/单词/exclusive|exclusive]] · [[02-科目/英语一/知识点/词汇/单词/exempt|exempt]] · [[02-科目/英语一/知识点/词汇/单词/expire|expire]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-ex|前缀 ex- — 出]]**：exceptional · excitability · expenditure · extend · exceed · exclusive · exempt · expire
 
-**后缀 `-ing`**：[[02-科目/英语一/知识点/词汇/单词/enduring|enduring]] · [[02-科目/英语一/知识点/词汇/单词/alluring|alluring]] · [[02-科目/英语一/知识点/词汇/单词/invigorating|invigorating]] · [[02-科目/英语一/知识点/词汇/单词/arresting|arresting]] · [[02-科目/英语一/知识点/词汇/单词/cunning|cunning]] · [[02-科目/英语一/知识点/词汇/单词/everlasting|everlasting]] · [[02-科目/英语一/知识点/词汇/单词/fledging|fledging]] · [[02-科目/英语一/知识点/词汇/单词/fleeting|fleeting]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ing|后缀 -ing — 形容词后缀]]**：enduring · alluring · invigorating · arresting · cunning · everlasting · fledging · fleeting
 
 ---
 

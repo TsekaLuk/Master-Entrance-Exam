@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 词根-cit, 后缀-itude]
 
 ## 同根词
 
-**词根 `cit`**：[[02-科目/英语一/知识点/词汇/单词/cite|cite]] · [[02-科目/英语一/知识点/词汇/单词/excitability|excitability]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-cit|词根 cit — 召集]]**：cite · excitability
 
-**后缀 `-itude`**：[[02-科目/英语一/知识点/词汇/单词/servitude|servitude]] · [[02-科目/英语一/知识点/词汇/单词/substitute|substitute]] · [[02-科目/英语一/知识点/词汇/单词/ineptitude|ineptitude]] · [[02-科目/英语一/知识点/词汇/单词/lassitude|lassitude]] · [[02-科目/英语一/知识点/词汇/单词/magnitude|magnitude]] · [[02-科目/英语一/知识点/词汇/单词/platitude|platitude]] · [[02-科目/英语一/知识点/词汇/单词/plenitude|plenitude]] · [[02-科目/英语一/知识点/词汇/单词/plentitude|plentitude]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-itude|后缀 -itude — 抽象名词后缀，表性质、状态]]**：servitude · substitute · ineptitude · lassitude · magnitude · platitude · plenitude · plentitude
 
 ---
 

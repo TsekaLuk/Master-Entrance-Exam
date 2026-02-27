@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 词根-am, 后缀-able]
 
 ## 同根词
 
-**词根 `am`**：[[02-科目/英语一/知识点/词汇/单词/amateur|amateur]] · [[02-科目/英语一/知识点/词汇/单词/inimical|inimical]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-am|词根 am — 爱]]**：amateur · inimical
 
-**后缀 `-able`**：[[02-科目/英语一/知识点/词汇/单词/inevitable|inevitable]] · [[02-科目/英语一/知识点/词汇/单词/indispensable|indispensable]] · [[02-科目/英语一/知识点/词汇/单词/implacable|implacable]] · [[02-科目/英语一/知识点/词汇/单词/despicable|despicable]] · [[02-科目/英语一/知识点/词汇/单词/interminable|interminable]] · [[02-科目/英语一/知识点/词汇/单词/intractable|intractable]] · [[02-科目/英语一/知识点/词汇/单词/tractable|tractable]] · [[02-科目/英语一/知识点/词汇/单词/adaptable|adaptable]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-able|后缀 -able — 形容词后缀]]**：inevitable · indispensable · implacable · despicable · interminable · intractable · tractable · adaptable
 
 ---
 

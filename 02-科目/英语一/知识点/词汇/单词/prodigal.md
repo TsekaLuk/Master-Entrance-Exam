@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 前缀-pro, 后缀-al]
 
 ## 同根词
 
-**前缀 `pro-`**：[[02-科目/英语一/知识点/词汇/单词/procurement|procurement]] · [[02-科目/英语一/知识点/词汇/单词/proficient|proficient]] · [[02-科目/英语一/知识点/词汇/单词/prominent|prominent]] · [[02-科目/英语一/知识点/词汇/单词/propensity|propensity]] · [[02-科目/英语一/知识点/词汇/单词/proprietary|proprietary]] · [[02-科目/英语一/知识点/词汇/单词/portentous|portentous]] · [[02-科目/英语一/知识点/词汇/单词/improvise|improvise]] · [[02-科目/英语一/知识点/词汇/单词/provident|provident]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-pro|前缀 pro- — 前]]**：procurement · proficient · prominent · propensity · proprietary · portentous · improvise · provident
 
-**后缀 `-al`**：[[02-科目/英语一/知识点/词汇/单词/exceptional|exceptional]] · [[02-科目/英语一/知识点/词汇/单词/formality|formality]] · [[02-科目/英语一/知识点/词汇/单词/medieval|medieval]] · [[02-科目/英语一/知识点/词汇/单词/residual|residual]] · [[02-科目/英语一/知识点/词汇/单词/trivial|trivial]] · [[02-科目/英语一/知识点/词汇/单词/acquittal|acquittal]] · [[02-科目/英语一/知识点/词汇/单词/communal|communal]] · [[02-科目/英语一/知识点/词汇/单词/conventional|conventional]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-al|后缀 -al — 形容词后缀]]**：exceptional · formality · medieval · residual · trivial · acquittal · communal · conventional
 
 ---
 

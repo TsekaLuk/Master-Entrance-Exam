@@ -27,13 +27,13 @@ tags: [GRE词汇, 英语, 词根-ag, 前缀-in, 前缀-trans, 后缀-ent]
 
 ## 同根词
 
-**词根 `ag`**：[[02-科目/英语一/知识点/词汇/单词/hyperactivity|hyperactivity]] · [[02-科目/英语一/知识点/词汇/单词/exacting|exacting]] · [[02-科目/英语一/知识点/词汇/单词/mitigate|mitigate]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-ag|词根 ag — 做]]**：hyperactivity · exacting · mitigate
 
-**前缀 `in-`**：[[02-科目/英语一/知识点/词汇/单词/inimical|inimical]] · [[02-科目/英语一/知识点/词汇/单词/incipient|incipient]] · [[02-科目/英语一/知识点/词汇/单词/incisive|incisive]] · [[02-科目/英语一/知识点/词汇/单词/indurate|indurate]] · [[02-科目/英语一/知识点/词汇/单词/infinite|infinite]] · [[02-科目/英语一/知识点/词汇/单词/informed|informed]] · [[02-科目/英语一/知识点/词汇/单词/ingenious|ingenious]] · [[02-科目/英语一/知识点/词汇/单词/ingenuous|ingenuous]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-in|前缀 in- — 否定]]**：inimical · incipient · incisive · indurate · infinite · informed · ingenious · ingenuous
 
-**前缀 `trans-`**：[[02-科目/英语一/知识点/词汇/单词/tranquility|tranquility]] · [[02-科目/英语一/知识点/词汇/单词/transcend|transcend]] · [[02-科目/英语一/知识点/词汇/单词/transcendent|transcendent]] · [[02-科目/英语一/知识点/词汇/单词/transfer|transfer]] · [[02-科目/英语一/知识点/词汇/单词/transience|transience]] · [[02-科目/英语一/知识点/词汇/单词/transient|transient]] · [[02-科目/英语一/知识点/词汇/单词/transitory|transitory]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-trans|前缀 trans- — 穿过]]**：tranquility · transcend · transcendent · transfer · transience · transient · transitory
 
-**后缀 `-ent`**：[[02-科目/英语一/知识点/词汇/单词/belligerent|belligerent]] · [[02-科目/英语一/知识点/词汇/单词/recipient|recipient]] · [[02-科目/英语一/知识点/词汇/单词/beneficent|beneficent]] · [[02-科目/英语一/知识点/词汇/单词/proficient|proficient]] · [[02-科目/英语一/知识点/词汇/单词/permanent|permanent]] · [[02-科目/英语一/知识点/词汇/单词/preeminent|preeminent]] · [[02-科目/英语一/知识点/词汇/单词/prominent|prominent]] · [[02-科目/英语一/知识点/词汇/单词/intermittent|intermittent]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ent|后缀 -ent — 形容词后缀]]**：belligerent · recipient · beneficent · proficient · permanent · preeminent · prominent · intermittent
 
 ---
 

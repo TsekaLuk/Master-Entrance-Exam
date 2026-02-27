@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 后缀-id]
 
 ## 同根词
 
-**后缀 `-id`**：[[02-科目/英语一/知识点/词汇/单词/candid|candid]] · [[02-科目/英语一/知识点/词汇/单词/insipid|insipid]] · [[02-科目/英语一/知识点/词汇/单词/trepidation|trepidation]] · [[02-科目/英语一/知识点/词汇/单词/rigid|rigid]] · [[02-科目/英语一/知识点/词汇/单词/tepid|tepid]] · [[02-科目/英语一/知识点/词汇/单词/turgid|turgid]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-id|后缀 -id — 形容词后缀]]**：candid · insipid · trepidation · rigid · tepid · turgid
 
 ---
 

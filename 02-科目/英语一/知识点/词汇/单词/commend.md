@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 词根-mend, 前缀-com]
 
 ## 同根词
 
-**词根 `mend`**：[[02-科目/英语一/知识点/词汇/单词/amend|amend]] · [[02-科目/英语一/知识点/词汇/单词/emend|emend]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-mend|词根 mend — 错误→瑕疵]]**：amend · emend
 
-**前缀 `com-`**：[[02-科目/英语一/知识点/词汇/单词/commotion|commotion]] · [[02-科目/英语一/知识点/词汇/单词/compendium|compendium]] · [[02-科目/英语一/知识点/词汇/单词/recompense|recompense]] · [[02-科目/英语一/知识点/词汇/单词/compliant|compliant]] · [[02-科目/英语一/知识点/词汇/单词/comprehensive|comprehensive]] · [[02-科目/英语一/知识点/词汇/单词/accomplish|accomplish]] · [[02-科目/英语一/知识点/词汇/单词/communal|communal]] · [[02-科目/英语一/知识点/词汇/单词/compatible|compatible]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-com|前缀 com- — 共同]]**：commotion · compendium · recompense · compliant · comprehensive · accomplish · communal · compatible
 
 ---
 

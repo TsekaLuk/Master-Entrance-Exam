@@ -27,13 +27,13 @@ tags: [GRE词汇, 英语, 词根-st, 前缀-sub, 后缀-ant, 后缀-ive]
 
 ## 同根词
 
-**词根 `st`**：[[02-科目/英语一/知识点/词汇/单词/consistency|consistency]] · [[02-科目/英语一/知识点/词汇/单词/consistent|consistent]] · [[02-科目/英语一/知识点/词汇/单词/constant|constant]] · [[02-科目/英语一/知识点/词汇/单词/constitute|constitute]] · [[02-科目/英语一/知识点/词汇/单词/inconstancy|inconstancy]] · [[02-科目/英语一/知识点/词汇/单词/oust|oust]] · [[02-科目/英语一/知识点/词汇/单词/reinstate|reinstate]] · [[02-科目/英语一/知识点/词汇/单词/restive|restive]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-st|词根 st — 站立]]**：consistency · consistent · constant · constitute · inconstancy · oust · reinstate · restive
 
-**前缀 `sub-`**：[[02-科目/英语一/知识点/词汇/单词/submission|submission]] · [[02-科目/英语一/知识点/词汇/单词/substitute|substitute]] · [[02-科目/英语一/知识点/词汇/单词/unsubstantiated|unsubstantiated]] · [[02-科目/英语一/知识点/词汇/单词/insubordinate|insubordinate]] · [[02-科目/英语一/知识点/词汇/单词/subdue|subdue]] · [[02-科目/英语一/知识点/词汇/单词/subjugate|subjugate]] · [[02-科目/英语一/知识点/词汇/单词/sublime|sublime]] · [[02-科目/英语一/知识点/词汇/单词/subtle|subtle]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-sub|前缀 sub- — 下]]**：submission · substitute · unsubstantiated · insubordinate · subdue · subjugate · sublime · subtle
 
-**后缀 `-ant`**：[[02-科目/英语一/知识点/词汇/单词/reactant|reactant]] · [[02-科目/英语一/知识点/词汇/单词/relevant|relevant]] · [[02-科目/英语一/知识点/词汇/单词/compliant|compliant]] · [[02-科目/英语一/知识点/词汇/单词/observant|observant]] · [[02-科目/英语一/知识点/词汇/单词/significant|significant]] · [[02-科目/英语一/知识点/词汇/单词/constant|constant]] · [[02-科目/英语一/知识点/词汇/单词/substantial|substantial]] · [[02-科目/英语一/知识点/词汇/单词/unsubstantiated|unsubstantiated]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ant|后缀 -ant — 形容词后缀]]**：reactant · relevant · compliant · observant · significant · constant · substantial · unsubstantiated
 
-**后缀 `-ive`**：[[02-科目/英语一/知识点/词汇/单词/incisive|incisive]] · [[02-科目/英语一/知识点/词汇/单词/impassive|impassive]] · [[02-科目/英语一/知识点/词汇/单词/passive|passive]] · [[02-科目/英语一/知识点/词汇/单词/restive|restive]] · [[02-科目/英语一/知识点/词汇/单词/vindictive|vindictive]] · [[02-科目/英语一/知识点/词汇/单词/aggressive|aggressive]] · [[02-科目/英语一/知识点/词汇/单词/disruptive|disruptive]] · [[02-科目/英语一/知识点/词汇/单词/distinctive|distinctive]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ive|后缀 -ive — 形容词后缀]]**：incisive · impassive · passive · restive · vindictive · aggressive · disruptive · distinctive
 
 ---
 

@@ -26,11 +26,11 @@ tags: [GRE词汇, 英语, 词根-par, 前缀-dis, 后缀-age]
 
 ## 同根词
 
-**词根 `par`**：[[02-科目/英语一/知识点/词汇/单词/disparate|disparate]] · [[02-科目/英语一/知识点/词汇/单词/peer|peer]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-par|词根 par — 相等]]**：disparate · peer
 
-**前缀 `dis-`**：[[02-科目/英语一/知识点/词汇/单词/discipline|discipline]] · [[02-科目/英语一/知识点/词汇/单词/discourse|discourse]] · [[02-科目/英语一/知识点/词汇/单词/disparate|disparate]] · [[02-科目/英语一/知识点/词汇/单词/indispensable|indispensable]] · [[02-科目/英语一/知识点/词汇/单词/dissident|dissident]] · [[02-科目/英语一/知识点/词汇/单词/diversity|diversity]] · [[02-科目/英语一/知识点/词汇/单词/discombobulated|discombobulated]] · [[02-科目/英语一/知识点/词汇/单词/discomfit|discomfit]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-dis|前缀 dis- — 否定]]**：discipline · discourse · disparate · indispensable · dissident · diversity · discombobulated · discomfit
 
-**后缀 `-age`**：[[02-科目/英语一/知识点/词汇/单词/bondage|bondage]] · [[02-科目/英语一/知识点/词汇/单词/ravage|ravage]] · [[02-科目/英语一/知识点/词汇/单词/savage|savage]] · [[02-科目/英语一/知识点/词汇/单词/verbiage|verbiage]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-age|后缀 -age — 动词后缀]]**：bondage · ravage · savage · verbiage
 
 ---
 

@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 词根-pens, 前缀-ex]
 
 ## 同根词
 
-**词根 `pens`**：[[02-科目/英语一/知识点/词汇/单词/compendium|compendium]] · [[02-科目/英语一/知识点/词汇/单词/indispensable|indispensable]] · [[02-科目/英语一/知识点/词汇/单词/propensity|propensity]] · [[02-科目/英语一/知识点/词汇/单词/recompense|recompense]] · [[02-科目/英语一/知识点/词汇/单词/suspend|suspend]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-pens|词根 pens — 悬挂→拉]]**：compendium · indispensable · propensity · recompense · suspend
 
-**前缀 `ex-`**：[[02-科目/英语一/知识点/词汇/单词/exacting|exacting]] · [[02-科目/英语一/知识点/词汇/单词/exceptional|exceptional]] · [[02-科目/英语一/知识点/词汇/单词/excitability|excitability]] · [[02-科目/英语一/知识点/词汇/单词/extend|extend]] · [[02-科目/英语一/知识点/词汇/单词/exceed|exceed]] · [[02-科目/英语一/知识点/词汇/单词/exclusive|exclusive]] · [[02-科目/英语一/知识点/词汇/单词/exempt|exempt]] · [[02-科目/英语一/知识点/词汇/单词/expire|expire]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-ex|前缀 ex- — 出]]**：exacting · exceptional · excitability · extend · exceed · exclusive · exempt · expire
 
 ---
 

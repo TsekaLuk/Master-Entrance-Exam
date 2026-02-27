@@ -26,11 +26,11 @@ tags: [GRE词汇, 英语, 词根-man, 前缀-per, 后缀-ence]
 
 ## 同根词
 
-**词根 `man`**：[[02-科目/英语一/知识点/词汇/单词/manifest|manifest]] · [[02-科目/英语一/知识点/词汇/单词/manipulate|manipulate]] · [[02-科目/英语一/知识点/词汇/单词/monomania|monomania]] · [[02-科目/英语一/知识点/词汇/单词/permanent|permanent]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-man|词根 man — 保持]]**：manifest · manipulate · monomania · permanent
 
-**前缀 `per-`**：[[02-科目/英语一/知识点/词汇/单词/permanent|permanent]] · [[02-科目/英语一/知识点/词汇/单词/perquisite|perquisite]] · [[02-科目/英语一/知识点/词汇/单词/perspicacious|perspicacious]] · [[02-科目/英语一/知识点/词汇/单词/imperative|imperative]] · [[02-科目/英语一/知识点/词汇/单词/perennial|perennial]] · [[02-科目/英语一/知识点/词汇/单词/perfunctory|perfunctory]] · [[02-科目/英语一/知识点/词汇/单词/permeable|permeable]] · [[02-科目/英语一/知识点/词汇/单词/peroration|peroration]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-per|前缀 per- — 始终]]**：permanent · perquisite · perspicacious · imperative · perennial · perfunctory · permeable · peroration
 
-**后缀 `-ence`**：[[02-科目/英语一/知识点/词汇/单词/negligence|negligence]] · [[02-科目/英语一/知识点/词汇/单词/eminence|eminence]] · [[02-科目/英语一/知识点/词汇/单词/complacency|complacency]] · [[02-科目/英语一/知识点/词汇/单词/consequence|consequence]] · [[02-科目/英语一/知识点/词汇/单词/innocence|innocence]] · [[02-科目/英语一/知识点/词汇/单词/persistence|persistence]] · [[02-科目/英语一/知识点/词汇/单词/transience|transience]] · [[02-科目/英语一/知识点/词汇/单词/commencement|commencement]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ence|后缀 -ence — 名词后缀]]**：negligence · eminence · complacency · consequence · innocence · persistence · transience · commencement
 
 ---
 

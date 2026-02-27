@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 后缀-ian]
 
 ## 同根词
 
-**后缀 `-ian`**：[[02-科目/英语一/知识点/词汇/单词/utopian|utopian]] · [[02-科目/英语一/知识点/词汇/单词/utilitarian|utilitarian]] · [[02-科目/英语一/知识点/词汇/单词/pedestrian|pedestrian]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ian|后缀 -ian — 形容词后缀]]**：utopian · utilitarian · pedestrian
 
 ---
 

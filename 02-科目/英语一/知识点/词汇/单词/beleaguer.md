@@ -26,11 +26,11 @@ tags: [GRE词汇, 英语, 词根-lect, 前缀-be, 后缀-er]
 
 ## 同根词
 
-**词根 `lect`**：[[02-科目/英语一/知识点/词汇/单词/eclectic|eclectic]] · [[02-科目/英语一/知识点/词汇/单词/negligence|negligence]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-lect|词根 lect — 集合，选择]]**：eclectic · negligence
 
-**前缀 `be-`**：[[02-科目/英语一/知识点/词汇/单词/beset|beset]] · [[02-科目/英语一/知识点/词汇/单词/begrudge|begrudge]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-be|前缀 be- — 在]]**：beset · begrudge
 
-**后缀 `-er`**：[[02-科目/英语一/知识点/词汇/单词/generosity|generosity]] · [[02-科目/英语一/知识点/词汇/单词/insider|insider]] · [[02-科目/英语一/知识点/词汇/单词/obstreperous|obstreperous]] · [[02-科目/英语一/知识点/词汇/单词/preposterous|preposterous]] · [[02-科目/英语一/知识点/词汇/单词/unlettered|unlettered]] · [[02-科目/英语一/知识点/词汇/单词/vulnerable|vulnerable]] · [[02-科目/英语一/知识点/词汇/单词/flustered|flustered]] · [[02-科目/英语一/知识点/词汇/单词/badger|badger]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-er|后缀 -er — 名词后缀]]**：generosity · insider · obstreperous · preposterous · unlettered · vulnerable · flustered · badger
 
 ---
 

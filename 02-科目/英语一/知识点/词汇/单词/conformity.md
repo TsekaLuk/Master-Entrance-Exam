@@ -26,11 +26,11 @@ tags: [GRE词汇, 英语, 词根-form, 前缀-con, 后缀-ity]
 
 ## 同根词
 
-**词根 `form`**：[[02-科目/英语一/知识点/词汇/单词/conform|conform]] · [[02-科目/英语一/知识点/词汇/单词/formality|formality]] · [[02-科目/英语一/知识点/词汇/单词/informed|informed]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-form|词根 form — 形状]]**：conform · formality · informed
 
-**前缀 `con-`**：[[02-科目/英语一/知识点/词汇/单词/conciliate|conciliate]] · [[02-科目/英语一/知识点/词汇/单词/conciliatory|conciliatory]] · [[02-科目/英语一/知识点/词汇/单词/reconcile|reconcile]] · [[02-科目/英语一/知识点/词汇/单词/conform|conform]] · [[02-科目/英语一/知识点/词汇/单词/congenial|congenial]] · [[02-科目/英语一/知识点/词汇/单词/conquer|conquer]] · [[02-科目/英语一/知识点/词汇/单词/conquest|conquest]] · [[02-科目/英语一/知识点/词汇/单词/conservative|conservative]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-con|前缀 con- — 共同]]**：conciliate · conciliatory · reconcile · conform · congenial · conquer · conquest · conservative
 
-**后缀 `-ity`**：[[02-科目/英语一/知识点/词汇/单词/hyperactivity|hyperactivity]] · [[02-科目/英语一/知识点/词汇/单词/equanimity|equanimity]] · [[02-科目/英语一/知识点/词汇/单词/superficiality|superficiality]] · [[02-科目/英语一/知识点/词汇/单词/formality|formality]] · [[02-科目/英语一/知识点/词汇/单词/generosity|generosity]] · [[02-科目/英语一/知识点/词汇/单词/levity|levity]] · [[02-科目/英语一/知识点/词汇/单词/maturity|maturity]] · [[02-科目/英语一/知识点/词汇/单词/mediocrity|mediocrity]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ity|后缀 -ity — 名词后缀]]**：hyperactivity · equanimity · superficiality · formality · generosity · levity · maturity · mediocrity
 
 ---
 

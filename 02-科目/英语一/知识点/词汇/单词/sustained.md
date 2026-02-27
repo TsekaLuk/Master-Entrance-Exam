@@ -26,11 +26,11 @@ tags: [GRE词汇, 英语, 词根-tain, 前缀-sus, 后缀-ed]
 
 ## 同根词
 
-**词根 `tain`**：[[02-科目/英语一/知识点/词汇/单词/abstain|abstain]] · [[02-科目/英语一/知识点/词汇/单词/abstention|abstention]] · [[02-科目/英语一/知识点/词汇/单词/retain|retain]] · [[02-科目/英语一/知识点/词汇/单词/sustain|sustain]] · [[02-科目/英语一/知识点/词汇/单词/tenacious|tenacious]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-tain|词根 tain — 持，拿]]**：abstain · abstention · retain · sustain · tenacious
 
-**前缀 `sus-`**：[[02-科目/英语一/知识点/词汇/单词/suspend|suspend]] · [[02-科目/英语一/知识点/词汇/单词/sustain|sustain]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-sus|前缀 sus- — 加强]]**：suspend · sustain
 
-**后缀 `-ed`**：[[02-科目/英语一/知识点/词汇/单词/informed|informed]] · [[02-科目/英语一/知识点/词汇/单词/settled|settled]] · [[02-科目/英语一/知识点/词汇/单词/unsubstantiated|unsubstantiated]] · [[02-科目/英语一/知识点/词汇/单词/versed|versed]] · [[02-科目/英语一/知识点/词汇/单词/discombobulated|discombobulated]] · [[02-科目/英语一/知识点/词汇/单词/concerted|concerted]] · [[02-科目/英语一/知识点/词汇/单词/convoluted|convoluted]] · [[02-科目/英语一/知识点/词汇/单词/disinterested|disinterested]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ed|后缀 -ed — 形容词后缀]]**：informed · settled · unsubstantiated · versed · discombobulated · concerted · convoluted · disinterested
 
 ---
 

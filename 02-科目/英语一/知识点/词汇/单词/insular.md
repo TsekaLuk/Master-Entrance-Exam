@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 后缀-ar]
 
 ## 同根词
 
-**后缀 `-ar`**：[[02-科目/英语一/知识点/词汇/单词/familiarity|familiarity]] · [[02-科目/英语一/知识点/词汇/单词/precarious|precarious]] · [[02-科目/英语一/知识点/词汇/单词/singularity|singularity]] · [[02-科目/英语一/知识点/词汇/单词/utilitarian|utilitarian]] · [[02-科目/英语一/知识点/词汇/单词/vicarious|vicarious]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ar|后缀 -ar — 形容词后缀]]**：familiarity · precarious · singularity · utilitarian · vicarious
 
 ---
 

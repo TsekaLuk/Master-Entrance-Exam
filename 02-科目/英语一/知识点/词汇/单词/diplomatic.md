@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 后缀-tic]
 
 ## 同根词
 
-**后缀 `-tic`**：[[02-科目/英语一/知识点/词汇/单词/antibiotic|antibiotic]] · [[02-科目/英语一/知识点/词汇/单词/exotic|exotic]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-tic|后缀 -tic — 形容词后缀]]**：antibiotic · exotic
 
 ---
 

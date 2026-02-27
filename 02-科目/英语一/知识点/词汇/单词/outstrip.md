@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 前缀-out]
 
 ## 同根词
 
-**前缀 `out-`**：[[02-科目/英语一/知识点/词汇/单词/outset|outset]] · [[02-科目/英语一/知识点/词汇/单词/outlandish|outlandish]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-out|前缀 out- — 出来]]**：outset · outlandish
 
 ---
 

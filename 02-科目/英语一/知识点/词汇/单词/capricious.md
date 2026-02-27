@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 词根-cap, 后缀-ous]
 
 ## 同根词
 
-**词根 `cap`**：[[02-科目/英语一/知识点/词汇/单词/precipitate|precipitate]] · [[02-科目/英语一/知识点/词汇/单词/recapitulate|recapitulate]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-cap|词根 cap — 头]]**：precipitate · recapitulate
 
-**后缀 `-ous`**：[[02-科目/英语一/知识点/词汇/单词/unanimous|unanimous]] · [[02-科目/英语一/知识点/词汇/单词/portentous|portentous]] · [[02-科目/英语一/知识点/词汇/单词/devious|devious]] · [[02-科目/英语一/知识点/词汇/单词/obvious|obvious]] · [[02-科目/英语一/知识点/词汇/单词/infamous|infamous]] · [[02-科目/英语一/知识点/词汇/单词/obstreperous|obstreperous]] · [[02-科目/英语一/知识点/词汇/单词/preposterous|preposterous]] · [[02-科目/英语一/知识点/词汇/单词/prodigious|prodigious]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ous|后缀 -ous — 形容词后缀]]**：unanimous · portentous · devious · obvious · infamous · obstreperous · preposterous · prodigious
 
 ---
 

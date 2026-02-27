@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 前缀-an, 后缀-ation]
 
 ## 同根词
 
-**前缀 `an-`**：[[02-科目/英语一/知识点/词汇/单词/anarchy|anarchy]] · [[02-科目/英语一/知识点/词汇/单词/annul|annul]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-an|前缀 an- — 无]]**：anarchy · annul
 
-**后缀 `-ation`**：[[02-科目/英语一/知识点/词汇/单词/duration|duration]] · [[02-科目/英语一/知识点/词汇/单词/deprivation|deprivation]] · [[02-科目/英语一/知识点/词汇/单词/indignation|indignation]] · [[02-科目/英语一/知识点/词汇/单词/resignation|resignation]] · [[02-科目/英语一/知识点/词汇/单词/ostentation|ostentation]] · [[02-科目/英语一/知识点/词汇/单词/provocation|provocation]] · [[02-科目/英语一/知识点/词汇/单词/aspiration|aspiration]] · [[02-科目/英语一/知识点/词汇/单词/deterioration|deterioration]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ation|后缀 -ation — 名词后缀]]**：duration · deprivation · indignation · resignation · ostentation · provocation · aspiration · deterioration
 
 ---
 

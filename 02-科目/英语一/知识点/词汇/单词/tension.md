@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 词根-tend, 后缀-ion]
 
 ## 同根词
 
-**词根 `tend`**：[[02-科目/英语一/知识点/词汇/单词/ostentation|ostentation]] · [[02-科目/英语一/知识点/词汇/单词/tendentious|tendentious]] · [[02-科目/英语一/知识点/词汇/单词/tentative|tentative]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-tend|词根 tend — 伸展→试探]]**：ostentation · tendentious · tentative
 
-**后缀 `-ion`**：[[02-科目/英语一/知识点/词汇/单词/reactionary|reactionary]] · [[02-科目/英语一/知识点/词汇/单词/exceptional|exceptional]] · [[02-科目/英语一/知识点/词汇/单词/valediction|valediction]] · [[02-科目/英语一/知识点/词汇/单词/commotion|commotion]] · [[02-科目/英语一/知识点/词汇/单词/passionate|passionate]] · [[02-科目/英语一/知识点/词汇/单词/abstention|abstention]] · [[02-科目/英语一/知识点/词汇/单词/affliction|affliction]] · [[02-科目/英语一/知识点/词汇/单词/concession|concession]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ion|后缀 -ion — 名词后缀]]**：reactionary · exceptional · valediction · commotion · passionate · abstention · affliction · concession
 
 ---
 

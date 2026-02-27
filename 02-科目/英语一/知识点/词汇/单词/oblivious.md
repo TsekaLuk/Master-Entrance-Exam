@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 前缀-ob, 后缀-ious]
 
 ## 同根词
 
-**前缀 `ob-`**：[[02-科目/英语一/知识点/词汇/单词/obdurate|obdurate]] · [[02-科目/英语一/知识点/词汇/单词/observant|observant]] · [[02-科目/英语一/知识点/词汇/单词/obviate|obviate]] · [[02-科目/英语一/知识点/词汇/单词/obvious|obvious]] · [[02-科目/英语一/知识点/词汇/单词/obedient|obedient]] · [[02-科目/英语一/知识点/词汇/单词/obligation|obligation]] · [[02-科目/英语一/知识点/词汇/单词/oblique|oblique]] · [[02-科目/英语一/知识点/词汇/单词/obsequious|obsequious]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-ob|前缀 ob- — 加强]]**：obdurate · observant · obviate · obvious · obedient · obligation · oblique · obsequious
 
-**后缀 `-ious`**：[[02-科目/英语一/知识点/词汇/单词/magnanimous|magnanimous]] · [[02-科目/英语一/知识点/词汇/单词/rebellious|rebellious]] · [[02-科目/英语一/知识点/词汇/单词/ingenious|ingenious]] · [[02-科目/英语一/知识点/词汇/单词/perspicacious|perspicacious]] · [[02-科目/英语一/知识点/词汇/单词/tendentious|tendentious]] · [[02-科目/英语一/知识点/词汇/单词/pretentious|pretentious]] · [[02-科目/英语一/知识点/词汇/单词/obsequious|obsequious]] · [[02-科目/英语一/知识点/词汇/单词/vivacious|vivacious]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ious|后缀 -ious — 形容词后缀]]**：magnanimous · rebellious · ingenious · perspicacious · tendentious · pretentious · obsequious · vivacious
 
 ---
 

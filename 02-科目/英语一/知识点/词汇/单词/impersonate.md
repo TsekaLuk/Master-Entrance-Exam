@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 前缀-im, 后缀-ate]
 
 ## 同根词
 
-**前缀 `im-`**：[[02-科目/英语一/知识点/词汇/单词/immature|immature]] · [[02-科目/英语一/知识点/词汇/单词/impassive|impassive]] · [[02-科目/英语一/知识点/词汇/单词/implacable|implacable]] · [[02-科目/英语一/知识点/词汇/单词/improvise|improvise]] · [[02-科目/英语一/知识点/词汇/单词/immune|immune]] · [[02-科目/英语一/知识点/词汇/单词/immutable|immutable]] · [[02-科目/英语一/知识点/词汇/单词/impenetrable|impenetrable]] · [[02-科目/英语一/知识点/词汇/单词/imperative|imperative]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-im|前缀 im- — 否定]]**：immature · impassive · implacable · improvise · immune · immutable · impenetrable · imperative
 
-**后缀 `-ate`**：[[02-科目/英语一/知识点/词汇/单词/agitate|agitate]] · [[02-科目/英语一/知识点/词汇/单词/mitigate|mitigate]] · [[02-科目/英语一/知识点/词汇/单词/precipitate|precipitate]] · [[02-科目/英语一/知识点/词汇/单词/conciliate|conciliate]] · [[02-科目/英语一/知识点/词汇/单词/abdicate|abdicate]] · [[02-科目/英语一/知识点/词汇/单词/vindicate|vindicate]] · [[02-科目/英语一/知识点/词汇/单词/indurate|indurate]] · [[02-科目/英语一/知识点/词汇/单词/obdurate|obdurate]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ate|后缀 -ate — 动词后缀]]**：agitate · mitigate · precipitate · conciliate · abdicate · vindicate · indurate · obdurate
 
 ---
 

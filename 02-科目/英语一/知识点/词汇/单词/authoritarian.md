@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 后缀-or]
 
 ## 同根词
 
-**后缀 `-or`**：[[02-科目/英语一/知识点/词汇/单词/amateur|amateur]] · [[02-科目/英语一/知识点/词汇/单词/candor|candor]] · [[02-科目/英语一/知识点/词汇/单词/temporal|temporal]] · [[02-科目/英语一/知识点/词汇/单词/meteoric|meteoric]] · [[02-科目/英语一/知识点/词汇/单词/authority|authority]] · [[02-科目/英语一/知识点/词汇/单词/moratorium|moratorium]] · [[02-科目/英语一/知识点/词汇/单词/fervor|fervor]] · [[02-科目/英语一/知识点/词汇/单词/rigor|rigor]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-or|后缀 -or — 名词后缀]]**：amateur · candor · temporal · meteoric · authority · moratorium · fervor · rigor
 
 ---
 

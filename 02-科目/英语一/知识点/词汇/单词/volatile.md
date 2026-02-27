@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 后缀-ile]
 
 ## 同根词
 
-**后缀 `-ile`**：[[02-科目/英语一/知识点/词汇/单词/mobile|mobile]] · [[02-科目/英语一/知识点/词汇/单词/servile|servile]] · [[02-科目/英语一/知识点/词汇/单词/versatile|versatile]] · [[02-科目/英语一/知识点/词汇/单词/docile|docile]] · [[02-科目/英语一/知识点/词汇/单词/fertile|fertile]] · [[02-科目/英语一/知识点/词汇/单词/hostility|hostility]] · [[02-科目/英语一/知识点/词汇/单词/juvenile|juvenile]] · [[02-科目/英语一/知识点/词汇/单词/labile|labile]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ile|后缀 -ile — 形容词后缀]]**：mobile · servile · versatile · docile · fertile · hostility · juvenile · labile
 
 ---
 

@@ -26,11 +26,11 @@ tags: [GRE词汇, 英语, 词根-ag, 词根-mit, 后缀-ate]
 
 ## 同根词
 
-**词根 `ag`**：[[02-科目/英语一/知识点/词汇/单词/hyperactivity|hyperactivity]] · [[02-科目/英语一/知识点/词汇/单词/exacting|exacting]] · [[02-科目/英语一/知识点/词汇/单词/intransigent|intransigent]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-ag|词根 ag — 做]]**：hyperactivity · exacting · intransigent
 
-**词根 `mit`**：[[02-科目/英语一/知识点/词汇/单词/intermittent|intermittent]] · [[02-科目/英语一/知识点/词汇/单词/submission|submission]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-mit|词根 mit — 投掷→发送]]**：intermittent · submission
 
-**后缀 `-ate`**：[[02-科目/英语一/知识点/词汇/单词/agitate|agitate]] · [[02-科目/英语一/知识点/词汇/单词/precipitate|precipitate]] · [[02-科目/英语一/知识点/词汇/单词/conciliate|conciliate]] · [[02-科目/英语一/知识点/词汇/单词/abdicate|abdicate]] · [[02-科目/英语一/知识点/词汇/单词/vindicate|vindicate]] · [[02-科目/英语一/知识点/词汇/单词/indurate|indurate]] · [[02-科目/英语一/知识点/词汇/单词/obdurate|obdurate]] · [[02-科目/英语一/知识点/词汇/单词/alleviate|alleviate]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ate|后缀 -ate — 动词后缀]]**：agitate · precipitate · conciliate · abdicate · vindicate · indurate · obdurate · alleviate
 
 ---
 

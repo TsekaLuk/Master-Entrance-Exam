@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 前缀-in, 后缀-ence]
 
 ## 同根词
 
-**前缀 `in-`**：[[02-科目/英语一/知识点/词汇/单词/intransigent|intransigent]] · [[02-科目/英语一/知识点/词汇/单词/inimical|inimical]] · [[02-科目/英语一/知识点/词汇/单词/incipient|incipient]] · [[02-科目/英语一/知识点/词汇/单词/incisive|incisive]] · [[02-科目/英语一/知识点/词汇/单词/indurate|indurate]] · [[02-科目/英语一/知识点/词汇/单词/infinite|infinite]] · [[02-科目/英语一/知识点/词汇/单词/informed|informed]] · [[02-科目/英语一/知识点/词汇/单词/ingenious|ingenious]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-in|前缀 in- — 否定]]**：intransigent · inimical · incipient · incisive · indurate · infinite · informed · ingenious
 
-**后缀 `-ence`**：[[02-科目/英语一/知识点/词汇/单词/negligence|negligence]] · [[02-科目/英语一/知识点/词汇/单词/permanence|permanence]] · [[02-科目/英语一/知识点/词汇/单词/eminence|eminence]] · [[02-科目/英语一/知识点/词汇/单词/complacency|complacency]] · [[02-科目/英语一/知识点/词汇/单词/consequence|consequence]] · [[02-科目/英语一/知识点/词汇/单词/persistence|persistence]] · [[02-科目/英语一/知识点/词汇/单词/transience|transience]] · [[02-科目/英语一/知识点/词汇/单词/commencement|commencement]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ence|后缀 -ence — 名词后缀]]**：negligence · permanence · eminence · complacency · consequence · persistence · transience · commencement
 
 ---
 

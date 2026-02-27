@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 后缀-ite]
 
 ## 同根词
 
-**后缀 `-ite`**：[[02-科目/英语一/知识点/词汇/单词/definite|definite]] · [[02-科目/英语一/知识点/词汇/单词/finite|finite]] · [[02-科目/英语一/知识点/词汇/单词/infinite|infinite]] · [[02-科目/英语一/知识点/词汇/单词/perquisite|perquisite]] · [[02-科目/英语一/知识点/词汇/单词/erudite|erudite]] · [[02-科目/英语一/知识点/词汇/单词/sybarite|sybarite]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ite|后缀 -ite — 动词后缀]]**：definite · finite · infinite · perquisite · erudite · sybarite
 
 ---
 

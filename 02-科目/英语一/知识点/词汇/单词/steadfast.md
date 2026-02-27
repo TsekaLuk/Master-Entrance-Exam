@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 词根-st]
 
 ## 同根词
 
-**词根 `st`**：[[02-科目/英语一/知识点/词汇/单词/consistency|consistency]] · [[02-科目/英语一/知识点/词汇/单词/consistent|consistent]] · [[02-科目/英语一/知识点/词汇/单词/constant|constant]] · [[02-科目/英语一/知识点/词汇/单词/constitute|constitute]] · [[02-科目/英语一/知识点/词汇/单词/inconstancy|inconstancy]] · [[02-科目/英语一/知识点/词汇/单词/oust|oust]] · [[02-科目/英语一/知识点/词汇/单词/reinstate|reinstate]] · [[02-科目/英语一/知识点/词汇/单词/restive|restive]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-st|词根 st — 站立]]**：consistency · consistent · constant · constitute · inconstancy · oust · reinstate · restive
 
 ---
 

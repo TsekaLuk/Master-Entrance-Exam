@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 前缀-de, 后缀-ance]
 
 ## 同根词
 
-**前缀 `de-`**：[[02-科目/英语一/知识点/词汇/单词/definite|definite]] · [[02-科目/英语一/知识点/词汇/单词/definitive|definitive]] · [[02-科目/英语一/知识点/词汇/单词/deprivation|deprivation]] · [[02-科目/英语一/知识点/词汇/单词/despicable|despicable]] · [[02-科目/英语一/知识点/词汇/单词/indeterminate|indeterminate]] · [[02-科目/英语一/知识点/词汇/单词/devious|devious]] · [[02-科目/英语一/知识点/词汇/单词/debate|debate]] · [[02-科目/英语一/知识点/词汇/单词/debonair|debonair]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-de|前缀 de- — 加强]]**：definite · definitive · deprivation · despicable · indeterminate · devious · debate · debonair
 
-**后缀 `-ance`**：[[02-科目/英语一/知识点/词汇/单词/relevance|relevance]] · [[02-科目/英语一/知识点/词汇/单词/dissonance|dissonance]] · [[02-科目/英语一/知识点/词汇/单词/exuberance|exuberance]] · [[02-科目/英语一/知识点/词汇/单词/forbearance|forbearance]] · [[02-科目/英语一/知识点/词汇/单词/reliance|reliance]] · [[02-科目/英语一/知识点/词汇/单词/surveillance|surveillance]] · [[02-科目/英语一/知识点/词汇/单词/extravagance|extravagance]] · [[02-科目/英语一/知识点/词汇/单词/nuance|nuance]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ance|后缀 -ance — 名词后缀]]**：relevance · dissonance · exuberance · forbearance · reliance · surveillance · extravagance · nuance
 
 ---
 

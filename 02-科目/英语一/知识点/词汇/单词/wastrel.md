@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 后缀-el]
 
 ## 同根词
 
-**后缀 `-el`**：[[02-科目/英语一/知识点/词汇/单词/novel|novel]] · [[02-科目/英语一/知识点/词汇/单词/kernel|kernel]] · [[02-科目/英语一/知识点/词汇/单词/marvel|marvel]] · [[02-科目/英语一/知识点/词汇/单词/morsel|morsel]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-el|后缀 -el — 形容词后缀]]**：novel · kernel · marvel · morsel
 
 ---
 

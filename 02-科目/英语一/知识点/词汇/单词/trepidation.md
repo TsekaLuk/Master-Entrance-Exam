@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 后缀-ation, 后缀-id]
 
 ## 同根词
 
-**后缀 `-ation`**：[[02-科目/英语一/知识点/词汇/单词/duration|duration]] · [[02-科目/英语一/知识点/词汇/单词/deprivation|deprivation]] · [[02-科目/英语一/知识点/词汇/单词/indignation|indignation]] · [[02-科目/英语一/知识点/词汇/单词/resignation|resignation]] · [[02-科目/英语一/知识点/词汇/单词/ostentation|ostentation]] · [[02-科目/英语一/知识点/词汇/单词/provocation|provocation]] · [[02-科目/英语一/知识点/词汇/单词/aspiration|aspiration]] · [[02-科目/英语一/知识点/词汇/单词/annexation|annexation]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ation|后缀 -ation — 名词后缀]]**：duration · deprivation · indignation · resignation · ostentation · provocation · aspiration · annexation
 
-**后缀 `-id`**：[[02-科目/英语一/知识点/词汇/单词/candid|candid]] · [[02-科目/英语一/知识点/词汇/单词/insipid|insipid]] · [[02-科目/英语一/知识点/词汇/单词/rigid|rigid]] · [[02-科目/英语一/知识点/词汇/单词/tepid|tepid]] · [[02-科目/英语一/知识点/词汇/单词/turgid|turgid]] · [[02-科目/英语一/知识点/词汇/单词/vapid|vapid]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-id|后缀 -id — 形容词后缀]]**：candid · insipid · rigid · tepid · turgid · vapid
 
 ---
 

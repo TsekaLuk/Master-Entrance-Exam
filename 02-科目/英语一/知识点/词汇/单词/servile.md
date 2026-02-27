@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 词根-serv, 后缀-ile]
 
 ## 同根词
 
-**词根 `serv`**：[[02-科目/英语一/知识点/词汇/单词/conservative|conservative]] · [[02-科目/英语一/知识点/词汇/单词/observant|observant]] · [[02-科目/英语一/知识点/词汇/单词/servitude|servitude]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-serv|词根 serv — 保持]]**：conservative · observant · servitude
 
-**后缀 `-ile`**：[[02-科目/英语一/知识点/词汇/单词/mobile|mobile]] · [[02-科目/英语一/知识点/词汇/单词/versatile|versatile]] · [[02-科目/英语一/知识点/词汇/单词/docile|docile]] · [[02-科目/英语一/知识点/词汇/单词/fertile|fertile]] · [[02-科目/英语一/知识点/词汇/单词/hostility|hostility]] · [[02-科目/英语一/知识点/词汇/单词/juvenile|juvenile]] · [[02-科目/英语一/知识点/词汇/单词/labile|labile]] · [[02-科目/英语一/知识点/词汇/单词/puerile|puerile]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ile|后缀 -ile — 形容词后缀]]**：mobile · versatile · docile · fertile · hostility · juvenile · labile · puerile
 
 ---
 

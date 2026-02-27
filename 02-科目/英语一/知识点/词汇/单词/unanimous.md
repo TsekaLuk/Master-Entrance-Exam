@@ -26,11 +26,11 @@ tags: [GRE词汇, 英语, 词根-anim, 前缀-un, 后缀-ous]
 
 ## 同根词
 
-**词根 `anim`**：[[02-科目/英语一/知识点/词汇/单词/equanimity|equanimity]] · [[02-科目/英语一/知识点/词汇/单词/magnanimous|magnanimous]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-anim|词根 anim — 心智]]**：equanimity · magnanimous
 
-**前缀 `un-`**：[[02-科目/英语一/知识点/词汇/单词/uninitiated|uninitiated]] · [[02-科目/英语一/知识点/词汇/单词/unsubstantiated|unsubstantiated]] · [[02-科目/英语一/知识点/词汇/单词/unassailable|unassailable]] · [[02-科目/英语一/知识点/词汇/单词/unconscionable|unconscionable]] · [[02-科目/英语一/知识点/词汇/单词/unprecedented|unprecedented]] · [[02-科目/英语一/知识点/词汇/单词/unearthly|unearthly]] · [[02-科目/英语一/知识点/词汇/单词/unfasten|unfasten]] · [[02-科目/英语一/知识点/词汇/单词/ungainly|ungainly]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-un|前缀 un- — 否定]]**：uninitiated · unsubstantiated · unassailable · unconscionable · unprecedented · unearthly · unfasten · ungainly
 
-**后缀 `-ous`**：[[02-科目/英语一/知识点/词汇/单词/capricious|capricious]] · [[02-科目/英语一/知识点/词汇/单词/portentous|portentous]] · [[02-科目/英语一/知识点/词汇/单词/devious|devious]] · [[02-科目/英语一/知识点/词汇/单词/obvious|obvious]] · [[02-科目/英语一/知识点/词汇/单词/infamous|infamous]] · [[02-科目/英语一/知识点/词汇/单词/obstreperous|obstreperous]] · [[02-科目/英语一/知识点/词汇/单词/preposterous|preposterous]] · [[02-科目/英语一/知识点/词汇/单词/prodigious|prodigious]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ous|后缀 -ous — 形容词后缀]]**：capricious · portentous · devious · obvious · infamous · obstreperous · preposterous · prodigious
 
 ---
 

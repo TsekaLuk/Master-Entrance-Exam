@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 前缀-ob, 后缀-acy]
 
 ## 同根词
 
-**前缀 `ob-`**：[[02-科目/英语一/知识点/词汇/单词/obdurate|obdurate]] · [[02-科目/英语一/知识点/词汇/单词/observant|observant]] · [[02-科目/英语一/知识点/词汇/单词/obviate|obviate]] · [[02-科目/英语一/知识点/词汇/单词/obvious|obvious]] · [[02-科目/英语一/知识点/词汇/单词/obedient|obedient]] · [[02-科目/英语一/知识点/词汇/单词/obligation|obligation]] · [[02-科目/英语一/知识点/词汇/单词/oblique|oblique]] · [[02-科目/英语一/知识点/词汇/单词/oblivious|oblivious]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-ob|前缀 ob- — 加强]]**：obdurate · observant · obviate · obvious · obedient · obligation · oblique · oblivious
 
-**后缀 `-acy`**：[[02-科目/英语一/知识点/词汇/单词/delicacy|delicacy]] · [[02-科目/英语一/知识点/词汇/单词/supremacy|supremacy]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-acy|后缀 -acy — 名词后缀]]**：delicacy · supremacy
 
 ---
 

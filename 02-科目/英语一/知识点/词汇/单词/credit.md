@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 后缀-it]
 
 ## 同根词
 
-**后缀 `-it`**：[[02-科目/英语一/知识点/词汇/单词/implicit|implicit]] · [[02-科目/英语一/知识点/词汇/单词/circuitous|circuitous]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-it|后缀 -it — 名词后缀]]**：implicit · circuitous
 
 ---
 

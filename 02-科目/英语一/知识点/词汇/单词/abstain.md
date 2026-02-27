@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 词根-tain]
 
 ## 同根词
 
-**词根 `tain`**：[[02-科目/英语一/知识点/词汇/单词/abstention|abstention]] · [[02-科目/英语一/知识点/词汇/单词/retain|retain]] · [[02-科目/英语一/知识点/词汇/单词/sustain|sustain]] · [[02-科目/英语一/知识点/词汇/单词/sustained|sustained]] · [[02-科目/英语一/知识点/词汇/单词/tenacious|tenacious]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-tain|词根 tain — 持，拿]]**：abstention · retain · sustain · sustained · tenacious
 
 ---
 

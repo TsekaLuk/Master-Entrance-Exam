@@ -26,11 +26,11 @@ tags: [GRE词汇, 英语, 词根-cil, 前缀-con, 后缀-ory]
 
 ## 同根词
 
-**词根 `cil`**：[[02-科目/英语一/知识点/词汇/单词/conciliate|conciliate]] · [[02-科目/英语一/知识点/词汇/单词/reconcile|reconcile]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-cil|词根 cil — 召集]]**：conciliate · reconcile
 
-**前缀 `con-`**：[[02-科目/英语一/知识点/词汇/单词/conciliate|conciliate]] · [[02-科目/英语一/知识点/词汇/单词/reconcile|reconcile]] · [[02-科目/英语一/知识点/词汇/单词/conform|conform]] · [[02-科目/英语一/知识点/词汇/单词/conformity|conformity]] · [[02-科目/英语一/知识点/词汇/单词/congenial|congenial]] · [[02-科目/英语一/知识点/词汇/单词/conquer|conquer]] · [[02-科目/英语一/知识点/词汇/单词/conquest|conquest]] · [[02-科目/英语一/知识点/词汇/单词/conservative|conservative]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-con|前缀 con- — 共同]]**：conciliate · reconcile · conform · conformity · congenial · conquer · conquest · conservative
 
-**后缀 `-ory`**：[[02-科目/英语一/知识点/词汇/单词/contradictory|contradictory]] · [[02-科目/英语一/知识点/词汇/单词/inventory|inventory]] · [[02-科目/英语一/知识点/词汇/单词/perfunctory|perfunctory]] · [[02-科目/英语一/知识点/词汇/单词/refractory|refractory]] · [[02-科目/英语一/知识点/词汇/单词/transitory|transitory]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ory|后缀 -ory — 形容词后缀]]**：contradictory · inventory · perfunctory · refractory · transitory
 
 ---
 

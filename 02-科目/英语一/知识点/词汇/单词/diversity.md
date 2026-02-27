@@ -26,11 +26,11 @@ tags: [GRE词汇, 英语, 词根-vers, 前缀-dis, 后缀-ity]
 
 ## 同根词
 
-**词根 `vers`**：[[02-科目/英语一/知识点/词汇/单词/reverse|reverse]] · [[02-科目/英语一/知识点/词汇/单词/versatile|versatile]] · [[02-科目/英语一/知识点/词汇/单词/versed|versed]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-vers|词根 vers — 转]]**：reverse · versatile · versed
 
-**前缀 `dis-`**：[[02-科目/英语一/知识点/词汇/单词/discipline|discipline]] · [[02-科目/英语一/知识点/词汇/单词/discourse|discourse]] · [[02-科目/英语一/知识点/词汇/单词/disparage|disparage]] · [[02-科目/英语一/知识点/词汇/单词/disparate|disparate]] · [[02-科目/英语一/知识点/词汇/单词/indispensable|indispensable]] · [[02-科目/英语一/知识点/词汇/单词/dissident|dissident]] · [[02-科目/英语一/知识点/词汇/单词/discombobulated|discombobulated]] · [[02-科目/英语一/知识点/词汇/单词/discomfit|discomfit]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-dis|前缀 dis- — 否定]]**：discipline · discourse · disparage · disparate · indispensable · dissident · discombobulated · discomfit
 
-**后缀 `-ity`**：[[02-科目/英语一/知识点/词汇/单词/hyperactivity|hyperactivity]] · [[02-科目/英语一/知识点/词汇/单词/equanimity|equanimity]] · [[02-科目/英语一/知识点/词汇/单词/superficiality|superficiality]] · [[02-科目/英语一/知识点/词汇/单词/conformity|conformity]] · [[02-科目/英语一/知识点/词汇/单词/formality|formality]] · [[02-科目/英语一/知识点/词汇/单词/generosity|generosity]] · [[02-科目/英语一/知识点/词汇/单词/levity|levity]] · [[02-科目/英语一/知识点/词汇/单词/maturity|maturity]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ity|后缀 -ity — 名词后缀]]**：hyperactivity · equanimity · superficiality · conformity · formality · generosity · levity · maturity
 
 ---
 

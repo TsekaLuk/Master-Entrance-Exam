@@ -26,11 +26,11 @@ tags: [GRE词汇, 英语, 词根-mit, 前缀-inter, 后缀-ent]
 
 ## 同根词
 
-**词根 `mit`**：[[02-科目/英语一/知识点/词汇/单词/mitigate|mitigate]] · [[02-科目/英语一/知识点/词汇/单词/submission|submission]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-mit|词根 mit — 投掷→发送]]**：mitigate · submission
 
-**前缀 `inter-`**：[[02-科目/英语一/知识点/词汇/单词/disinterested|disinterested]] · [[02-科目/英语一/知识点/词汇/单词/interchangeable|interchangeable]] · [[02-科目/英语一/知识点/词汇/单词/interim|interim]] · [[02-科目/英语一/知识点/词汇/单词/intervene|intervene]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-inter|前缀 inter- — 相互]]**：disinterested · interchangeable · interim · intervene
 
-**后缀 `-ent`**：[[02-科目/英语一/知识点/词汇/单词/intransigent|intransigent]] · [[02-科目/英语一/知识点/词汇/单词/belligerent|belligerent]] · [[02-科目/英语一/知识点/词汇/单词/recipient|recipient]] · [[02-科目/英语一/知识点/词汇/单词/beneficent|beneficent]] · [[02-科目/英语一/知识点/词汇/单词/proficient|proficient]] · [[02-科目/英语一/知识点/词汇/单词/permanent|permanent]] · [[02-科目/英语一/知识点/词汇/单词/preeminent|preeminent]] · [[02-科目/英语一/知识点/词汇/单词/prominent|prominent]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ent|后缀 -ent — 形容词后缀]]**：intransigent · belligerent · recipient · beneficent · proficient · permanent · preeminent · prominent
 
 ---
 

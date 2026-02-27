@@ -27,13 +27,13 @@ tags: [GRE词汇, 英语, 词根-fac, 前缀-super, 后缀-ial, 后缀-ity]
 
 ## 同根词
 
-**词根 `fac`**：[[02-科目/英语一/知识点/词汇/单词/preface|preface]] · [[02-科目/英语一/知识点/词汇/单词/superficial|superficial]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-fac|词根 fac — 面]]**：preface · superficial
 
-**前缀 `super-`**：[[02-科目/英语一/知识点/词汇/单词/superficial|superficial]] · [[02-科目/英语一/知识点/词汇/单词/supervise|supervise]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-super|前缀 super- — 上]]**：superficial · supervise
 
-**后缀 `-ial`**：[[02-科目/英语一/知识点/词汇/单词/superficial|superficial]] · [[02-科目/英语一/知识点/词汇/单词/congenial|congenial]] · [[02-科目/英语一/知识点/词汇/单词/initial|initial]] · [[02-科目/英语一/知识点/词汇/单词/substantial|substantial]] · [[02-科目/英语一/知识点/词汇/单词/controversial|controversial]] · [[02-科目/英语一/知识点/词汇/单词/perennial|perennial]] · [[02-科目/英语一/知识点/词汇/单词/crucial|crucial]] · [[02-科目/英语一/知识点/词汇/单词/menial|menial]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ial|后缀 -ial — 形容词后缀]]**：superficial · congenial · initial · substantial · controversial · perennial · crucial · menial
 
-**后缀 `-ity`**：[[02-科目/英语一/知识点/词汇/单词/hyperactivity|hyperactivity]] · [[02-科目/英语一/知识点/词汇/单词/equanimity|equanimity]] · [[02-科目/英语一/知识点/词汇/单词/conformity|conformity]] · [[02-科目/英语一/知识点/词汇/单词/formality|formality]] · [[02-科目/英语一/知识点/词汇/单词/generosity|generosity]] · [[02-科目/英语一/知识点/词汇/单词/levity|levity]] · [[02-科目/英语一/知识点/词汇/单词/maturity|maturity]] · [[02-科目/英语一/知识点/词汇/单词/mediocrity|mediocrity]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ity|后缀 -ity — 名词后缀]]**：hyperactivity · equanimity · conformity · formality · generosity · levity · maturity · mediocrity
 
 ---
 

@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 后缀-er]
 
 ## 同根词
 
-**后缀 `-er`**：[[02-科目/英语一/知识点/词汇/单词/generosity|generosity]] · [[02-科目/英语一/知识点/词汇/单词/beleaguer|beleaguer]] · [[02-科目/英语一/知识点/词汇/单词/insider|insider]] · [[02-科目/英语一/知识点/词汇/单词/obstreperous|obstreperous]] · [[02-科目/英语一/知识点/词汇/单词/preposterous|preposterous]] · [[02-科目/英语一/知识点/词汇/单词/unlettered|unlettered]] · [[02-科目/英语一/知识点/词汇/单词/vulnerable|vulnerable]] · [[02-科目/英语一/知识点/词汇/单词/flustered|flustered]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-er|后缀 -er — 名词后缀]]**：generosity · beleaguer · insider · obstreperous · preposterous · unlettered · vulnerable · flustered
 
 ---
 

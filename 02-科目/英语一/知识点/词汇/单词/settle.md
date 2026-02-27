@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 词根-sed, 后缀-le]
 
 ## 同根词
 
-**词根 `sed`**：[[02-科目/英语一/知识点/词汇/单词/sedentary|sedentary]] · [[02-科目/英语一/知识点/词汇/单词/settled|settled]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-sed|词根 sed — 坐]]**：sedentary · settled
 
-**后缀 `-le`**：[[02-科目/英语一/知识点/词汇/单词/settled|settled]] · [[02-科目/英语一/知识点/词汇/单词/brittle|brittle]] · [[02-科目/英语一/知识点/词汇/单词/dabble|dabble]] · [[02-科目/英语一/知识点/词汇/单词/fickle|fickle]] · [[02-科目/英语一/知识点/词汇/单词/ramshackle|ramshackle]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-le|后缀 -le — 动词后缀]]**：settled · brittle · dabble · fickle · ramshackle
 
 ---
 

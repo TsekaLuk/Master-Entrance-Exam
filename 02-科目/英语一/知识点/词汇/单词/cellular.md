@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 后缀-ular]
 
 ## 同根词
 
-**后缀 `-ular`**：[[02-科目/英语一/知识点/词汇/单词/spectacular|spectacular]] · [[02-科目/英语一/知识点/词汇/单词/particular|particular]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ular|后缀 -ular — 形容词后缀，“似…形状的”，“有…性质的”]]**：spectacular · particular
 
 ---
 

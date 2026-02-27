@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 词根-mat]
 
 ## 同根词
 
-**词根 `mat`**：[[02-科目/英语一/知识点/词汇/单词/immature|immature]] · [[02-科目/英语一/知识点/词汇/单词/maturity|maturity]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-mat|词根 mat — 好]]**：immature · maturity
 
 ---
 

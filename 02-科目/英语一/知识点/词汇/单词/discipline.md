@@ -26,11 +26,11 @@ tags: [GRE词汇, 英语, 词根-cept, 前缀-dis, 后缀-ine]
 
 ## 同根词
 
-**词根 `cept`**：[[02-科目/英语一/知识点/词汇/单词/exceptional|exceptional]] · [[02-科目/英语一/知识点/词汇/单词/incipient|incipient]] · [[02-科目/英语一/知识点/词汇/单词/precept|precept]] · [[02-科目/英语一/知识点/词汇/单词/recipient|recipient]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-cept|词根 cept — 拿]]**：exceptional · incipient · precept · recipient
 
-**前缀 `dis-`**：[[02-科目/英语一/知识点/词汇/单词/discourse|discourse]] · [[02-科目/英语一/知识点/词汇/单词/disparage|disparage]] · [[02-科目/英语一/知识点/词汇/单词/disparate|disparate]] · [[02-科目/英语一/知识点/词汇/单词/indispensable|indispensable]] · [[02-科目/英语一/知识点/词汇/单词/dissident|dissident]] · [[02-科目/英语一/知识点/词汇/单词/diversity|diversity]] · [[02-科目/英语一/知识点/词汇/单词/discombobulated|discombobulated]] · [[02-科目/英语一/知识点/词汇/单词/discomfit|discomfit]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-dis|前缀 dis- — 否定]]**：discourse · disparage · disparate · indispensable · dissident · diversity · discombobulated · discomfit
 
-**后缀 `-ine`**：[[02-科目/英语一/知识点/词汇/单词/serpentine|serpentine]] · [[02-科目/英语一/知识点/词汇/单词/elephantine|elephantine]] · [[02-科目/英语一/知识点/词汇/单词/labyrinthine|labyrinthine]] · [[02-科目/英语一/知识点/词汇/单词/libertine|libertine]] · [[02-科目/英语一/知识点/词汇/单词/pithiness|pithiness]] · [[02-科目/英语一/知识点/词汇/单词/sanguine|sanguine]] · [[02-科目/英语一/知识点/词汇/单词/saturnine|saturnine]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ine|后缀 -ine — 形容词后缀]]**：serpentine · elephantine · labyrinthine · libertine · pithiness · sanguine · saturnine
 
 ---
 

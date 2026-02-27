@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 词根-dur, 后缀-ation]
 
 ## 同根词
 
-**词根 `dur`**：[[02-科目/英语一/知识点/词汇/单词/enduring|enduring]] · [[02-科目/英语一/知识点/词汇/单词/indurate|indurate]] · [[02-科目/英语一/知识点/词汇/单词/obdurate|obdurate]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-dur|词根 dur — 硬→持久]]**：enduring · indurate · obdurate
 
-**后缀 `-ation`**：[[02-科目/英语一/知识点/词汇/单词/deprivation|deprivation]] · [[02-科目/英语一/知识点/词汇/单词/indignation|indignation]] · [[02-科目/英语一/知识点/词汇/单词/resignation|resignation]] · [[02-科目/英语一/知识点/词汇/单词/ostentation|ostentation]] · [[02-科目/英语一/知识点/词汇/单词/provocation|provocation]] · [[02-科目/英语一/知识点/词汇/单词/aspiration|aspiration]] · [[02-科目/英语一/知识点/词汇/单词/annexation|annexation]] · [[02-科目/英语一/知识点/词汇/单词/deterioration|deterioration]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ation|后缀 -ation — 名词后缀]]**：deprivation · indignation · resignation · ostentation · provocation · aspiration · annexation · deterioration
 
 ---
 

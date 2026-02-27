@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 后缀-ish]
 
 ## 同根词
 
-**后缀 `-ish`**：[[02-科目/英语一/知识点/词汇/单词/accomplish|accomplish]] · [[02-科目/英语一/知识点/词汇/单词/outlandish|outlandish]] · [[02-科目/英语一/知识点/词汇/单词/anguish|anguish]] · [[02-科目/英语一/知识点/词汇/单词/faddish|faddish]] · [[02-科目/英语一/知识点/词汇/单词/flourish|flourish]] · [[02-科目/英语一/知识点/词汇/单词/lavish|lavish]] · [[02-科目/英语一/知识点/词汇/单词/mulish|mulish]] · [[02-科目/英语一/知识点/词汇/单词/peevish|peevish]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ish|后缀 -ish — 动词后缀]]**：accomplish · outlandish · anguish · faddish · flourish · lavish · mulish · peevish
 
 ---
 

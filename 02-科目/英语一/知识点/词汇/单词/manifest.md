@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 词根-man]
 
 ## 同根词
 
-**词根 `man`**：[[02-科目/英语一/知识点/词汇/单词/manipulate|manipulate]] · [[02-科目/英语一/知识点/词汇/单词/monomania|monomania]] · [[02-科目/英语一/知识点/词汇/单词/permanence|permanence]] · [[02-科目/英语一/知识点/词汇/单词/permanent|permanent]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-man|词根 man — 保持]]**：manipulate · monomania · permanence · permanent
 
 ---
 

@@ -26,11 +26,11 @@ tags: [GRE词汇, 英语, 词根-tent, 前缀-pro, 后缀-ous]
 
 ## 同根词
 
-**词根 `tent`**：[[02-科目/英语一/知识点/词汇/单词/extend|extend]] · [[02-科目/英语一/知识点/词汇/单词/pretentious|pretentious]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-tent|词根 tent — 伸展]]**：extend · pretentious
 
-**前缀 `pro-`**：[[02-科目/英语一/知识点/词汇/单词/procurement|procurement]] · [[02-科目/英语一/知识点/词汇/单词/proficient|proficient]] · [[02-科目/英语一/知识点/词汇/单词/prominent|prominent]] · [[02-科目/英语一/知识点/词汇/单词/propensity|propensity]] · [[02-科目/英语一/知识点/词汇/单词/proprietary|proprietary]] · [[02-科目/英语一/知识点/词汇/单词/improvise|improvise]] · [[02-科目/英语一/知识点/词汇/单词/provident|provident]] · [[02-科目/英语一/知识点/词汇/单词/provocation|provocation]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-pro|前缀 pro- — 前]]**：procurement · proficient · prominent · propensity · proprietary · improvise · provident · provocation
 
-**后缀 `-ous`**：[[02-科目/英语一/知识点/词汇/单词/unanimous|unanimous]] · [[02-科目/英语一/知识点/词汇/单词/capricious|capricious]] · [[02-科目/英语一/知识点/词汇/单词/devious|devious]] · [[02-科目/英语一/知识点/词汇/单词/obvious|obvious]] · [[02-科目/英语一/知识点/词汇/单词/infamous|infamous]] · [[02-科目/英语一/知识点/词汇/单词/obstreperous|obstreperous]] · [[02-科目/英语一/知识点/词汇/单词/preposterous|preposterous]] · [[02-科目/英语一/知识点/词汇/单词/prodigious|prodigious]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ous|后缀 -ous — 形容词后缀]]**：unanimous · capricious · devious · obvious · infamous · obstreperous · preposterous · prodigious
 
 ---
 

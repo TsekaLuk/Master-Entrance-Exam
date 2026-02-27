@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 后缀-ac, 后缀-ious]
 
 ## 同根词
 
-**后缀 `-ac`**：[[02-科目/英语一/知识点/词汇/单词/opacity|opacity]] · [[02-科目/英语一/知识点/词汇/单词/spectacular|spectacular]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ac|后缀 -ac — 形容词后缀]]**：opacity · spectacular
 
-**后缀 `-ious`**：[[02-科目/英语一/知识点/词汇/单词/magnanimous|magnanimous]] · [[02-科目/英语一/知识点/词汇/单词/rebellious|rebellious]] · [[02-科目/英语一/知识点/词汇/单词/ingenious|ingenious]] · [[02-科目/英语一/知识点/词汇/单词/perspicacious|perspicacious]] · [[02-科目/英语一/知识点/词汇/单词/tendentious|tendentious]] · [[02-科目/英语一/知识点/词汇/单词/pretentious|pretentious]] · [[02-科目/英语一/知识点/词汇/单词/oblivious|oblivious]] · [[02-科目/英语一/知识点/词汇/单词/obsequious|obsequious]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ious|后缀 -ious — 形容词后缀]]**：magnanimous · rebellious · ingenious · perspicacious · tendentious · pretentious · oblivious · obsequious
 
 ---
 

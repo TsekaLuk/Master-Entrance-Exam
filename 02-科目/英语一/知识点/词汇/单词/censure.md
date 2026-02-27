@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 词根-cens, 后缀-ure]
 
 ## 同根词
 
-**词根 `cens`**：[[02-科目/英语一/知识点/词汇/单词/candid|candid]] · [[02-科目/英语一/知识点/词汇/单词/candor|candor]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-cens|词根 cens — 白，光亮]]**：candid · candor
 
-**后缀 `-ure`**：[[02-科目/英语一/知识点/词汇/单词/immature|immature]] · [[02-科目/英语一/知识点/词汇/单词/maturity|maturity]] · [[02-科目/英语一/知识点/词汇/单词/enclosure|enclosure]] · [[02-科目/英语一/知识点/词汇/单词/indenture|indenture]] · [[02-科目/英语一/知识点/词汇/单词/featureless|featureless]] · [[02-科目/英语一/知识点/词汇/单词/overture|overture]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ure|后缀 -ure — 抽象名词后缀，表行为、结果、状态]]**：immature · maturity · enclosure · indenture · featureless · overture
 
 ---
 

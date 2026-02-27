@@ -26,11 +26,11 @@ tags: [GRE词汇, 英语, 词根-lev, 前缀-re, 后缀-ance]
 
 ## 同根词
 
-**词根 `lev`**：[[02-科目/英语一/知识点/词汇/单词/alleviate|alleviate]] · [[02-科目/英语一/知识点/词汇/单词/levity|levity]] · [[02-科目/英语一/知识点/词汇/单词/levy|levy]] · [[02-科目/英语一/知识点/词汇/单词/relevant|relevant]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-lev|词根 lev — 举]]**：alleviate · levity · levy · relevant
 
-**前缀 `re-`**：[[02-科目/英语一/知识点/词汇/单词/react|react]] · [[02-科目/英语一/知识点/词汇/单词/reactant|reactant]] · [[02-科目/英语一/知识点/词汇/单词/reactionary|reactionary]] · [[02-科目/英语一/知识点/词汇/单词/rebellious|rebellious]] · [[02-科目/英语一/知识点/词汇/单词/recapitulate|recapitulate]] · [[02-科目/英语一/知识点/词汇/单词/recipient|recipient]] · [[02-科目/英语一/知识点/词汇/单词/rescind|rescind]] · [[02-科目/英语一/知识点/词汇/单词/reconcile|reconcile]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-re|前缀 re- — 加强]]**：react · reactant · reactionary · rebellious · recapitulate · recipient · rescind · reconcile
 
-**后缀 `-ance`**：[[02-科目/英语一/知识点/词汇/单词/defiance|defiance]] · [[02-科目/英语一/知识点/词汇/单词/dissonance|dissonance]] · [[02-科目/英语一/知识点/词汇/单词/exuberance|exuberance]] · [[02-科目/英语一/知识点/词汇/单词/forbearance|forbearance]] · [[02-科目/英语一/知识点/词汇/单词/reliance|reliance]] · [[02-科目/英语一/知识点/词汇/单词/surveillance|surveillance]] · [[02-科目/英语一/知识点/词汇/单词/extravagance|extravagance]] · [[02-科目/英语一/知识点/词汇/单词/nuance|nuance]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ance|后缀 -ance — 名词后缀]]**：defiance · dissonance · exuberance · forbearance · reliance · surveillance · extravagance · nuance
 
 ---
 

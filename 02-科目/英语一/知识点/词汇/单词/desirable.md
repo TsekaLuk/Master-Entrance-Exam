@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 前缀-de, 后缀-able]
 
 ## 同根词
 
-**前缀 `de-`**：[[02-科目/英语一/知识点/词汇/单词/definite|definite]] · [[02-科目/英语一/知识点/词汇/单词/definitive|definitive]] · [[02-科目/英语一/知识点/词汇/单词/deprivation|deprivation]] · [[02-科目/英语一/知识点/词汇/单词/despicable|despicable]] · [[02-科目/英语一/知识点/词汇/单词/indeterminate|indeterminate]] · [[02-科目/英语一/知识点/词汇/单词/devious|devious]] · [[02-科目/英语一/知识点/词汇/单词/debate|debate]] · [[02-科目/英语一/知识点/词汇/单词/debonair|debonair]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-de|前缀 de- — 加强]]**：definite · definitive · deprivation · despicable · indeterminate · devious · debate · debonair
 
-**后缀 `-able`**：[[02-科目/英语一/知识点/词汇/单词/amiable|amiable]] · [[02-科目/英语一/知识点/词汇/单词/inevitable|inevitable]] · [[02-科目/英语一/知识点/词汇/单词/indispensable|indispensable]] · [[02-科目/英语一/知识点/词汇/单词/implacable|implacable]] · [[02-科目/英语一/知识点/词汇/单词/despicable|despicable]] · [[02-科目/英语一/知识点/词汇/单词/interminable|interminable]] · [[02-科目/英语一/知识点/词汇/单词/intractable|intractable]] · [[02-科目/英语一/知识点/词汇/单词/tractable|tractable]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-able|后缀 -able — 形容词后缀]]**：amiable · inevitable · indispensable · implacable · despicable · interminable · intractable · tractable
 
 ---
 

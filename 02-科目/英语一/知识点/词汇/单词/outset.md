@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 词根-set, 前缀-out]
 
 ## 同根词
 
-**词根 `set`**：[[02-科目/英语一/知识点/词汇/单词/beset|beset]] · [[02-科目/英语一/知识点/词汇/单词/setback|setback]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-set|词根 set — 放置]]**：beset · setback
 
-**前缀 `out-`**：[[02-科目/英语一/知识点/词汇/单词/outlandish|outlandish]] · [[02-科目/英语一/知识点/词汇/单词/outstrip|outstrip]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-out|前缀 out- — 出来]]**：outlandish · outstrip
 
 ---
 

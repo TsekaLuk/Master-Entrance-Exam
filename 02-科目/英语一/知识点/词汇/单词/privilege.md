@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 词根-priv]
 
 ## 同根词
 
-**词根 `priv`**：[[02-科目/英语一/知识点/词汇/单词/deprivation|deprivation]] · [[02-科目/英语一/知识点/词汇/单词/proprietary|proprietary]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-priv|词根 priv — 个人]]**：deprivation · proprietary
 
 ---
 

@@ -27,13 +27,13 @@ tags: [GRE词汇, 英语, 词根-term, 前缀-de, 前缀-in, 后缀-ate]
 
 ## 同根词
 
-**词根 `term`**：[[02-科目/英语一/知识点/词汇/单词/interminable|interminable]] · [[02-科目/英语一/知识点/词汇/单词/terminate|terminate]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-term|词根 term — 界限→限定]]**：interminable · terminate
 
-**前缀 `de-`**：[[02-科目/英语一/知识点/词汇/单词/definite|definite]] · [[02-科目/英语一/知识点/词汇/单词/definitive|definitive]] · [[02-科目/英语一/知识点/词汇/单词/deprivation|deprivation]] · [[02-科目/英语一/知识点/词汇/单词/despicable|despicable]] · [[02-科目/英语一/知识点/词汇/单词/devious|devious]] · [[02-科目/英语一/知识点/词汇/单词/debate|debate]] · [[02-科目/英语一/知识点/词汇/单词/debonair|debonair]] · [[02-科目/英语一/知识点/词汇/单词/decadent|decadent]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-de|前缀 de- — 加强]]**：definite · definitive · deprivation · despicable · devious · debate · debonair · decadent
 
-**前缀 `in-`**：[[02-科目/英语一/知识点/词汇/单词/intransigent|intransigent]] · [[02-科目/英语一/知识点/词汇/单词/inimical|inimical]] · [[02-科目/英语一/知识点/词汇/单词/incipient|incipient]] · [[02-科目/英语一/知识点/词汇/单词/incisive|incisive]] · [[02-科目/英语一/知识点/词汇/单词/indurate|indurate]] · [[02-科目/英语一/知识点/词汇/单词/infinite|infinite]] · [[02-科目/英语一/知识点/词汇/单词/informed|informed]] · [[02-科目/英语一/知识点/词汇/单词/ingenious|ingenious]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-in|前缀 in- — 否定]]**：intransigent · inimical · incipient · incisive · indurate · infinite · informed · ingenious
 
-**后缀 `-ate`**：[[02-科目/英语一/知识点/词汇/单词/agitate|agitate]] · [[02-科目/英语一/知识点/词汇/单词/mitigate|mitigate]] · [[02-科目/英语一/知识点/词汇/单词/precipitate|precipitate]] · [[02-科目/英语一/知识点/词汇/单词/conciliate|conciliate]] · [[02-科目/英语一/知识点/词汇/单词/abdicate|abdicate]] · [[02-科目/英语一/知识点/词汇/单词/vindicate|vindicate]] · [[02-科目/英语一/知识点/词汇/单词/indurate|indurate]] · [[02-科目/英语一/知识点/词汇/单词/obdurate|obdurate]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ate|后缀 -ate — 动词后缀]]**：agitate · mitigate · precipitate · conciliate · abdicate · vindicate · indurate · obdurate
 
 ---
 

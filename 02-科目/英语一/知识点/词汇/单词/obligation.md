@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 前缀-ob, 后缀-ation]
 
 ## 同根词
 
-**前缀 `ob-`**：[[02-科目/英语一/知识点/词汇/单词/obdurate|obdurate]] · [[02-科目/英语一/知识点/词汇/单词/observant|observant]] · [[02-科目/英语一/知识点/词汇/单词/obviate|obviate]] · [[02-科目/英语一/知识点/词汇/单词/obvious|obvious]] · [[02-科目/英语一/知识点/词汇/单词/obedient|obedient]] · [[02-科目/英语一/知识点/词汇/单词/oblique|oblique]] · [[02-科目/英语一/知识点/词汇/单词/oblivious|oblivious]] · [[02-科目/英语一/知识点/词汇/单词/obsequious|obsequious]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-ob|前缀 ob- — 加强]]**：obdurate · observant · obviate · obvious · obedient · oblique · oblivious · obsequious
 
-**后缀 `-ation`**：[[02-科目/英语一/知识点/词汇/单词/duration|duration]] · [[02-科目/英语一/知识点/词汇/单词/deprivation|deprivation]] · [[02-科目/英语一/知识点/词汇/单词/indignation|indignation]] · [[02-科目/英语一/知识点/词汇/单词/resignation|resignation]] · [[02-科目/英语一/知识点/词汇/单词/ostentation|ostentation]] · [[02-科目/英语一/知识点/词汇/单词/provocation|provocation]] · [[02-科目/英语一/知识点/词汇/单词/aspiration|aspiration]] · [[02-科目/英语一/知识点/词汇/单词/annexation|annexation]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ation|后缀 -ation — 名词后缀]]**：duration · deprivation · indignation · resignation · ostentation · provocation · aspiration · annexation
 
 ---
 

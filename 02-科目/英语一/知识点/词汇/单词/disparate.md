@@ -26,11 +26,11 @@ tags: [GRE词汇, 英语, 词根-par, 前缀-dis, 后缀-ate]
 
 ## 同根词
 
-**词根 `par`**：[[02-科目/英语一/知识点/词汇/单词/disparage|disparage]] · [[02-科目/英语一/知识点/词汇/单词/peer|peer]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-par|词根 par — 相等]]**：disparage · peer
 
-**前缀 `dis-`**：[[02-科目/英语一/知识点/词汇/单词/discipline|discipline]] · [[02-科目/英语一/知识点/词汇/单词/discourse|discourse]] · [[02-科目/英语一/知识点/词汇/单词/disparage|disparage]] · [[02-科目/英语一/知识点/词汇/单词/indispensable|indispensable]] · [[02-科目/英语一/知识点/词汇/单词/dissident|dissident]] · [[02-科目/英语一/知识点/词汇/单词/diversity|diversity]] · [[02-科目/英语一/知识点/词汇/单词/discombobulated|discombobulated]] · [[02-科目/英语一/知识点/词汇/单词/discomfit|discomfit]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-dis|前缀 dis- — 否定]]**：discipline · discourse · disparage · indispensable · dissident · diversity · discombobulated · discomfit
 
-**后缀 `-ate`**：[[02-科目/英语一/知识点/词汇/单词/agitate|agitate]] · [[02-科目/英语一/知识点/词汇/单词/mitigate|mitigate]] · [[02-科目/英语一/知识点/词汇/单词/precipitate|precipitate]] · [[02-科目/英语一/知识点/词汇/单词/conciliate|conciliate]] · [[02-科目/英语一/知识点/词汇/单词/abdicate|abdicate]] · [[02-科目/英语一/知识点/词汇/单词/vindicate|vindicate]] · [[02-科目/英语一/知识点/词汇/单词/indurate|indurate]] · [[02-科目/英语一/知识点/词汇/单词/obdurate|obdurate]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ate|后缀 -ate — 动词后缀]]**：agitate · mitigate · precipitate · conciliate · abdicate · vindicate · indurate · obdurate
 
 ---
 

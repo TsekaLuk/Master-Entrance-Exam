@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 前缀-trans, 后缀-ent]
 
 ## 同根词
 
-**前缀 `trans-`**：[[02-科目/英语一/知识点/词汇/单词/intransigent|intransigent]] · [[02-科目/英语一/知识点/词汇/单词/tranquility|tranquility]] · [[02-科目/英语一/知识点/词汇/单词/transcend|transcend]] · [[02-科目/英语一/知识点/词汇/单词/transfer|transfer]] · [[02-科目/英语一/知识点/词汇/单词/transience|transience]] · [[02-科目/英语一/知识点/词汇/单词/transient|transient]] · [[02-科目/英语一/知识点/词汇/单词/transitory|transitory]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-trans|前缀 trans- — 穿过]]**：intransigent · tranquility · transcend · transfer · transience · transient · transitory
 
-**后缀 `-ent`**：[[02-科目/英语一/知识点/词汇/单词/intransigent|intransigent]] · [[02-科目/英语一/知识点/词汇/单词/belligerent|belligerent]] · [[02-科目/英语一/知识点/词汇/单词/recipient|recipient]] · [[02-科目/英语一/知识点/词汇/单词/beneficent|beneficent]] · [[02-科目/英语一/知识点/词汇/单词/proficient|proficient]] · [[02-科目/英语一/知识点/词汇/单词/permanent|permanent]] · [[02-科目/英语一/知识点/词汇/单词/preeminent|preeminent]] · [[02-科目/英语一/知识点/词汇/单词/prominent|prominent]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ent|后缀 -ent — 形容词后缀]]**：intransigent · belligerent · recipient · beneficent · proficient · permanent · preeminent · prominent
 
 ---
 

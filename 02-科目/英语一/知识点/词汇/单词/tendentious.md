@@ -26,11 +26,11 @@ tags: [GRE词汇, 英语, 词根-tend, 后缀-ent, 后缀-ious]
 
 ## 同根词
 
-**词根 `tend`**：[[02-科目/英语一/知识点/词汇/单词/ostentation|ostentation]] · [[02-科目/英语一/知识点/词汇/单词/tension|tension]] · [[02-科目/英语一/知识点/词汇/单词/tentative|tentative]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-tend|词根 tend — 伸展→试探]]**：ostentation · tension · tentative
 
-**后缀 `-ent`**：[[02-科目/英语一/知识点/词汇/单词/intransigent|intransigent]] · [[02-科目/英语一/知识点/词汇/单词/belligerent|belligerent]] · [[02-科目/英语一/知识点/词汇/单词/recipient|recipient]] · [[02-科目/英语一/知识点/词汇/单词/beneficent|beneficent]] · [[02-科目/英语一/知识点/词汇/单词/proficient|proficient]] · [[02-科目/英语一/知识点/词汇/单词/permanent|permanent]] · [[02-科目/英语一/知识点/词汇/单词/preeminent|preeminent]] · [[02-科目/英语一/知识点/词汇/单词/prominent|prominent]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ent|后缀 -ent — 形容词后缀]]**：intransigent · belligerent · recipient · beneficent · proficient · permanent · preeminent · prominent
 
-**后缀 `-ious`**：[[02-科目/英语一/知识点/词汇/单词/magnanimous|magnanimous]] · [[02-科目/英语一/知识点/词汇/单词/rebellious|rebellious]] · [[02-科目/英语一/知识点/词汇/单词/ingenious|ingenious]] · [[02-科目/英语一/知识点/词汇/单词/perspicacious|perspicacious]] · [[02-科目/英语一/知识点/词汇/单词/pretentious|pretentious]] · [[02-科目/英语一/知识点/词汇/单词/oblivious|oblivious]] · [[02-科目/英语一/知识点/词汇/单词/obsequious|obsequious]] · [[02-科目/英语一/知识点/词汇/单词/vivacious|vivacious]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ious|后缀 -ious — 形容词后缀]]**：magnanimous · rebellious · ingenious · perspicacious · pretentious · oblivious · obsequious · vivacious
 
 ---
 

@@ -26,11 +26,11 @@ tags: [GRE词汇, 英语, 词根-spect, 前缀-con, 后缀-uous]
 
 ## 同根词
 
-**词根 `spect`**：[[02-科目/英语一/知识点/词汇/单词/despicable|despicable]] · [[02-科目/英语一/知识点/词汇/单词/perspicacious|perspicacious]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-spect|词根 spect — 看]]**：despicable · perspicacious
 
-**前缀 `con-`**：[[02-科目/英语一/知识点/词汇/单词/conciliate|conciliate]] · [[02-科目/英语一/知识点/词汇/单词/conciliatory|conciliatory]] · [[02-科目/英语一/知识点/词汇/单词/reconcile|reconcile]] · [[02-科目/英语一/知识点/词汇/单词/conform|conform]] · [[02-科目/英语一/知识点/词汇/单词/conformity|conformity]] · [[02-科目/英语一/知识点/词汇/单词/congenial|congenial]] · [[02-科目/英语一/知识点/词汇/单词/conquer|conquer]] · [[02-科目/英语一/知识点/词汇/单词/conquest|conquest]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-con|前缀 con- — 共同]]**：conciliate · conciliatory · reconcile · conform · conformity · congenial · conquer · conquest
 
-**后缀 `-uous`**：[[02-科目/英语一/知识点/词汇/单词/ingenuous|ingenuous]] · [[02-科目/英语一/知识点/词汇/单词/assiduous|assiduous]] · [[02-科目/英语一/知识点/词汇/单词/tempestuous|tempestuous]] · [[02-科目/英语一/知识点/词汇/单词/tortuous|tortuous]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-uous|后缀 -uous — 形容词后缀]]**：ingenuous · assiduous · tempestuous · tortuous
 
 ---
 

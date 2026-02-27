@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 后缀-ical]
 
 ## 同根词
 
-**后缀 `-ical`**：[[02-科目/英语一/知识点/词汇/单词/inimical|inimical]] · [[02-科目/英语一/知识点/词汇/单词/whimsical|whimsical]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ical|后缀 -ical — 形容词后缀]]**：inimical · whimsical
 
 ---
 

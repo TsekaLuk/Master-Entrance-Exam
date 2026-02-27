@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 前缀-pro, 后缀-ic]
 
 ## 同根词
 
-**前缀 `pro-`**：[[02-科目/英语一/知识点/词汇/单词/procurement|procurement]] · [[02-科目/英语一/知识点/词汇/单词/proficient|proficient]] · [[02-科目/英语一/知识点/词汇/单词/prominent|prominent]] · [[02-科目/英语一/知识点/词汇/单词/propensity|propensity]] · [[02-科目/英语一/知识点/词汇/单词/proprietary|proprietary]] · [[02-科目/英语一/知识点/词汇/单词/portentous|portentous]] · [[02-科目/英语一/知识点/词汇/单词/improvise|improvise]] · [[02-科目/英语一/知识点/词汇/单词/provident|provident]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-pro|前缀 pro- — 前]]**：procurement · proficient · prominent · propensity · proprietary · portentous · improvise · provident
 
-**后缀 `-ic`**：[[02-科目/英语一/知识点/词汇/单词/lethargic|lethargic]] · [[02-科目/英语一/知识点/词汇/单词/eclectic|eclectic]] · [[02-科目/英语一/知识点/词汇/单词/antiseptic|antiseptic]] · [[02-科目/英语一/知识点/词汇/单词/pandemic|pandemic]] · [[02-科目/英语一/知识点/词汇/单词/panegyric|panegyric]] · [[02-科目/英语一/知识点/词汇/单词/sophisticated|sophisticated]] · [[02-科目/英语一/知识点/词汇/单词/aesthetic|aesthetic]] · [[02-科目/英语一/知识点/词汇/单词/arrhythmic|arrhythmic]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ic|后缀 -ic — 形容词后缀]]**：lethargic · eclectic · antiseptic · pandemic · panegyric · sophisticated · aesthetic · arrhythmic
 
 ---
 

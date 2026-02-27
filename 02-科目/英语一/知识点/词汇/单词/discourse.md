@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 词根-cur, 前缀-dis]
 
 ## 同根词
 
-**词根 `cur`**：[[02-科目/英语一/知识点/词汇/单词/procurement|procurement]] · [[02-科目/英语一/知识点/词汇/单词/secure|secure]] · [[02-科目/英语一/知识点/词汇/单词/sinecure|sinecure]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-cur|词根 cur — 关心→顾虑]]**：procurement · secure · sinecure
 
-**前缀 `dis-`**：[[02-科目/英语一/知识点/词汇/单词/discipline|discipline]] · [[02-科目/英语一/知识点/词汇/单词/disparage|disparage]] · [[02-科目/英语一/知识点/词汇/单词/disparate|disparate]] · [[02-科目/英语一/知识点/词汇/单词/indispensable|indispensable]] · [[02-科目/英语一/知识点/词汇/单词/dissident|dissident]] · [[02-科目/英语一/知识点/词汇/单词/diversity|diversity]] · [[02-科目/英语一/知识点/词汇/单词/discombobulated|discombobulated]] · [[02-科目/英语一/知识点/词汇/单词/discomfit|discomfit]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-dis|前缀 dis- — 否定]]**：discipline · disparage · disparate · indispensable · dissident · diversity · discombobulated · discomfit
 
 ---
 

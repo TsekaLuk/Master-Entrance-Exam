@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 前缀-trans, 后缀-ory]
 
 ## 同根词
 
-**前缀 `trans-`**：[[02-科目/英语一/知识点/词汇/单词/intransigent|intransigent]] · [[02-科目/英语一/知识点/词汇/单词/tranquility|tranquility]] · [[02-科目/英语一/知识点/词汇/单词/transcend|transcend]] · [[02-科目/英语一/知识点/词汇/单词/transcendent|transcendent]] · [[02-科目/英语一/知识点/词汇/单词/transfer|transfer]] · [[02-科目/英语一/知识点/词汇/单词/transience|transience]] · [[02-科目/英语一/知识点/词汇/单词/transient|transient]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-trans|前缀 trans- — 穿过]]**：intransigent · tranquility · transcend · transcendent · transfer · transience · transient
 
-**后缀 `-ory`**：[[02-科目/英语一/知识点/词汇/单词/conciliatory|conciliatory]] · [[02-科目/英语一/知识点/词汇/单词/contradictory|contradictory]] · [[02-科目/英语一/知识点/词汇/单词/inventory|inventory]] · [[02-科目/英语一/知识点/词汇/单词/perfunctory|perfunctory]] · [[02-科目/英语一/知识点/词汇/单词/refractory|refractory]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ory|后缀 -ory — 形容词后缀]]**：conciliatory · contradictory · inventory · perfunctory · refractory
 
 ---
 

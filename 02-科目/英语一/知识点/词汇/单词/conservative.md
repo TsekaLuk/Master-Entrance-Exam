@@ -26,11 +26,11 @@ tags: [GRE词汇, 英语, 词根-serv, 前缀-con, 后缀-ative]
 
 ## 同根词
 
-**词根 `serv`**：[[02-科目/英语一/知识点/词汇/单词/observant|observant]] · [[02-科目/英语一/知识点/词汇/单词/servile|servile]] · [[02-科目/英语一/知识点/词汇/单词/servitude|servitude]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-serv|词根 serv — 保持]]**：observant · servile · servitude
 
-**前缀 `con-`**：[[02-科目/英语一/知识点/词汇/单词/conciliate|conciliate]] · [[02-科目/英语一/知识点/词汇/单词/conciliatory|conciliatory]] · [[02-科目/英语一/知识点/词汇/单词/reconcile|reconcile]] · [[02-科目/英语一/知识点/词汇/单词/conform|conform]] · [[02-科目/英语一/知识点/词汇/单词/conformity|conformity]] · [[02-科目/英语一/知识点/词汇/单词/congenial|congenial]] · [[02-科目/英语一/知识点/词汇/单词/conquer|conquer]] · [[02-科目/英语一/知识点/词汇/单词/conquest|conquest]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-con|前缀 con- — 共同]]**：conciliate · conciliatory · reconcile · conform · conformity · congenial · conquer · conquest
 
-**后缀 `-ative`**：[[02-科目/英语一/知识点/词汇/单词/innovative|innovative]] · [[02-科目/英语一/知识点/词汇/单词/tentative|tentative]] · [[02-科目/英语一/知识点/词汇/单词/derivative|derivative]] · [[02-科目/英语一/知识点/词汇/单词/prerogative|prerogative]] · [[02-科目/英语一/知识点/词汇/单词/cooperative|cooperative]] · [[02-科目/英语一/知识点/词汇/单词/figurative|figurative]] · [[02-科目/英语一/知识点/词汇/单词/meditative|meditative]] · [[02-科目/英语一/知识点/词汇/单词/palliative|palliative]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ative|后缀 -ative — 形容词后缀]]**：innovative · tentative · derivative · prerogative · cooperative · figurative · meditative · palliative
 
 ---
 

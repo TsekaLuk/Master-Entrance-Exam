@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 词根-quir, 前缀-con]
 
 ## 同根词
 
-**词根 `quir`**：[[02-科目/英语一/知识点/词汇/单词/acquisition|acquisition]] · [[02-科目/英语一/知识点/词汇/单词/conquer|conquer]] · [[02-科目/英语一/知识点/词汇/单词/inquisitive|inquisitive]] · [[02-科目/英语一/知识点/词汇/单词/perquisite|perquisite]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-quir|词根 quir — 寻找→获得]]**：acquisition · conquer · inquisitive · perquisite
 
-**前缀 `con-`**：[[02-科目/英语一/知识点/词汇/单词/conciliate|conciliate]] · [[02-科目/英语一/知识点/词汇/单词/conciliatory|conciliatory]] · [[02-科目/英语一/知识点/词汇/单词/reconcile|reconcile]] · [[02-科目/英语一/知识点/词汇/单词/conform|conform]] · [[02-科目/英语一/知识点/词汇/单词/conformity|conformity]] · [[02-科目/英语一/知识点/词汇/单词/congenial|congenial]] · [[02-科目/英语一/知识点/词汇/单词/conquer|conquer]] · [[02-科目/英语一/知识点/词汇/单词/conservative|conservative]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-con|前缀 con- — 共同]]**：conciliate · conciliatory · reconcile · conform · conformity · congenial · conquer · conservative
 
 ---
 

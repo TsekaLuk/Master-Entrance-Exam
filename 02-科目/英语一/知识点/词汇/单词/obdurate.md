@@ -26,11 +26,11 @@ tags: [GRE词汇, 英语, 词根-dur, 前缀-ob, 后缀-ate]
 
 ## 同根词
 
-**词根 `dur`**：[[02-科目/英语一/知识点/词汇/单词/duration|duration]] · [[02-科目/英语一/知识点/词汇/单词/enduring|enduring]] · [[02-科目/英语一/知识点/词汇/单词/indurate|indurate]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-dur|词根 dur — 硬→持久]]**：duration · enduring · indurate
 
-**前缀 `ob-`**：[[02-科目/英语一/知识点/词汇/单词/observant|observant]] · [[02-科目/英语一/知识点/词汇/单词/obviate|obviate]] · [[02-科目/英语一/知识点/词汇/单词/obvious|obvious]] · [[02-科目/英语一/知识点/词汇/单词/obedient|obedient]] · [[02-科目/英语一/知识点/词汇/单词/obligation|obligation]] · [[02-科目/英语一/知识点/词汇/单词/oblique|oblique]] · [[02-科目/英语一/知识点/词汇/单词/oblivious|oblivious]] · [[02-科目/英语一/知识点/词汇/单词/obsequious|obsequious]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-ob|前缀 ob- — 加强]]**：observant · obviate · obvious · obedient · obligation · oblique · oblivious · obsequious
 
-**后缀 `-ate`**：[[02-科目/英语一/知识点/词汇/单词/agitate|agitate]] · [[02-科目/英语一/知识点/词汇/单词/mitigate|mitigate]] · [[02-科目/英语一/知识点/词汇/单词/precipitate|precipitate]] · [[02-科目/英语一/知识点/词汇/单词/conciliate|conciliate]] · [[02-科目/英语一/知识点/词汇/单词/abdicate|abdicate]] · [[02-科目/英语一/知识点/词汇/单词/vindicate|vindicate]] · [[02-科目/英语一/知识点/词汇/单词/indurate|indurate]] · [[02-科目/英语一/知识点/词汇/单词/alleviate|alleviate]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ate|后缀 -ate — 动词后缀]]**：agitate · mitigate · precipitate · conciliate · abdicate · vindicate · indurate · alleviate
 
 ---
 

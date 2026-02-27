@@ -27,13 +27,13 @@ tags: [GRE词汇, 英语, 词根-resident, 词根-sid, 前缀-re, 后缀-al]
 
 ## 同根词
 
-**词根 `resident`**：[[02-科目/英语一/知识点/词汇/单词/assiduous|assiduous]] · [[02-科目/英语一/知识点/词汇/单词/dissident|dissident]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-resident|词根 resident — 居民]]**：assiduous · dissident
 
-**词根 `sid`**：[[02-科目/英语一/知识点/词汇/单词/assiduous|assiduous]] · [[02-科目/英语一/知识点/词汇/单词/insider|insider]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-sid|词根 sid — 坐]]**：assiduous · insider
 
-**前缀 `re-`**：[[02-科目/英语一/知识点/词汇/单词/react|react]] · [[02-科目/英语一/知识点/词汇/单词/reactant|reactant]] · [[02-科目/英语一/知识点/词汇/单词/reactionary|reactionary]] · [[02-科目/英语一/知识点/词汇/单词/rebellious|rebellious]] · [[02-科目/英语一/知识点/词汇/单词/recapitulate|recapitulate]] · [[02-科目/英语一/知识点/词汇/单词/recipient|recipient]] · [[02-科目/英语一/知识点/词汇/单词/rescind|rescind]] · [[02-科目/英语一/知识点/词汇/单词/reconcile|reconcile]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-re|前缀 re- — 加强]]**：react · reactant · reactionary · rebellious · recapitulate · recipient · rescind · reconcile
 
-**后缀 `-al`**：[[02-科目/英语一/知识点/词汇/单词/exceptional|exceptional]] · [[02-科目/英语一/知识点/词汇/单词/formality|formality]] · [[02-科目/英语一/知识点/词汇/单词/medieval|medieval]] · [[02-科目/英语一/知识点/词汇/单词/trivial|trivial]] · [[02-科目/英语一/知识点/词汇/单词/acquittal|acquittal]] · [[02-科目/英语一/知识点/词汇/单词/communal|communal]] · [[02-科目/英语一/知识点/词汇/单词/conventional|conventional]] · [[02-科目/英语一/知识点/词汇/单词/prodigal|prodigal]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-al|后缀 -al — 形容词后缀]]**：exceptional · formality · medieval · trivial · acquittal · communal · conventional · prodigal
 
 ---
 

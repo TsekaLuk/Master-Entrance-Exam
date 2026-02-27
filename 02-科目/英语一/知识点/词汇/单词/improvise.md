@@ -26,11 +26,11 @@ tags: [GRE词汇, 英语, 词根-vis, 前缀-im, 前缀-pro]
 
 ## 同根词
 
-**词根 `vis`**：[[02-科目/英语一/知识点/词汇/单词/provident|provident]] · [[02-科目/英语一/知识点/词汇/单词/revise|revise]] · [[02-科目/英语一/知识点/词汇/单词/supervise|supervise]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-vis|词根 vis — 看]]**：provident · revise · supervise
 
-**前缀 `im-`**：[[02-科目/英语一/知识点/词汇/单词/immature|immature]] · [[02-科目/英语一/知识点/词汇/单词/impassive|impassive]] · [[02-科目/英语一/知识点/词汇/单词/implacable|implacable]] · [[02-科目/英语一/知识点/词汇/单词/immune|immune]] · [[02-科目/英语一/知识点/词汇/单词/immutable|immutable]] · [[02-科目/英语一/知识点/词汇/单词/impenetrable|impenetrable]] · [[02-科目/英语一/知识点/词汇/单词/imperative|imperative]] · [[02-科目/英语一/知识点/词汇/单词/impersonate|impersonate]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-im|前缀 im- — 否定]]**：immature · impassive · implacable · immune · immutable · impenetrable · imperative · impersonate
 
-**前缀 `pro-`**：[[02-科目/英语一/知识点/词汇/单词/procurement|procurement]] · [[02-科目/英语一/知识点/词汇/单词/proficient|proficient]] · [[02-科目/英语一/知识点/词汇/单词/prominent|prominent]] · [[02-科目/英语一/知识点/词汇/单词/propensity|propensity]] · [[02-科目/英语一/知识点/词汇/单词/proprietary|proprietary]] · [[02-科目/英语一/知识点/词汇/单词/portentous|portentous]] · [[02-科目/英语一/知识点/词汇/单词/provident|provident]] · [[02-科目/英语一/知识点/词汇/单词/provocation|provocation]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-pro|前缀 pro- — 前]]**：procurement · proficient · prominent · propensity · proprietary · portentous · provident · provocation
 
 ---
 

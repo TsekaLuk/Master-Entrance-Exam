@@ -26,11 +26,11 @@ tags: [GRE词汇, 英语, 词根-plac, 前缀-com, 后缀-ant]
 
 ## 同根词
 
-**词根 `plac`**：[[02-科目/英语一/知识点/词汇/单词/implacable|implacable]] · [[02-科目/英语一/知识点/词汇/单词/placate|placate]] · [[02-科目/英语一/知识点/词汇/单词/placebo|placebo]] · [[02-科目/英语一/知识点/词汇/单词/utopian|utopian]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-plac|词根 plac — 放置]]**：implacable · placate · placebo · utopian
 
-**前缀 `com-`**：[[02-科目/英语一/知识点/词汇/单词/commend|commend]] · [[02-科目/英语一/知识点/词汇/单词/commotion|commotion]] · [[02-科目/英语一/知识点/词汇/单词/compendium|compendium]] · [[02-科目/英语一/知识点/词汇/单词/recompense|recompense]] · [[02-科目/英语一/知识点/词汇/单词/comprehensive|comprehensive]] · [[02-科目/英语一/知识点/词汇/单词/accomplish|accomplish]] · [[02-科目/英语一/知识点/词汇/单词/communal|communal]] · [[02-科目/英语一/知识点/词汇/单词/compatible|compatible]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-com|前缀 com- — 共同]]**：commend · commotion · compendium · recompense · comprehensive · accomplish · communal · compatible
 
-**后缀 `-ant`**：[[02-科目/英语一/知识点/词汇/单词/reactant|reactant]] · [[02-科目/英语一/知识点/词汇/单词/relevant|relevant]] · [[02-科目/英语一/知识点/词汇/单词/observant|observant]] · [[02-科目/英语一/知识点/词汇/单词/significant|significant]] · [[02-科目/英语一/知识点/词汇/单词/constant|constant]] · [[02-科目/英语一/知识点/词汇/单词/substantial|substantial]] · [[02-科目/英语一/知识点/词汇/单词/substantive|substantive]] · [[02-科目/英语一/知识点/词汇/单词/unsubstantiated|unsubstantiated]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ant|后缀 -ant — 形容词后缀]]**：reactant · relevant · observant · significant · constant · substantial · substantive · unsubstantiated
 
 ---
 

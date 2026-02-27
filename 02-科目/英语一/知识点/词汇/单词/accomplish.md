@@ -26,11 +26,11 @@ tags: [GRE词汇, 英语, 前缀-ac, 前缀-com, 后缀-ish]
 
 ## 同根词
 
-**前缀 `ac-`**：[[02-科目/英语一/知识点/词汇/单词/acquisition|acquisition]] · [[02-科目/英语一/知识点/词汇/单词/accentuate|accentuate]] · [[02-科目/英语一/知识点/词汇/单词/acquittal|acquittal]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-ac|前缀 ac- — 向]]**：acquisition · accentuate · acquittal
 
-**前缀 `com-`**：[[02-科目/英语一/知识点/词汇/单词/commend|commend]] · [[02-科目/英语一/知识点/词汇/单词/commotion|commotion]] · [[02-科目/英语一/知识点/词汇/单词/compendium|compendium]] · [[02-科目/英语一/知识点/词汇/单词/recompense|recompense]] · [[02-科目/英语一/知识点/词汇/单词/compliant|compliant]] · [[02-科目/英语一/知识点/词汇/单词/comprehensive|comprehensive]] · [[02-科目/英语一/知识点/词汇/单词/communal|communal]] · [[02-科目/英语一/知识点/词汇/单词/compatible|compatible]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-com|前缀 com- — 共同]]**：commend · commotion · compendium · recompense · compliant · comprehensive · communal · compatible
 
-**后缀 `-ish`**：[[02-科目/英语一/知识点/词汇/单词/outlandish|outlandish]] · [[02-科目/英语一/知识点/词汇/单词/anguish|anguish]] · [[02-科目/英语一/知识点/词汇/单词/faddish|faddish]] · [[02-科目/英语一/知识点/词汇/单词/famish|famish]] · [[02-科目/英语一/知识点/词汇/单词/flourish|flourish]] · [[02-科目/英语一/知识点/词汇/单词/lavish|lavish]] · [[02-科目/英语一/知识点/词汇/单词/mulish|mulish]] · [[02-科目/英语一/知识点/词汇/单词/peevish|peevish]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ish|后缀 -ish — 动词后缀]]**：outlandish · anguish · faddish · famish · flourish · lavish · mulish · peevish
 
 ---
 

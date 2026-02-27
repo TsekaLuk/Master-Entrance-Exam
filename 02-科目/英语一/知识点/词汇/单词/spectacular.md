@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 后缀-ac, 后缀-ular]
 
 ## 同根词
 
-**后缀 `-ac`**：[[02-科目/英语一/知识点/词汇/单词/opacity|opacity]] · [[02-科目/英语一/知识点/词汇/单词/vivacious|vivacious]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ac|后缀 -ac — 形容词后缀]]**：opacity · vivacious
 
-**后缀 `-ular`**：[[02-科目/英语一/知识点/词汇/单词/particular|particular]] · [[02-科目/英语一/知识点/词汇/单词/cellular|cellular]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ular|后缀 -ular — 形容词后缀，“似…形状的”，“有…性质的”]]**：particular · cellular
 
 ---
 

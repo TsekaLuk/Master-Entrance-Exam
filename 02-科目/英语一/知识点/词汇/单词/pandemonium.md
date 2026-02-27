@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 前缀-pan, 后缀-ium]
 
 ## 同根词
 
-**前缀 `pan-`**：[[02-科目/英语一/知识点/词汇/单词/panacea|panacea]] · [[02-科目/英语一/知识点/词汇/单词/pandemic|pandemic]] · [[02-科目/英语一/知识点/词汇/单词/panegyric|panegyric]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-pan|前缀 pan- — 全]]**：panacea · pandemic · panegyric
 
-**后缀 `-ium`**：[[02-科目/英语一/知识点/词汇/单词/equilibrium|equilibrium]] · [[02-科目/英语一/知识点/词汇/单词/moratorium|moratorium]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ium|后缀 -ium — 名词后缀]]**：equilibrium · moratorium
 
 ---
 

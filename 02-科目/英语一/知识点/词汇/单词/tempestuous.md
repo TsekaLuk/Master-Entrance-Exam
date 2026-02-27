@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 后缀-uous]
 
 ## 同根词
 
-**后缀 `-uous`**：[[02-科目/英语一/知识点/词汇/单词/ingenuous|ingenuous]] · [[02-科目/英语一/知识点/词汇/单词/assiduous|assiduous]] · [[02-科目/英语一/知识点/词汇/单词/conspicuous|conspicuous]] · [[02-科目/英语一/知识点/词汇/单词/tortuous|tortuous]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-uous|后缀 -uous — 形容词后缀]]**：ingenuous · assiduous · conspicuous · tortuous
 
 ---
 

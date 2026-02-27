@@ -26,11 +26,11 @@ tags: [GRE词汇, 英语, 词根-gen, 前缀-con, 后缀-ial]
 
 ## 同根词
 
-**词根 `gen`**：[[02-科目/英语一/知识点/词汇/单词/generosity|generosity]] · [[02-科目/英语一/知识点/词汇/单词/genesis|genesis]] · [[02-科目/英语一/知识点/词汇/单词/genial|genial]] · [[02-科目/英语一/知识点/词汇/单词/germane|germane]] · [[02-科目/英语一/知识点/词汇/单词/ingenious|ingenious]] · [[02-科目/英语一/知识点/词汇/单词/ingenuous|ingenuous]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-gen|词根 gen — 生]]**：generosity · genesis · genial · germane · ingenious · ingenuous
 
-**前缀 `con-`**：[[02-科目/英语一/知识点/词汇/单词/conciliate|conciliate]] · [[02-科目/英语一/知识点/词汇/单词/conciliatory|conciliatory]] · [[02-科目/英语一/知识点/词汇/单词/reconcile|reconcile]] · [[02-科目/英语一/知识点/词汇/单词/conform|conform]] · [[02-科目/英语一/知识点/词汇/单词/conformity|conformity]] · [[02-科目/英语一/知识点/词汇/单词/conquer|conquer]] · [[02-科目/英语一/知识点/词汇/单词/conquest|conquest]] · [[02-科目/英语一/知识点/词汇/单词/conservative|conservative]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-con|前缀 con- — 共同]]**：conciliate · conciliatory · reconcile · conform · conformity · conquer · conquest · conservative
 
-**后缀 `-ial`**：[[02-科目/英语一/知识点/词汇/单词/superficial|superficial]] · [[02-科目/英语一/知识点/词汇/单词/superficiality|superficiality]] · [[02-科目/英语一/知识点/词汇/单词/initial|initial]] · [[02-科目/英语一/知识点/词汇/单词/substantial|substantial]] · [[02-科目/英语一/知识点/词汇/单词/controversial|controversial]] · [[02-科目/英语一/知识点/词汇/单词/perennial|perennial]] · [[02-科目/英语一/知识点/词汇/单词/crucial|crucial]] · [[02-科目/英语一/知识点/词汇/单词/menial|menial]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ial|后缀 -ial — 形容词后缀]]**：superficial · superficiality · initial · substantial · controversial · perennial · crucial · menial
 
 ---
 

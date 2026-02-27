@@ -26,11 +26,11 @@ tags: [GRE词汇, 英语, 前缀-ap, 前缀-re, 后缀-ment]
 
 ## 同根词
 
-**前缀 `ap-`**：[[02-科目/英语一/知识点/词汇/单词/apprise|apprise]] · [[02-科目/英语一/知识点/词汇/单词/appropriate|appropriate]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-ap|前缀 ap- — 加强]]**：apprise · appropriate
 
-**前缀 `re-`**：[[02-科目/英语一/知识点/词汇/单词/react|react]] · [[02-科目/英语一/知识点/词汇/单词/reactant|reactant]] · [[02-科目/英语一/知识点/词汇/单词/reactionary|reactionary]] · [[02-科目/英语一/知识点/词汇/单词/rebellious|rebellious]] · [[02-科目/英语一/知识点/词汇/单词/recapitulate|recapitulate]] · [[02-科目/英语一/知识点/词汇/单词/recipient|recipient]] · [[02-科目/英语一/知识点/词汇/单词/rescind|rescind]] · [[02-科目/英语一/知识点/词汇/单词/reconcile|reconcile]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-re|前缀 re- — 加强]]**：react · reactant · reactionary · rebellious · recapitulate · recipient · rescind · reconcile
 
-**后缀 `-ment`**：[[02-科目/英语一/知识点/词汇/单词/procurement|procurement]] · [[02-科目/英语一/知识点/词汇/单词/understatement|understatement]] · [[02-科目/英语一/知识点/词汇/单词/inclement|inclement]] · [[02-科目/英语一/知识点/词汇/单词/fundamental|fundamental]] · [[02-科目/英语一/知识点/词汇/单词/rudimentary|rudimentary]] · [[02-科目/英语一/知识点/词汇/单词/commencement|commencement]] · [[02-科目/英语一/知识点/词汇/单词/ferment|ferment]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ment|后缀 -ment — 名词后缀]]**：procurement · understatement · inclement · fundamental · rudimentary · commencement · ferment
 
 ---
 

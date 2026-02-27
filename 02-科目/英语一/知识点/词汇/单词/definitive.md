@@ -26,11 +26,11 @@ tags: [GRE词汇, 英语, 词根-fin, 前缀-de, 后缀-itive]
 
 ## 同根词
 
-**词根 `fin`**：[[02-科目/英语一/知识点/词汇/单词/definite|definite]] · [[02-科目/英语一/知识点/词汇/单词/finale|finale]] · [[02-科目/英语一/知识点/词汇/单词/finesse|finesse]] · [[02-科目/英语一/知识点/词汇/单词/finite|finite]] · [[02-科目/英语一/知识点/词汇/单词/infinite|infinite]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-fin|词根 fin — 边界→末尾]]**：definite · finale · finesse · finite · infinite
 
-**前缀 `de-`**：[[02-科目/英语一/知识点/词汇/单词/definite|definite]] · [[02-科目/英语一/知识点/词汇/单词/deprivation|deprivation]] · [[02-科目/英语一/知识点/词汇/单词/despicable|despicable]] · [[02-科目/英语一/知识点/词汇/单词/indeterminate|indeterminate]] · [[02-科目/英语一/知识点/词汇/单词/devious|devious]] · [[02-科目/英语一/知识点/词汇/单词/debate|debate]] · [[02-科目/英语一/知识点/词汇/单词/debonair|debonair]] · [[02-科目/英语一/知识点/词汇/单词/decadent|decadent]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-de|前缀 de- — 加强]]**：definite · deprivation · despicable · indeterminate · devious · debate · debonair · decadent
 
-**后缀 `-itive`**：[[02-科目/英语一/知识点/词汇/单词/inquisitive|inquisitive]] · [[02-科目/英语一/知识点/词汇/单词/sensitive|sensitive]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-itive|后缀 -itive — 形容词后缀]]**：inquisitive · sensitive
 
 ---
 

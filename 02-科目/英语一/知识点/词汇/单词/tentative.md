@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 词根-tend, 后缀-ative]
 
 ## 同根词
 
-**词根 `tend`**：[[02-科目/英语一/知识点/词汇/单词/ostentation|ostentation]] · [[02-科目/英语一/知识点/词汇/单词/tendentious|tendentious]] · [[02-科目/英语一/知识点/词汇/单词/tension|tension]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-tend|词根 tend — 伸展→试探]]**：ostentation · tendentious · tension
 
-**后缀 `-ative`**：[[02-科目/英语一/知识点/词汇/单词/innovative|innovative]] · [[02-科目/英语一/知识点/词汇/单词/conservative|conservative]] · [[02-科目/英语一/知识点/词汇/单词/derivative|derivative]] · [[02-科目/英语一/知识点/词汇/单词/prerogative|prerogative]] · [[02-科目/英语一/知识点/词汇/单词/cooperative|cooperative]] · [[02-科目/英语一/知识点/词汇/单词/figurative|figurative]] · [[02-科目/英语一/知识点/词汇/单词/meditative|meditative]] · [[02-科目/英语一/知识点/词汇/单词/palliative|palliative]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ative|后缀 -ative — 形容词后缀]]**：innovative · conservative · derivative · prerogative · cooperative · figurative · meditative · palliative
 
 ---
 

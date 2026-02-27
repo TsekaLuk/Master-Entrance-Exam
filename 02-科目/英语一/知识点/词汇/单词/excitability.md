@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 词根-cit, 前缀-ex]
 
 ## 同根词
 
-**词根 `cit`**：[[02-科目/英语一/知识点/词汇/单词/cite|cite]] · [[02-科目/英语一/知识点/词汇/单词/solicitude|solicitude]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-cit|词根 cit — 召集]]**：cite · solicitude
 
-**前缀 `ex-`**：[[02-科目/英语一/知识点/词汇/单词/exacting|exacting]] · [[02-科目/英语一/知识点/词汇/单词/exceptional|exceptional]] · [[02-科目/英语一/知识点/词汇/单词/expenditure|expenditure]] · [[02-科目/英语一/知识点/词汇/单词/extend|extend]] · [[02-科目/英语一/知识点/词汇/单词/exceed|exceed]] · [[02-科目/英语一/知识点/词汇/单词/exclusive|exclusive]] · [[02-科目/英语一/知识点/词汇/单词/exempt|exempt]] · [[02-科目/英语一/知识点/词汇/单词/expire|expire]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-ex|前缀 ex- — 出]]**：exacting · exceptional · expenditure · extend · exceed · exclusive · exempt · expire
 
 ---
 

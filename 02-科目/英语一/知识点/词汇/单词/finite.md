@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 词根-fin, 后缀-ite]
 
 ## 同根词
 
-**词根 `fin`**：[[02-科目/英语一/知识点/词汇/单词/definite|definite]] · [[02-科目/英语一/知识点/词汇/单词/definitive|definitive]] · [[02-科目/英语一/知识点/词汇/单词/finale|finale]] · [[02-科目/英语一/知识点/词汇/单词/finesse|finesse]] · [[02-科目/英语一/知识点/词汇/单词/infinite|infinite]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-fin|词根 fin — 边界→末尾]]**：definite · definitive · finale · finesse · infinite
 
-**后缀 `-ite`**：[[02-科目/英语一/知识点/词汇/单词/definite|definite]] · [[02-科目/英语一/知识点/词汇/单词/infinite|infinite]] · [[02-科目/英语一/知识点/词汇/单词/perquisite|perquisite]] · [[02-科目/英语一/知识点/词汇/单词/erudite|erudite]] · [[02-科目/英语一/知识点/词汇/单词/ignite|ignite]] · [[02-科目/英语一/知识点/词汇/单词/sybarite|sybarite]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ite|后缀 -ite — 动词后缀]]**：definite · infinite · perquisite · erudite · ignite · sybarite
 
 ---
 

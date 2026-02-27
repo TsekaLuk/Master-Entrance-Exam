@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 前缀-pro, 后缀-ous]
 
 ## 同根词
 
-**前缀 `pro-`**：[[02-科目/英语一/知识点/词汇/单词/procurement|procurement]] · [[02-科目/英语一/知识点/词汇/单词/proficient|proficient]] · [[02-科目/英语一/知识点/词汇/单词/prominent|prominent]] · [[02-科目/英语一/知识点/词汇/单词/propensity|propensity]] · [[02-科目/英语一/知识点/词汇/单词/proprietary|proprietary]] · [[02-科目/英语一/知识点/词汇/单词/portentous|portentous]] · [[02-科目/英语一/知识点/词汇/单词/improvise|improvise]] · [[02-科目/英语一/知识点/词汇/单词/provident|provident]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-pro|前缀 pro- — 前]]**：procurement · proficient · prominent · propensity · proprietary · portentous · improvise · provident
 
-**后缀 `-ous`**：[[02-科目/英语一/知识点/词汇/单词/unanimous|unanimous]] · [[02-科目/英语一/知识点/词汇/单词/capricious|capricious]] · [[02-科目/英语一/知识点/词汇/单词/portentous|portentous]] · [[02-科目/英语一/知识点/词汇/单词/devious|devious]] · [[02-科目/英语一/知识点/词汇/单词/obvious|obvious]] · [[02-科目/英语一/知识点/词汇/单词/infamous|infamous]] · [[02-科目/英语一/知识点/词汇/单词/obstreperous|obstreperous]] · [[02-科目/英语一/知识点/词汇/单词/preposterous|preposterous]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ous|后缀 -ous — 形容词后缀]]**：unanimous · capricious · portentous · devious · obvious · infamous · obstreperous · preposterous
 
 ---
 

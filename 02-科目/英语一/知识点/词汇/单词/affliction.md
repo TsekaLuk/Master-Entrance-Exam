@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 前缀-af, 后缀-ion]
 
 ## 同根词
 
-**前缀 `af-`**：[[02-科目/英语一/知识点/词汇/单词/affable|affable]] · [[02-科目/英语一/知识点/词汇/单词/affluent|affluent]] · [[02-科目/英语一/知识点/词汇/单词/affront|affront]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-af|前缀 af- — 向]]**：affable · affluent · affront
 
-**后缀 `-ion`**：[[02-科目/英语一/知识点/词汇/单词/reactionary|reactionary]] · [[02-科目/英语一/知识点/词汇/单词/exceptional|exceptional]] · [[02-科目/英语一/知识点/词汇/单词/valediction|valediction]] · [[02-科目/英语一/知识点/词汇/单词/commotion|commotion]] · [[02-科目/英语一/知识点/词汇/单词/passionate|passionate]] · [[02-科目/英语一/知识点/词汇/单词/abstention|abstention]] · [[02-科目/英语一/知识点/词汇/单词/tension|tension]] · [[02-科目/英语一/知识点/词汇/单词/concession|concession]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ion|后缀 -ion — 名词后缀]]**：reactionary · exceptional · valediction · commotion · passionate · abstention · tension · concession
 
 ---
 

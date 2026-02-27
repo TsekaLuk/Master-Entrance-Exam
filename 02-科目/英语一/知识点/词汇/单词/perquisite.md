@@ -26,11 +26,11 @@ tags: [GRE词汇, 英语, 词根-quir, 前缀-per, 后缀-ite]
 
 ## 同根词
 
-**词根 `quir`**：[[02-科目/英语一/知识点/词汇/单词/acquisition|acquisition]] · [[02-科目/英语一/知识点/词汇/单词/conquer|conquer]] · [[02-科目/英语一/知识点/词汇/单词/conquest|conquest]] · [[02-科目/英语一/知识点/词汇/单词/inquisitive|inquisitive]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-quir|词根 quir — 寻找→获得]]**：acquisition · conquer · conquest · inquisitive
 
-**前缀 `per-`**：[[02-科目/英语一/知识点/词汇/单词/permanence|permanence]] · [[02-科目/英语一/知识点/词汇/单词/permanent|permanent]] · [[02-科目/英语一/知识点/词汇/单词/perspicacious|perspicacious]] · [[02-科目/英语一/知识点/词汇/单词/imperative|imperative]] · [[02-科目/英语一/知识点/词汇/单词/perennial|perennial]] · [[02-科目/英语一/知识点/词汇/单词/perfunctory|perfunctory]] · [[02-科目/英语一/知识点/词汇/单词/permeable|permeable]] · [[02-科目/英语一/知识点/词汇/单词/peroration|peroration]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-per|前缀 per- — 始终]]**：permanence · permanent · perspicacious · imperative · perennial · perfunctory · permeable · peroration
 
-**后缀 `-ite`**：[[02-科目/英语一/知识点/词汇/单词/definite|definite]] · [[02-科目/英语一/知识点/词汇/单词/finite|finite]] · [[02-科目/英语一/知识点/词汇/单词/infinite|infinite]] · [[02-科目/英语一/知识点/词汇/单词/erudite|erudite]] · [[02-科目/英语一/知识点/词汇/单词/ignite|ignite]] · [[02-科目/英语一/知识点/词汇/单词/sybarite|sybarite]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ite|后缀 -ite — 动词后缀]]**：definite · finite · infinite · erudite · ignite · sybarite
 
 ---
 

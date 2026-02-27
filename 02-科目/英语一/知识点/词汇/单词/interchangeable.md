@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 前缀-inter, 后缀-able]
 
 ## 同根词
 
-**前缀 `inter-`**：[[02-科目/英语一/知识点/词汇/单词/intermittent|intermittent]] · [[02-科目/英语一/知识点/词汇/单词/disinterested|disinterested]] · [[02-科目/英语一/知识点/词汇/单词/interim|interim]] · [[02-科目/英语一/知识点/词汇/单词/intervene|intervene]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-inter|前缀 inter- — 相互]]**：intermittent · disinterested · interim · intervene
 
-**后缀 `-able`**：[[02-科目/英语一/知识点/词汇/单词/amiable|amiable]] · [[02-科目/英语一/知识点/词汇/单词/inevitable|inevitable]] · [[02-科目/英语一/知识点/词汇/单词/indispensable|indispensable]] · [[02-科目/英语一/知识点/词汇/单词/implacable|implacable]] · [[02-科目/英语一/知识点/词汇/单词/despicable|despicable]] · [[02-科目/英语一/知识点/词汇/单词/interminable|interminable]] · [[02-科目/英语一/知识点/词汇/单词/intractable|intractable]] · [[02-科目/英语一/知识点/词汇/单词/tractable|tractable]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-able|后缀 -able — 形容词后缀]]**：amiable · inevitable · indispensable · implacable · despicable · interminable · intractable · tractable
 
 ---
 

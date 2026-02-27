@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 词根-fac, 前缀-pre]
 
 ## 同根词
 
-**词根 `fac`**：[[02-科目/英语一/知识点/词汇/单词/superficial|superficial]] · [[02-科目/英语一/知识点/词汇/单词/superficiality|superficiality]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-fac|词根 fac — 面]]**：superficial · superficiality
 
-**前缀 `pre-`**：[[02-科目/英语一/知识点/词汇/单词/precipitate|precipitate]] · [[02-科目/英语一/知识点/词汇/单词/precept|precept]] · [[02-科目/英语一/知识点/词汇/单词/precise|precise]] · [[02-科目/英语一/知识点/词汇/单词/preeminent|preeminent]] · [[02-科目/英语一/知识点/词汇/单词/prestige|prestige]] · [[02-科目/英语一/知识点/词汇/单词/pretentious|pretentious]] · [[02-科目/英语一/知识点/词汇/单词/preamble|preamble]] · [[02-科目/英语一/知识点/词汇/单词/preempt|preempt]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-pre|前缀 pre- — 前]]**：precipitate · precept · precise · preeminent · prestige · pretentious · preamble · preempt
 
 ---
 

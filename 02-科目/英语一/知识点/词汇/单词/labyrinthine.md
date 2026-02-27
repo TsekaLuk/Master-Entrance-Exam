@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 后缀-ine]
 
 ## 同根词
 
-**后缀 `-ine`**：[[02-科目/英语一/知识点/词汇/单词/discipline|discipline]] · [[02-科目/英语一/知识点/词汇/单词/serpentine|serpentine]] · [[02-科目/英语一/知识点/词汇/单词/elephantine|elephantine]] · [[02-科目/英语一/知识点/词汇/单词/libertine|libertine]] · [[02-科目/英语一/知识点/词汇/单词/pithiness|pithiness]] · [[02-科目/英语一/知识点/词汇/单词/sanguine|sanguine]] · [[02-科目/英语一/知识点/词汇/单词/saturnine|saturnine]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ine|后缀 -ine — 形容词后缀]]**：discipline · serpentine · elephantine · libertine · pithiness · sanguine · saturnine
 
 ---
 

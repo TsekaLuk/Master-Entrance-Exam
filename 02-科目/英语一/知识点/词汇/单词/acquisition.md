@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 词根-quir, 前缀-ac]
 
 ## 同根词
 
-**词根 `quir`**：[[02-科目/英语一/知识点/词汇/单词/conquer|conquer]] · [[02-科目/英语一/知识点/词汇/单词/conquest|conquest]] · [[02-科目/英语一/知识点/词汇/单词/inquisitive|inquisitive]] · [[02-科目/英语一/知识点/词汇/单词/perquisite|perquisite]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-quir|词根 quir — 寻找→获得]]**：conquer · conquest · inquisitive · perquisite
 
-**前缀 `ac-`**：[[02-科目/英语一/知识点/词汇/单词/accentuate|accentuate]] · [[02-科目/英语一/知识点/词汇/单词/accomplish|accomplish]] · [[02-科目/英语一/知识点/词汇/单词/acquittal|acquittal]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-ac|前缀 ac- — 向]]**：accentuate · accomplish · acquittal
 
 ---
 

@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 词根-par]
 
 ## 同根词
 
-**词根 `par`**：[[02-科目/英语一/知识点/词汇/单词/disparage|disparage]] · [[02-科目/英语一/知识点/词汇/单词/disparate|disparate]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-par|词根 par — 相等]]**：disparage · disparate
 
 ---
 

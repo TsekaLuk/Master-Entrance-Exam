@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 前缀-trans, 后缀-ence]
 
 ## 同根词
 
-**前缀 `trans-`**：[[02-科目/英语一/知识点/词汇/单词/intransigent|intransigent]] · [[02-科目/英语一/知识点/词汇/单词/tranquility|tranquility]] · [[02-科目/英语一/知识点/词汇/单词/transcend|transcend]] · [[02-科目/英语一/知识点/词汇/单词/transcendent|transcendent]] · [[02-科目/英语一/知识点/词汇/单词/transfer|transfer]] · [[02-科目/英语一/知识点/词汇/单词/transient|transient]] · [[02-科目/英语一/知识点/词汇/单词/transitory|transitory]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-trans|前缀 trans- — 穿过]]**：intransigent · tranquility · transcend · transcendent · transfer · transient · transitory
 
-**后缀 `-ence`**：[[02-科目/英语一/知识点/词汇/单词/negligence|negligence]] · [[02-科目/英语一/知识点/词汇/单词/permanence|permanence]] · [[02-科目/英语一/知识点/词汇/单词/eminence|eminence]] · [[02-科目/英语一/知识点/词汇/单词/complacency|complacency]] · [[02-科目/英语一/知识点/词汇/单词/consequence|consequence]] · [[02-科目/英语一/知识点/词汇/单词/innocence|innocence]] · [[02-科目/英语一/知识点/词汇/单词/persistence|persistence]] · [[02-科目/英语一/知识点/词汇/单词/commencement|commencement]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ence|后缀 -ence — 名词后缀]]**：negligence · permanence · eminence · complacency · consequence · innocence · persistence · commencement
 
 ---
 

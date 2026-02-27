@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 前缀-for, 后缀-ance]
 
 ## 同根词
 
-**前缀 `for-`**：[[02-科目/英语一/知识点/词汇/单词/forfeitureit|forfeitureit]] · [[02-科目/英语一/知识点/词汇/单词/straightforward|straightforward]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-for|前缀 for- — 加强]]**：forfeitureit · straightforward
 
-**后缀 `-ance`**：[[02-科目/英语一/知识点/词汇/单词/relevance|relevance]] · [[02-科目/英语一/知识点/词汇/单词/defiance|defiance]] · [[02-科目/英语一/知识点/词汇/单词/dissonance|dissonance]] · [[02-科目/英语一/知识点/词汇/单词/exuberance|exuberance]] · [[02-科目/英语一/知识点/词汇/单词/reliance|reliance]] · [[02-科目/英语一/知识点/词汇/单词/surveillance|surveillance]] · [[02-科目/英语一/知识点/词汇/单词/extravagance|extravagance]] · [[02-科目/英语一/知识点/词汇/单词/nuance|nuance]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ance|后缀 -ance — 名词后缀]]**：relevance · defiance · dissonance · exuberance · reliance · surveillance · extravagance · nuance
 
 ---
 

@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 前缀-ad]
 
 ## 同根词
 
-**前缀 `ad-`**：[[02-科目/英语一/知识点/词汇/单词/apprentice|apprentice]] · [[02-科目/英语一/知识点/词汇/单词/adaptable|adaptable]] · [[02-科目/英语一/知识点/词汇/单词/adept|adept]] · [[02-科目/英语一/知识点/词汇/单词/adversity|adversity]] · [[02-科目/英语一/知识点/词汇/单词/advocate|advocate]] · [[02-科目/英语一/知识点/词汇/单词/amenable|amenable]] · [[02-科目/英语一/知识点/词汇/单词/apparition|apparition]] · [[02-科目/英语一/知识点/词汇/单词/appease|appease]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-ad|前缀 ad- — 向]]**：apprentice · adaptable · adept · adversity · advocate · amenable · apparition · appease
 
 ---
 

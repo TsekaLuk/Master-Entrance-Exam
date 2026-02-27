@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 词根-lev, 后缀-ity]
 
 ## 同根词
 
-**词根 `lev`**：[[02-科目/英语一/知识点/词汇/单词/alleviate|alleviate]] · [[02-科目/英语一/知识点/词汇/单词/levy|levy]] · [[02-科目/英语一/知识点/词汇/单词/relevance|relevance]] · [[02-科目/英语一/知识点/词汇/单词/relevant|relevant]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-lev|词根 lev — 举]]**：alleviate · levy · relevance · relevant
 
-**后缀 `-ity`**：[[02-科目/英语一/知识点/词汇/单词/hyperactivity|hyperactivity]] · [[02-科目/英语一/知识点/词汇/单词/equanimity|equanimity]] · [[02-科目/英语一/知识点/词汇/单词/superficiality|superficiality]] · [[02-科目/英语一/知识点/词汇/单词/conformity|conformity]] · [[02-科目/英语一/知识点/词汇/单词/formality|formality]] · [[02-科目/英语一/知识点/词汇/单词/generosity|generosity]] · [[02-科目/英语一/知识点/词汇/单词/maturity|maturity]] · [[02-科目/英语一/知识点/词汇/单词/mediocrity|mediocrity]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ity|后缀 -ity — 名词后缀]]**：hyperactivity · equanimity · superficiality · conformity · formality · generosity · maturity · mediocrity
 
 ---
 

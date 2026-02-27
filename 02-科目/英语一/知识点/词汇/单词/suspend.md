@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 词根-pens, 前缀-sus]
 
 ## 同根词
 
-**词根 `pens`**：[[02-科目/英语一/知识点/词汇/单词/compendium|compendium]] · [[02-科目/英语一/知识点/词汇/单词/expenditure|expenditure]] · [[02-科目/英语一/知识点/词汇/单词/indispensable|indispensable]] · [[02-科目/英语一/知识点/词汇/单词/propensity|propensity]] · [[02-科目/英语一/知识点/词汇/单词/recompense|recompense]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-pens|词根 pens — 悬挂→拉]]**：compendium · expenditure · indispensable · propensity · recompense
 
-**前缀 `sus-`**：[[02-科目/英语一/知识点/词汇/单词/sustain|sustain]] · [[02-科目/英语一/知识点/词汇/单词/sustained|sustained]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-sus|前缀 sus- — 加强]]**：sustain · sustained
 
 ---
 

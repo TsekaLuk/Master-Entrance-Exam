@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 词根-set, 前缀-be]
 
 ## 同根词
 
-**词根 `set`**：[[02-科目/英语一/知识点/词汇/单词/outset|outset]] · [[02-科目/英语一/知识点/词汇/单词/setback|setback]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-set|词根 set — 放置]]**：outset · setback
 
-**前缀 `be-`**：[[02-科目/英语一/知识点/词汇/单词/beleaguer|beleaguer]] · [[02-科目/英语一/知识点/词汇/单词/begrudge|begrudge]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-be|前缀 be- — 在]]**：beleaguer · begrudge
 
 ---
 

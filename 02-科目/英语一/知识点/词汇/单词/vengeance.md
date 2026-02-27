@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 词根-dic, 词根-vin]
 
 ## 同根词
 
-**词根 `dic`**：[[02-科目/英语一/知识点/词汇/单词/abdicate|abdicate]] · [[02-科目/英语一/知识点/词汇/单词/valediction|valediction]] · [[02-科目/英语一/知识点/词汇/单词/vindicate|vindicate]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-dic|词根 dic — 说]]**：abdicate · valediction · vindicate
 
-**词根 `vin`**：[[02-科目/英语一/知识点/词汇/单词/vindicate|vindicate]] · [[02-科目/英语一/知识点/词汇/单词/vindictive|vindictive]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-vin|词根 vin — 力量]]**：vindicate · vindictive
 
 ---
 

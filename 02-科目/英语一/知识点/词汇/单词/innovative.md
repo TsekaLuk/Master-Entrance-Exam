@@ -26,11 +26,11 @@ tags: [GRE词汇, 英语, 词根-nov, 前缀-in, 后缀-ative]
 
 ## 同根词
 
-**词根 `nov`**：[[02-科目/英语一/知识点/词汇/单词/novel|novel]] · [[02-科目/英语一/知识点/词汇/单词/novice|novice]] · [[02-科目/英语一/知识点/词汇/单词/renovate|renovate]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-nov|词根 nov — 新]]**：novel · novice · renovate
 
-**前缀 `in-`**：[[02-科目/英语一/知识点/词汇/单词/intransigent|intransigent]] · [[02-科目/英语一/知识点/词汇/单词/inimical|inimical]] · [[02-科目/英语一/知识点/词汇/单词/incipient|incipient]] · [[02-科目/英语一/知识点/词汇/单词/incisive|incisive]] · [[02-科目/英语一/知识点/词汇/单词/indurate|indurate]] · [[02-科目/英语一/知识点/词汇/单词/infinite|infinite]] · [[02-科目/英语一/知识点/词汇/单词/informed|informed]] · [[02-科目/英语一/知识点/词汇/单词/ingenious|ingenious]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-in|前缀 in- — 否定]]**：intransigent · inimical · incipient · incisive · indurate · infinite · informed · ingenious
 
-**后缀 `-ative`**：[[02-科目/英语一/知识点/词汇/单词/conservative|conservative]] · [[02-科目/英语一/知识点/词汇/单词/tentative|tentative]] · [[02-科目/英语一/知识点/词汇/单词/derivative|derivative]] · [[02-科目/英语一/知识点/词汇/单词/prerogative|prerogative]] · [[02-科目/英语一/知识点/词汇/单词/cooperative|cooperative]] · [[02-科目/英语一/知识点/词汇/单词/figurative|figurative]] · [[02-科目/英语一/知识点/词汇/单词/meditative|meditative]] · [[02-科目/英语一/知识点/词汇/单词/palliative|palliative]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ative|后缀 -ative — 形容词后缀]]**：conservative · tentative · derivative · prerogative · cooperative · figurative · meditative · palliative
 
 ---
 

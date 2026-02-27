@@ -26,11 +26,11 @@ tags: [GRE词汇, 英语, 词根-it, 前缀-in, 前缀-un]
 
 ## 同根词
 
-**词根 `it`**：[[02-科目/英语一/知识点/词汇/单词/inevitable|inevitable]] · [[02-科目/英语一/知识点/词汇/单词/initial|initial]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-it|词根 it — 走]]**：inevitable · initial
 
-**前缀 `in-`**：[[02-科目/英语一/知识点/词汇/单词/intransigent|intransigent]] · [[02-科目/英语一/知识点/词汇/单词/inimical|inimical]] · [[02-科目/英语一/知识点/词汇/单词/incipient|incipient]] · [[02-科目/英语一/知识点/词汇/单词/incisive|incisive]] · [[02-科目/英语一/知识点/词汇/单词/indurate|indurate]] · [[02-科目/英语一/知识点/词汇/单词/infinite|infinite]] · [[02-科目/英语一/知识点/词汇/单词/informed|informed]] · [[02-科目/英语一/知识点/词汇/单词/ingenious|ingenious]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-in|前缀 in- — 否定]]**：intransigent · inimical · incipient · incisive · indurate · infinite · informed · ingenious
 
-**前缀 `un-`**：[[02-科目/英语一/知识点/词汇/单词/unanimous|unanimous]] · [[02-科目/英语一/知识点/词汇/单词/unsubstantiated|unsubstantiated]] · [[02-科目/英语一/知识点/词汇/单词/unassailable|unassailable]] · [[02-科目/英语一/知识点/词汇/单词/unconscionable|unconscionable]] · [[02-科目/英语一/知识点/词汇/单词/unprecedented|unprecedented]] · [[02-科目/英语一/知识点/词汇/单词/unearthly|unearthly]] · [[02-科目/英语一/知识点/词汇/单词/unfasten|unfasten]] · [[02-科目/英语一/知识点/词汇/单词/ungainly|ungainly]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-un|前缀 un- — 否定]]**：unanimous · unsubstantiated · unassailable · unconscionable · unprecedented · unearthly · unfasten · ungainly
 
 ---
 

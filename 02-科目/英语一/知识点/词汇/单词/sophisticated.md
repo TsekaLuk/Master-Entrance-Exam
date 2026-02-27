@@ -26,11 +26,11 @@ tags: [GRE词汇, 英语, 后缀-ate, 后缀-ed, 后缀-ic]
 
 ## 同根词
 
-**后缀 `-ate`**：[[02-科目/英语一/知识点/词汇/单词/agitate|agitate]] · [[02-科目/英语一/知识点/词汇/单词/mitigate|mitigate]] · [[02-科目/英语一/知识点/词汇/单词/precipitate|precipitate]] · [[02-科目/英语一/知识点/词汇/单词/conciliate|conciliate]] · [[02-科目/英语一/知识点/词汇/单词/abdicate|abdicate]] · [[02-科目/英语一/知识点/词汇/单词/vindicate|vindicate]] · [[02-科目/英语一/知识点/词汇/单词/indurate|indurate]] · [[02-科目/英语一/知识点/词汇/单词/obdurate|obdurate]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ate|后缀 -ate — 动词后缀]]**：agitate · mitigate · precipitate · conciliate · abdicate · vindicate · indurate · obdurate
 
-**后缀 `-ed`**：[[02-科目/英语一/知识点/词汇/单词/informed|informed]] · [[02-科目/英语一/知识点/词汇/单词/settled|settled]] · [[02-科目/英语一/知识点/词汇/单词/unsubstantiated|unsubstantiated]] · [[02-科目/英语一/知识点/词汇/单词/sustained|sustained]] · [[02-科目/英语一/知识点/词汇/单词/versed|versed]] · [[02-科目/英语一/知识点/词汇/单词/discombobulated|discombobulated]] · [[02-科目/英语一/知识点/词汇/单词/concerted|concerted]] · [[02-科目/英语一/知识点/词汇/单词/convoluted|convoluted]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ed|后缀 -ed — 形容词后缀]]**：informed · settled · unsubstantiated · sustained · versed · discombobulated · concerted · convoluted
 
-**后缀 `-ic`**：[[02-科目/英语一/知识点/词汇/单词/lethargic|lethargic]] · [[02-科目/英语一/知识点/词汇/单词/eclectic|eclectic]] · [[02-科目/英语一/知识点/词汇/单词/antiseptic|antiseptic]] · [[02-科目/英语一/知识点/词汇/单词/pandemic|pandemic]] · [[02-科目/英语一/知识点/词汇/单词/panegyric|panegyric]] · [[02-科目/英语一/知识点/词汇/单词/prosaic|prosaic]] · [[02-科目/英语一/知识点/词汇/单词/aesthetic|aesthetic]] · [[02-科目/英语一/知识点/词汇/单词/arrhythmic|arrhythmic]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ic|后缀 -ic — 形容词后缀]]**：lethargic · eclectic · antiseptic · pandemic · panegyric · prosaic · aesthetic · arrhythmic
 
 ---
 

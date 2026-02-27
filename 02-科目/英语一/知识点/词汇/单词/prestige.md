@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 词根-string, 前缀-pre]
 
 ## 同根词
 
-**词根 `string`**：[[02-科目/英语一/知识点/词汇/单词/astringent|astringent]] · [[02-科目/英语一/知识点/词汇/单词/stingy|stingy]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-string|词根 string — 压;]]**：astringent · stingy
 
-**前缀 `pre-`**：[[02-科目/英语一/知识点/词汇/单词/precipitate|precipitate]] · [[02-科目/英语一/知识点/词汇/单词/precept|precept]] · [[02-科目/英语一/知识点/词汇/单词/precise|precise]] · [[02-科目/英语一/知识点/词汇/单词/preface|preface]] · [[02-科目/英语一/知识点/词汇/单词/preeminent|preeminent]] · [[02-科目/英语一/知识点/词汇/单词/pretentious|pretentious]] · [[02-科目/英语一/知识点/词汇/单词/preamble|preamble]] · [[02-科目/英语一/知识点/词汇/单词/preempt|preempt]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-pre|前缀 pre- — 前]]**：precipitate · precept · precise · preface · preeminent · pretentious · preamble · preempt
 
 ---
 

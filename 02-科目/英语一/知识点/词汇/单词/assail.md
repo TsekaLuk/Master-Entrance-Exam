@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 前缀-as]
 
 ## 同根词
 
-**前缀 `as-`**：[[02-科目/英语一/知识点/词汇/单词/assiduous|assiduous]] · [[02-科目/英语一/知识点/词汇/单词/assimilate|assimilate]] · [[02-科目/英语一/知识点/词汇/单词/assume|assume]] · [[02-科目/英语一/知识点/词汇/单词/unassailable|unassailable]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-as|前缀 as- — 加强]]**：assiduous · assimilate · assume · unassailable
 
 ---
 

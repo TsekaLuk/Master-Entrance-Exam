@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 后缀-ly]
 
 ## 同根词
 
-**后缀 `-ly`**：[[02-科目/英语一/知识点/词汇/单词/reliance|reliance]] · [[02-科目/英语一/知识点/词汇/单词/unearthly|unearthly]] · [[02-科目/英语一/知识点/词汇/单词/ungainly|ungainly]] · [[02-科目/英语一/知识点/词汇/单词/unseemly|unseemly]] · [[02-科目/英语一/知识点/词汇/单词/unworldly|unworldly]] · [[02-科目/英语一/知识点/词汇/单词/wily|wily]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ly|后缀 -ly — 形容词后缀]]**：reliance · unearthly · ungainly · unseemly · unworldly · wily
 
 ---
 

@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 前缀-over]
 
 ## 同根词
 
-**前缀 `over-`**：[[02-科目/英语一/知识点/词汇/单词/oversee|oversee]] · [[02-科目/英语一/知识点/词汇/单词/overwhelm|overwhelm]] · [[02-科目/英语一/知识点/词汇/单词/overwrought|overwrought]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-over|前缀 over- — 在上面]]**：oversee · overwhelm · overwrought
 
 ---
 

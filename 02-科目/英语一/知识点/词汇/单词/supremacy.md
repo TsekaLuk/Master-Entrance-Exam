@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 后缀-acy]
 
 ## 同根词
 
-**后缀 `-acy`**：[[02-科目/英语一/知识点/词汇/单词/delicacy|delicacy]] · [[02-科目/英语一/知识点/词汇/单词/obstinacy|obstinacy]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-acy|后缀 -acy — 名词后缀]]**：delicacy · obstinacy
 
 ---
 

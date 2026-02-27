@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 前缀-ag, 后缀-ize]
 
 ## 同根词
 
-**前缀 `ag-`**：[[02-科目/英语一/知识点/词汇/单词/aggressive|aggressive]] · [[02-科目/英语一/知识点/词汇/单词/aggrieve|aggrieve]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-ag|前缀 ag- — 加强]]**：aggressive · aggrieve
 
-**后缀 `-ize`**：[[02-科目/英语一/知识点/词汇/单词/apologize|apologize]] · [[02-科目/英语一/知识点/词汇/单词/neutralize|neutralize]] · [[02-科目/英语一/知识点/词汇/单词/antagonize|antagonize]] · [[02-科目/英语一/知识点/词汇/单词/fertilize|fertilize]] · [[02-科目/英语一/知识点/词汇/单词/jeopardize|jeopardize]] · [[02-科目/英语一/知识点/词汇/单词/monopolize|monopolize]] · [[02-科目/英语一/知识点/词汇/单词/randomize|randomize]] · [[02-科目/英语一/知识点/词汇/单词/scrutinize|scrutinize]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ize|后缀 -ize — 动词后缀]]**：apologize · neutralize · antagonize · fertilize · jeopardize · monopolize · randomize · scrutinize
 
 ---
 

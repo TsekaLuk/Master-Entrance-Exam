@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 前缀-per, 后缀-ation]
 
 ## 同根词
 
-**前缀 `per-`**：[[02-科目/英语一/知识点/词汇/单词/permanence|permanence]] · [[02-科目/英语一/知识点/词汇/单词/permanent|permanent]] · [[02-科目/英语一/知识点/词汇/单词/perquisite|perquisite]] · [[02-科目/英语一/知识点/词汇/单词/perspicacious|perspicacious]] · [[02-科目/英语一/知识点/词汇/单词/imperative|imperative]] · [[02-科目/英语一/知识点/词汇/单词/perennial|perennial]] · [[02-科目/英语一/知识点/词汇/单词/perfunctory|perfunctory]] · [[02-科目/英语一/知识点/词汇/单词/permeable|permeable]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-per|前缀 per- — 始终]]**：permanence · permanent · perquisite · perspicacious · imperative · perennial · perfunctory · permeable
 
-**后缀 `-ation`**：[[02-科目/英语一/知识点/词汇/单词/duration|duration]] · [[02-科目/英语一/知识点/词汇/单词/deprivation|deprivation]] · [[02-科目/英语一/知识点/词汇/单词/indignation|indignation]] · [[02-科目/英语一/知识点/词汇/单词/resignation|resignation]] · [[02-科目/英语一/知识点/词汇/单词/ostentation|ostentation]] · [[02-科目/英语一/知识点/词汇/单词/provocation|provocation]] · [[02-科目/英语一/知识点/词汇/单词/aspiration|aspiration]] · [[02-科目/英语一/知识点/词汇/单词/annexation|annexation]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ation|后缀 -ation — 名词后缀]]**：duration · deprivation · indignation · resignation · ostentation · provocation · aspiration · annexation
 
 ---
 

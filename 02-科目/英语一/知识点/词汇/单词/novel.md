@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 词根-nov, 后缀-el]
 
 ## 同根词
 
-**词根 `nov`**：[[02-科目/英语一/知识点/词汇/单词/innovative|innovative]] · [[02-科目/英语一/知识点/词汇/单词/novice|novice]] · [[02-科目/英语一/知识点/词汇/单词/renovate|renovate]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-nov|词根 nov — 新]]**：innovative · novice · renovate
 
-**后缀 `-el`**：[[02-科目/英语一/知识点/词汇/单词/kernel|kernel]] · [[02-科目/英语一/知识点/词汇/单词/marvel|marvel]] · [[02-科目/英语一/知识点/词汇/单词/morsel|morsel]] · [[02-科目/英语一/知识点/词汇/单词/wastrel|wastrel]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-el|后缀 -el — 形容词后缀]]**：kernel · marvel · morsel · wastrel
 
 ---
 

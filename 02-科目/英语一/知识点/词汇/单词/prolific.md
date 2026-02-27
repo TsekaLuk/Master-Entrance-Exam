@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 词根-fic]
 
 ## 同根词
 
-**词根 `fic`**：[[02-科目/英语一/知识点/词汇/单词/beneficent|beneficent]] · [[02-科目/英语一/知识点/词汇/单词/proficient|proficient]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-fic|词根 fic — 做]]**：beneficent · proficient
 
 ---
 

@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 词根-prehend, 前缀-com]
 
 ## 同根词
 
-**词根 `prehend`**：[[02-科目/英语一/知识点/词汇/单词/apprentice|apprentice]] · [[02-科目/英语一/知识点/词汇/单词/apprise|apprise]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-prehend|词根 prehend — 抓]]**：apprentice · apprise
 
-**前缀 `com-`**：[[02-科目/英语一/知识点/词汇/单词/commend|commend]] · [[02-科目/英语一/知识点/词汇/单词/commotion|commotion]] · [[02-科目/英语一/知识点/词汇/单词/compendium|compendium]] · [[02-科目/英语一/知识点/词汇/单词/recompense|recompense]] · [[02-科目/英语一/知识点/词汇/单词/compliant|compliant]] · [[02-科目/英语一/知识点/词汇/单词/accomplish|accomplish]] · [[02-科目/英语一/知识点/词汇/单词/communal|communal]] · [[02-科目/英语一/知识点/词汇/单词/compatible|compatible]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-com|前缀 com- — 共同]]**：commend · commotion · compendium · recompense · compliant · accomplish · communal · compatible
 
 ---
 

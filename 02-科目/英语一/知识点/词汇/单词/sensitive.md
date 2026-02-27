@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 后缀-itive]
 
 ## 同根词
 
-**后缀 `-itive`**：[[02-科目/英语一/知识点/词汇/单词/definitive|definitive]] · [[02-科目/英语一/知识点/词汇/单词/inquisitive|inquisitive]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-itive|后缀 -itive — 形容词后缀]]**：definitive · inquisitive
 
 ---
 

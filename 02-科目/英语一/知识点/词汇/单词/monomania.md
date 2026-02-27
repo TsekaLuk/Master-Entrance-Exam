@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 词根-man, 后缀-ia]
 
 ## 同根词
 
-**词根 `man`**：[[02-科目/英语一/知识点/词汇/单词/manifest|manifest]] · [[02-科目/英语一/知识点/词汇/单词/manipulate|manipulate]] · [[02-科目/英语一/知识点/词汇/单词/permanence|permanence]] · [[02-科目/英语一/知识点/词汇/单词/permanent|permanent]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-man|词根 man — 保持]]**：manifest · manipulate · permanence · permanent
 
-**后缀 `-ia`**：[[02-科目/英语一/知识点/词汇/单词/inertia|inertia]] · [[02-科目/英语一/知识点/词汇/单词/myopia|myopia]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ia|后缀 -ia — 名词后缀]]**：inertia · myopia
 
 ---
 

@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 前缀-trans]
 
 ## 同根词
 
-**前缀 `trans-`**：[[02-科目/英语一/知识点/词汇/单词/intransigent|intransigent]] · [[02-科目/英语一/知识点/词汇/单词/tranquility|tranquility]] · [[02-科目/英语一/知识点/词汇/单词/transcendent|transcendent]] · [[02-科目/英语一/知识点/词汇/单词/transfer|transfer]] · [[02-科目/英语一/知识点/词汇/单词/transience|transience]] · [[02-科目/英语一/知识点/词汇/单词/transient|transient]] · [[02-科目/英语一/知识点/词汇/单词/transitory|transitory]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-trans|前缀 trans- — 穿过]]**：intransigent · tranquility · transcendent · transfer · transience · transient · transitory
 
 ---
 

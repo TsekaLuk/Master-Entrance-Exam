@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 后缀-ile, 后缀-ity]
 
 ## 同根词
 
-**后缀 `-ile`**：[[02-科目/英语一/知识点/词汇/单词/mobile|mobile]] · [[02-科目/英语一/知识点/词汇/单词/servile|servile]] · [[02-科目/英语一/知识点/词汇/单词/versatile|versatile]] · [[02-科目/英语一/知识点/词汇/单词/docile|docile]] · [[02-科目/英语一/知识点/词汇/单词/fertile|fertile]] · [[02-科目/英语一/知识点/词汇/单词/juvenile|juvenile]] · [[02-科目/英语一/知识点/词汇/单词/labile|labile]] · [[02-科目/英语一/知识点/词汇/单词/puerile|puerile]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ile|后缀 -ile — 形容词后缀]]**：mobile · servile · versatile · docile · fertile · juvenile · labile · puerile
 
-**后缀 `-ity`**：[[02-科目/英语一/知识点/词汇/单词/hyperactivity|hyperactivity]] · [[02-科目/英语一/知识点/词汇/单词/equanimity|equanimity]] · [[02-科目/英语一/知识点/词汇/单词/superficiality|superficiality]] · [[02-科目/英语一/知识点/词汇/单词/conformity|conformity]] · [[02-科目/英语一/知识点/词汇/单词/formality|formality]] · [[02-科目/英语一/知识点/词汇/单词/generosity|generosity]] · [[02-科目/英语一/知识点/词汇/单词/levity|levity]] · [[02-科目/英语一/知识点/词汇/单词/maturity|maturity]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ity|后缀 -ity — 名词后缀]]**：hyperactivity · equanimity · superficiality · conformity · formality · generosity · levity · maturity
 
 ---
 

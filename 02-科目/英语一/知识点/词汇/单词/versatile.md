@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 词根-vers, 后缀-ile]
 
 ## 同根词
 
-**词根 `vers`**：[[02-科目/英语一/知识点/词汇/单词/diversity|diversity]] · [[02-科目/英语一/知识点/词汇/单词/reverse|reverse]] · [[02-科目/英语一/知识点/词汇/单词/versed|versed]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-vers|词根 vers — 转]]**：diversity · reverse · versed
 
-**后缀 `-ile`**：[[02-科目/英语一/知识点/词汇/单词/mobile|mobile]] · [[02-科目/英语一/知识点/词汇/单词/servile|servile]] · [[02-科目/英语一/知识点/词汇/单词/docile|docile]] · [[02-科目/英语一/知识点/词汇/单词/fertile|fertile]] · [[02-科目/英语一/知识点/词汇/单词/hostility|hostility]] · [[02-科目/英语一/知识点/词汇/单词/juvenile|juvenile]] · [[02-科目/英语一/知识点/词汇/单词/labile|labile]] · [[02-科目/英语一/知识点/词汇/单词/puerile|puerile]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ile|后缀 -ile — 形容词后缀]]**：mobile · servile · docile · fertile · hostility · juvenile · labile · puerile
 
 ---
 

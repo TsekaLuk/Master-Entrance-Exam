@@ -26,11 +26,11 @@ tags: [GRE词汇, 英语, 词根-am, 前缀-in, 后缀-ical]
 
 ## 同根词
 
-**词根 `am`**：[[02-科目/英语一/知识点/词汇/单词/amateur|amateur]] · [[02-科目/英语一/知识点/词汇/单词/amiable|amiable]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-am|词根 am — 爱]]**：amateur · amiable
 
-**前缀 `in-`**：[[02-科目/英语一/知识点/词汇/单词/intransigent|intransigent]] · [[02-科目/英语一/知识点/词汇/单词/incipient|incipient]] · [[02-科目/英语一/知识点/词汇/单词/incisive|incisive]] · [[02-科目/英语一/知识点/词汇/单词/indurate|indurate]] · [[02-科目/英语一/知识点/词汇/单词/infinite|infinite]] · [[02-科目/英语一/知识点/词汇/单词/informed|informed]] · [[02-科目/英语一/知识点/词汇/单词/ingenious|ingenious]] · [[02-科目/英语一/知识点/词汇/单词/ingenuous|ingenuous]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-in|前缀 in- — 否定]]**：intransigent · incipient · incisive · indurate · infinite · informed · ingenious · ingenuous
 
-**后缀 `-ical`**：[[02-科目/英语一/知识点/词汇/单词/economical|economical]] · [[02-科目/英语一/知识点/词汇/单词/whimsical|whimsical]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ical|后缀 -ical — 形容词后缀]]**：economical · whimsical
 
 ---
 

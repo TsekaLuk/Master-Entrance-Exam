@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 后缀-ism]
 
 ## 同根词
 
-**后缀 `-ism`**：[[02-科目/英语一/知识点/词汇/单词/optimism|optimism]] · [[02-科目/英语一/知识点/词汇/单词/pessimism|pessimism]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ism|后缀 -ism — 名词后缀，“...主义”]]**：optimism · pessimism
 
 ---
 

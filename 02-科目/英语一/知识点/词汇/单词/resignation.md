@@ -26,11 +26,11 @@ tags: [GRE词汇, 英语, 词根-sign, 前缀-re, 后缀-ation]
 
 ## 同根词
 
-**词根 `sign`**：[[02-科目/英语一/知识点/词汇/单词/indignation|indignation]] · [[02-科目/英语一/知识点/词汇/单词/significant|significant]] · [[02-科目/英语一/知识点/词汇/单词/signify|signify]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-sign|词根 sign — 标记]]**：indignation · significant · signify
 
-**前缀 `re-`**：[[02-科目/英语一/知识点/词汇/单词/react|react]] · [[02-科目/英语一/知识点/词汇/单词/reactant|reactant]] · [[02-科目/英语一/知识点/词汇/单词/reactionary|reactionary]] · [[02-科目/英语一/知识点/词汇/单词/rebellious|rebellious]] · [[02-科目/英语一/知识点/词汇/单词/recapitulate|recapitulate]] · [[02-科目/英语一/知识点/词汇/单词/recipient|recipient]] · [[02-科目/英语一/知识点/词汇/单词/rescind|rescind]] · [[02-科目/英语一/知识点/词汇/单词/reconcile|reconcile]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-re|前缀 re- — 加强]]**：react · reactant · reactionary · rebellious · recapitulate · recipient · rescind · reconcile
 
-**后缀 `-ation`**：[[02-科目/英语一/知识点/词汇/单词/duration|duration]] · [[02-科目/英语一/知识点/词汇/单词/deprivation|deprivation]] · [[02-科目/英语一/知识点/词汇/单词/indignation|indignation]] · [[02-科目/英语一/知识点/词汇/单词/ostentation|ostentation]] · [[02-科目/英语一/知识点/词汇/单词/provocation|provocation]] · [[02-科目/英语一/知识点/词汇/单词/aspiration|aspiration]] · [[02-科目/英语一/知识点/词汇/单词/annexation|annexation]] · [[02-科目/英语一/知识点/词汇/单词/deterioration|deterioration]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ation|后缀 -ation — 名词后缀]]**：duration · deprivation · indignation · ostentation · provocation · aspiration · annexation · deterioration
 
 ---
 

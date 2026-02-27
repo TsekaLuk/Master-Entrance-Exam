@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 前缀-contra]
 
 ## 同根词
 
-**前缀 `contra-`**：[[02-科目/英语一/知识点/词汇/单词/contradictory|contradictory]] · [[02-科目/英语一/知识点/词汇/单词/controversial|controversial]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-contra|前缀 contra- — 相反]]**：contradictory · controversial
 
 ---
 

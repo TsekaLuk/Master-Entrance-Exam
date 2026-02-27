@@ -26,11 +26,11 @@ tags: [GRE词汇, 英语, 词根-cap, 前缀-pre, 后缀-ate]
 
 ## 同根词
 
-**词根 `cap`**：[[02-科目/英语一/知识点/词汇/单词/capricious|capricious]] · [[02-科目/英语一/知识点/词汇/单词/recapitulate|recapitulate]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-cap|词根 cap — 头]]**：capricious · recapitulate
 
-**前缀 `pre-`**：[[02-科目/英语一/知识点/词汇/单词/precept|precept]] · [[02-科目/英语一/知识点/词汇/单词/precise|precise]] · [[02-科目/英语一/知识点/词汇/单词/preface|preface]] · [[02-科目/英语一/知识点/词汇/单词/preeminent|preeminent]] · [[02-科目/英语一/知识点/词汇/单词/prestige|prestige]] · [[02-科目/英语一/知识点/词汇/单词/pretentious|pretentious]] · [[02-科目/英语一/知识点/词汇/单词/preamble|preamble]] · [[02-科目/英语一/知识点/词汇/单词/preempt|preempt]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-pre|前缀 pre- — 前]]**：precept · precise · preface · preeminent · prestige · pretentious · preamble · preempt
 
-**后缀 `-ate`**：[[02-科目/英语一/知识点/词汇/单词/agitate|agitate]] · [[02-科目/英语一/知识点/词汇/单词/mitigate|mitigate]] · [[02-科目/英语一/知识点/词汇/单词/conciliate|conciliate]] · [[02-科目/英语一/知识点/词汇/单词/abdicate|abdicate]] · [[02-科目/英语一/知识点/词汇/单词/vindicate|vindicate]] · [[02-科目/英语一/知识点/词汇/单词/indurate|indurate]] · [[02-科目/英语一/知识点/词汇/单词/obdurate|obdurate]] · [[02-科目/英语一/知识点/词汇/单词/alleviate|alleviate]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ate|后缀 -ate — 动词后缀]]**：agitate · mitigate · conciliate · abdicate · vindicate · indurate · obdurate · alleviate
 
 ---
 

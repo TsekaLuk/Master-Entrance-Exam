@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 前缀-under, 后缀-ed]
 
 ## 同根词
 
-**前缀 `under-`**：[[02-科目/英语一/知识点/词汇/单词/undermine|undermine]] · [[02-科目/英语一/知识点/词汇/单词/understatement|understatement]] · [[02-科目/英语一/知识点/词汇/单词/underrate|underrate]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-under|前缀 under- — 下]]**：undermine · understatement · underrate
 
-**后缀 `-ed`**：[[02-科目/英语一/知识点/词汇/单词/informed|informed]] · [[02-科目/英语一/知识点/词汇/单词/settled|settled]] · [[02-科目/英语一/知识点/词汇/单词/unsubstantiated|unsubstantiated]] · [[02-科目/英语一/知识点/词汇/单词/sustained|sustained]] · [[02-科目/英语一/知识点/词汇/单词/versed|versed]] · [[02-科目/英语一/知识点/词汇/单词/discombobulated|discombobulated]] · [[02-科目/英语一/知识点/词汇/单词/concerted|concerted]] · [[02-科目/英语一/知识点/词汇/单词/convoluted|convoluted]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ed|后缀 -ed — 形容词后缀]]**：informed · settled · unsubstantiated · sustained · versed · discombobulated · concerted · convoluted
 
 ---
 

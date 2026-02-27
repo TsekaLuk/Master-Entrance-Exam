@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 词根-nov, 后缀-ice]
 
 ## 同根词
 
-**词根 `nov`**：[[02-科目/英语一/知识点/词汇/单词/innovative|innovative]] · [[02-科目/英语一/知识点/词汇/单词/novel|novel]] · [[02-科目/英语一/知识点/词汇/单词/renovate|renovate]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-nov|词根 nov — 新]]**：innovative · novel · renovate
 
-**后缀 `-ice`**：[[02-科目/英语一/知识点/词汇/单词/apprentice|apprentice]] · [[02-科目/英语一/知识点/词汇/单词/unnoticed|unnoticed]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ice|后缀 -ice — 名词后缀]]**：apprentice · unnoticed
 
 ---
 

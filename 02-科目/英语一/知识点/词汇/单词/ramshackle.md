@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 后缀-le]
 
 ## 同根词
 
-**后缀 `-le`**：[[02-科目/英语一/知识点/词汇/单词/settle|settle]] · [[02-科目/英语一/知识点/词汇/单词/settled|settled]] · [[02-科目/英语一/知识点/词汇/单词/brittle|brittle]] · [[02-科目/英语一/知识点/词汇/单词/dabble|dabble]] · [[02-科目/英语一/知识点/词汇/单词/fickle|fickle]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-le|后缀 -le — 动词后缀]]**：settle · settled · brittle · dabble · fickle
 
 ---
 

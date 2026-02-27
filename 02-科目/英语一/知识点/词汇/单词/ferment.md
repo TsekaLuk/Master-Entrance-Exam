@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 后缀-ment]
 
 ## 同根词
 
-**后缀 `-ment`**：[[02-科目/英语一/知识点/词汇/单词/procurement|procurement]] · [[02-科目/英语一/知识点/词汇/单词/understatement|understatement]] · [[02-科目/英语一/知识点/词汇/单词/rapprochement|rapprochement]] · [[02-科目/英语一/知识点/词汇/单词/inclement|inclement]] · [[02-科目/英语一/知识点/词汇/单词/fundamental|fundamental]] · [[02-科目/英语一/知识点/词汇/单词/rudimentary|rudimentary]] · [[02-科目/英语一/知识点/词汇/单词/commencement|commencement]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ment|后缀 -ment — 名词后缀]]**：procurement · understatement · rapprochement · inclement · fundamental · rudimentary · commencement
 
 ---
 

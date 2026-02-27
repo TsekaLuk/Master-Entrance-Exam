@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 后缀-ic]
 
 ## 同根词
 
-**后缀 `-ic`**：[[02-科目/英语一/知识点/词汇/单词/lethargic|lethargic]] · [[02-科目/英语一/知识点/词汇/单词/eclectic|eclectic]] · [[02-科目/英语一/知识点/词汇/单词/antiseptic|antiseptic]] · [[02-科目/英语一/知识点/词汇/单词/pandemic|pandemic]] · [[02-科目/英语一/知识点/词汇/单词/panegyric|panegyric]] · [[02-科目/英语一/知识点/词汇/单词/prosaic|prosaic]] · [[02-科目/英语一/知识点/词汇/单词/sophisticated|sophisticated]] · [[02-科目/英语一/知识点/词汇/单词/arrhythmic|arrhythmic]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ic|后缀 -ic — 形容词后缀]]**：lethargic · eclectic · antiseptic · pandemic · panegyric · prosaic · sophisticated · arrhythmic
 
 ---
 

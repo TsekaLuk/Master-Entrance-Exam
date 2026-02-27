@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 后缀-ar, 后缀-ious]
 
 ## 同根词
 
-**后缀 `-ar`**：[[02-科目/英语一/知识点/词汇/单词/familiarity|familiarity]] · [[02-科目/英语一/知识点/词汇/单词/insular|insular]] · [[02-科目/英语一/知识点/词汇/单词/singularity|singularity]] · [[02-科目/英语一/知识点/词汇/单词/utilitarian|utilitarian]] · [[02-科目/英语一/知识点/词汇/单词/vicarious|vicarious]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ar|后缀 -ar — 形容词后缀]]**：familiarity · insular · singularity · utilitarian · vicarious
 
-**后缀 `-ious`**：[[02-科目/英语一/知识点/词汇/单词/magnanimous|magnanimous]] · [[02-科目/英语一/知识点/词汇/单词/rebellious|rebellious]] · [[02-科目/英语一/知识点/词汇/单词/ingenious|ingenious]] · [[02-科目/英语一/知识点/词汇/单词/perspicacious|perspicacious]] · [[02-科目/英语一/知识点/词汇/单词/tendentious|tendentious]] · [[02-科目/英语一/知识点/词汇/单词/pretentious|pretentious]] · [[02-科目/英语一/知识点/词汇/单词/oblivious|oblivious]] · [[02-科目/英语一/知识点/词汇/单词/obsequious|obsequious]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ious|后缀 -ious — 形容词后缀]]**：magnanimous · rebellious · ingenious · perspicacious · tendentious · pretentious · oblivious · obsequious
 
 ---
 

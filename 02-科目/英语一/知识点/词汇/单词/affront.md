@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 前缀-af]
 
 ## 同根词
 
-**前缀 `af-`**：[[02-科目/英语一/知识点/词汇/单词/affable|affable]] · [[02-科目/英语一/知识点/词汇/单词/affliction|affliction]] · [[02-科目/英语一/知识点/词汇/单词/affluent|affluent]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-af|前缀 af- — 向]]**：affable · affliction · affluent
 
 ---
 

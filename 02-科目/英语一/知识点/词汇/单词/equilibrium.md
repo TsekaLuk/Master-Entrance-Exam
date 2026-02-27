@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 后缀-ium]
 
 ## 同根词
 
-**后缀 `-ium`**：[[02-科目/英语一/知识点/词汇/单词/pandemonium|pandemonium]] · [[02-科目/英语一/知识点/词汇/单词/moratorium|moratorium]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ium|后缀 -ium — 名词后缀]]**：pandemonium · moratorium
 
 ---
 

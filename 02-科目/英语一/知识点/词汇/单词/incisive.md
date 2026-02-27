@@ -26,11 +26,11 @@ tags: [GRE词汇, 英语, 词根-cid, 前缀-in, 后缀-ive]
 
 ## 同根词
 
-**词根 `cid`**：[[02-科目/英语一/知识点/词汇/单词/precise|precise]] · [[02-科目/英语一/知识点/词汇/单词/rescind|rescind]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-cid|词根 cid — 切]]**：precise · rescind
 
-**前缀 `in-`**：[[02-科目/英语一/知识点/词汇/单词/intransigent|intransigent]] · [[02-科目/英语一/知识点/词汇/单词/inimical|inimical]] · [[02-科目/英语一/知识点/词汇/单词/incipient|incipient]] · [[02-科目/英语一/知识点/词汇/单词/indurate|indurate]] · [[02-科目/英语一/知识点/词汇/单词/infinite|infinite]] · [[02-科目/英语一/知识点/词汇/单词/informed|informed]] · [[02-科目/英语一/知识点/词汇/单词/ingenious|ingenious]] · [[02-科目/英语一/知识点/词汇/单词/ingenuous|ingenuous]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-in|前缀 in- — 否定]]**：intransigent · inimical · incipient · indurate · infinite · informed · ingenious · ingenuous
 
-**后缀 `-ive`**：[[02-科目/英语一/知识点/词汇/单词/impassive|impassive]] · [[02-科目/英语一/知识点/词汇/单词/passive|passive]] · [[02-科目/英语一/知识点/词汇/单词/restive|restive]] · [[02-科目/英语一/知识点/词汇/单词/substantive|substantive]] · [[02-科目/英语一/知识点/词汇/单词/vindictive|vindictive]] · [[02-科目/英语一/知识点/词汇/单词/aggressive|aggressive]] · [[02-科目/英语一/知识点/词汇/单词/disruptive|disruptive]] · [[02-科目/英语一/知识点/词汇/单词/distinctive|distinctive]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ive|后缀 -ive — 形容词后缀]]**：impassive · passive · restive · substantive · vindictive · aggressive · disruptive · distinctive
 
 ---
 

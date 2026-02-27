@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 词根-arg]
 
 ## 同根词
 
-**词根 `arg`**：[[02-科目/英语一/知识点/词汇/单词/largesse|largesse]] · [[02-科目/英语一/知识点/词汇/单词/lethargic|lethargic]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-arg|词根 arg — 闲置，虚度]]**：largesse · lethargic
 
 ---
 

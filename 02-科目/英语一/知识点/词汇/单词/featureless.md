@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 后缀-less, 后缀-ure]
 
 ## 同根词
 
-**后缀 `-less`**：[[02-科目/英语一/知识点/词汇/单词/artless|artless]] · [[02-科目/英语一/知识点/词汇/单词/ruthless|ruthless]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-less|后缀 -less — 形容词后缀]]**：artless · ruthless
 
-**后缀 `-ure`**：[[02-科目/英语一/知识点/词汇/单词/censure|censure]] · [[02-科目/英语一/知识点/词汇/单词/immature|immature]] · [[02-科目/英语一/知识点/词汇/单词/maturity|maturity]] · [[02-科目/英语一/知识点/词汇/单词/enclosure|enclosure]] · [[02-科目/英语一/知识点/词汇/单词/indenture|indenture]] · [[02-科目/英语一/知识点/词汇/单词/overture|overture]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ure|后缀 -ure — 抽象名词后缀，表行为、结果、状态]]**：censure · immature · maturity · enclosure · indenture · overture
 
 ---
 

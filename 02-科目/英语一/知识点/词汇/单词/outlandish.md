@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 前缀-out, 后缀-ish]
 
 ## 同根词
 
-**前缀 `out-`**：[[02-科目/英语一/知识点/词汇/单词/outset|outset]] · [[02-科目/英语一/知识点/词汇/单词/outstrip|outstrip]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-out|前缀 out- — 出来]]**：outset · outstrip
 
-**后缀 `-ish`**：[[02-科目/英语一/知识点/词汇/单词/accomplish|accomplish]] · [[02-科目/英语一/知识点/词汇/单词/anguish|anguish]] · [[02-科目/英语一/知识点/词汇/单词/faddish|faddish]] · [[02-科目/英语一/知识点/词汇/单词/famish|famish]] · [[02-科目/英语一/知识点/词汇/单词/flourish|flourish]] · [[02-科目/英语一/知识点/词汇/单词/lavish|lavish]] · [[02-科目/英语一/知识点/词汇/单词/mulish|mulish]] · [[02-科目/英语一/知识点/词汇/单词/peevish|peevish]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ish|后缀 -ish — 动词后缀]]**：accomplish · anguish · faddish · famish · flourish · lavish · mulish · peevish
 
 ---
 

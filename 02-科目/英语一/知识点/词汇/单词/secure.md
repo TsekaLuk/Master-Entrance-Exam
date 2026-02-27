@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 词根-cur]
 
 ## 同根词
 
-**词根 `cur`**：[[02-科目/英语一/知识点/词汇/单词/discourse|discourse]] · [[02-科目/英语一/知识点/词汇/单词/procurement|procurement]] · [[02-科目/英语一/知识点/词汇/单词/sinecure|sinecure]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-cur|词根 cur — 关心→顾虑]]**：discourse · procurement · sinecure
 
 ---
 

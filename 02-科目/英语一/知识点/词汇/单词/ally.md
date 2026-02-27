@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 前缀-al]
 
 ## 同根词
 
-**前缀 `al-`**：[[02-科目/英语一/知识点/词汇/单词/alleviate|alleviate]] · [[02-科目/英语一/知识点/词汇/单词/alluring|alluring]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-al|前缀 al- — 加强]]**：alleviate · alluring
 
 ---
 

@@ -26,11 +26,11 @@ tags: [GRE词汇, 英语, 词根-priv, 前缀-pro, 后缀-ary]
 
 ## 同根词
 
-**词根 `priv`**：[[02-科目/英语一/知识点/词汇/单词/deprivation|deprivation]] · [[02-科目/英语一/知识点/词汇/单词/privilege|privilege]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-priv|词根 priv — 个人]]**：deprivation · privilege
 
-**前缀 `pro-`**：[[02-科目/英语一/知识点/词汇/单词/procurement|procurement]] · [[02-科目/英语一/知识点/词汇/单词/proficient|proficient]] · [[02-科目/英语一/知识点/词汇/单词/prominent|prominent]] · [[02-科目/英语一/知识点/词汇/单词/propensity|propensity]] · [[02-科目/英语一/知识点/词汇/单词/portentous|portentous]] · [[02-科目/英语一/知识点/词汇/单词/improvise|improvise]] · [[02-科目/英语一/知识点/词汇/单词/provident|provident]] · [[02-科目/英语一/知识点/词汇/单词/provocation|provocation]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-pro|前缀 pro- — 前]]**：procurement · proficient · prominent · propensity · portentous · improvise · provident · provocation
 
-**后缀 `-ary`**：[[02-科目/英语一/知识点/词汇/单词/reactionary|reactionary]] · [[02-科目/英语一/知识点/词汇/单词/sedentary|sedentary]] · [[02-科目/英语一/知识点/词汇/单词/arbitrary|arbitrary]] · [[02-科目/英语一/知识点/词汇/单词/elementary|elementary]] · [[02-科目/英语一/知识点/词汇/单词/gregariousness|gregariousness]] · [[02-科目/英语一/知识点/词汇/单词/rudimentary|rudimentary]] · [[02-科目/英语一/知识点/词汇/单词/salutary|salutary]] · [[02-科目/英语一/知识点/词汇/单词/solitary|solitary]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ary|后缀 -ary — 形容词后缀]]**：reactionary · sedentary · arbitrary · elementary · gregariousness · rudimentary · salutary · solitary
 
 ---
 

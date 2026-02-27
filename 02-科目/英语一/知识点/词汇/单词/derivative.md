@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 前缀-de, 后缀-ative]
 
 ## 同根词
 
-**前缀 `de-`**：[[02-科目/英语一/知识点/词汇/单词/definite|definite]] · [[02-科目/英语一/知识点/词汇/单词/definitive|definitive]] · [[02-科目/英语一/知识点/词汇/单词/deprivation|deprivation]] · [[02-科目/英语一/知识点/词汇/单词/despicable|despicable]] · [[02-科目/英语一/知识点/词汇/单词/indeterminate|indeterminate]] · [[02-科目/英语一/知识点/词汇/单词/devious|devious]] · [[02-科目/英语一/知识点/词汇/单词/debate|debate]] · [[02-科目/英语一/知识点/词汇/单词/debonair|debonair]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-de|前缀 de- — 加强]]**：definite · definitive · deprivation · despicable · indeterminate · devious · debate · debonair
 
-**后缀 `-ative`**：[[02-科目/英语一/知识点/词汇/单词/innovative|innovative]] · [[02-科目/英语一/知识点/词汇/单词/conservative|conservative]] · [[02-科目/英语一/知识点/词汇/单词/tentative|tentative]] · [[02-科目/英语一/知识点/词汇/单词/prerogative|prerogative]] · [[02-科目/英语一/知识点/词汇/单词/cooperative|cooperative]] · [[02-科目/英语一/知识点/词汇/单词/figurative|figurative]] · [[02-科目/英语一/知识点/词汇/单词/meditative|meditative]] · [[02-科目/英语一/知识点/词汇/单词/palliative|palliative]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ative|后缀 -ative — 形容词后缀]]**：innovative · conservative · tentative · prerogative · cooperative · figurative · meditative · palliative
 
 ---
 

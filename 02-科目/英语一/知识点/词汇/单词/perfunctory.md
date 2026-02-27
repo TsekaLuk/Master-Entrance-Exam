@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 前缀-per, 后缀-ory]
 
 ## 同根词
 
-**前缀 `per-`**：[[02-科目/英语一/知识点/词汇/单词/permanence|permanence]] · [[02-科目/英语一/知识点/词汇/单词/permanent|permanent]] · [[02-科目/英语一/知识点/词汇/单词/perquisite|perquisite]] · [[02-科目/英语一/知识点/词汇/单词/perspicacious|perspicacious]] · [[02-科目/英语一/知识点/词汇/单词/imperative|imperative]] · [[02-科目/英语一/知识点/词汇/单词/perennial|perennial]] · [[02-科目/英语一/知识点/词汇/单词/permeable|permeable]] · [[02-科目/英语一/知识点/词汇/单词/peroration|peroration]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-per|前缀 per- — 始终]]**：permanence · permanent · perquisite · perspicacious · imperative · perennial · permeable · peroration
 
-**后缀 `-ory`**：[[02-科目/英语一/知识点/词汇/单词/conciliatory|conciliatory]] · [[02-科目/英语一/知识点/词汇/单词/contradictory|contradictory]] · [[02-科目/英语一/知识点/词汇/单词/inventory|inventory]] · [[02-科目/英语一/知识点/词汇/单词/refractory|refractory]] · [[02-科目/英语一/知识点/词汇/单词/transitory|transitory]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ory|后缀 -ory — 形容词后缀]]**：conciliatory · contradictory · inventory · refractory · transitory
 
 ---
 

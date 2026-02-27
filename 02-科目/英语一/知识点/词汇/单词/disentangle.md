@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 前缀-dis, 前缀-en]
 
 ## 同根词
 
-**前缀 `dis-`**：[[02-科目/英语一/知识点/词汇/单词/discipline|discipline]] · [[02-科目/英语一/知识点/词汇/单词/discourse|discourse]] · [[02-科目/英语一/知识点/词汇/单词/disparage|disparage]] · [[02-科目/英语一/知识点/词汇/单词/disparate|disparate]] · [[02-科目/英语一/知识点/词汇/单词/indispensable|indispensable]] · [[02-科目/英语一/知识点/词汇/单词/dissident|dissident]] · [[02-科目/英语一/知识点/词汇/单词/diversity|diversity]] · [[02-科目/英语一/知识点/词汇/单词/discombobulated|discombobulated]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-dis|前缀 dis- — 否定]]**：discipline · discourse · disparage · disparate · indispensable · dissident · diversity · discombobulated
 
-**前缀 `en-`**：[[02-科目/英语一/知识点/词汇/单词/enduring|enduring]] · [[02-科目/英语一/知识点/词汇/单词/enclosure|enclosure]] · [[02-科目/英语一/知识点/词汇/单词/endow|endow]] · [[02-科目/英语一/知识点/词汇/单词/enfetter|enfetter]] · [[02-科目/英语一/知识点/词汇/单词/enfranchise|enfranchise]] · [[02-科目/英语一/知识点/词汇/单词/enmesh|enmesh]] · [[02-科目/英语一/知识点/词汇/单词/ennoble|ennoble]] · [[02-科目/英语一/知识点/词汇/单词/ennui|ennui]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-en|前缀 en- — 入]]**：enduring · enclosure · endow · enfetter · enfranchise · enmesh · ennoble · ennui
 
 ---
 

@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 词根-plac, 后缀-ian]
 
 ## 同根词
 
-**词根 `plac`**：[[02-科目/英语一/知识点/词汇/单词/compliant|compliant]] · [[02-科目/英语一/知识点/词汇/单词/implacable|implacable]] · [[02-科目/英语一/知识点/词汇/单词/placate|placate]] · [[02-科目/英语一/知识点/词汇/单词/placebo|placebo]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-plac|词根 plac — 放置]]**：compliant · implacable · placate · placebo
 
-**后缀 `-ian`**：[[02-科目/英语一/知识点/词汇/单词/utilitarian|utilitarian]] · [[02-科目/英语一/知识点/词汇/单词/pedestrian|pedestrian]] · [[02-科目/英语一/知识点/词汇/单词/plebeian|plebeian]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ian|后缀 -ian — 形容词后缀]]**：utilitarian · pedestrian · plebeian
 
 ---
 

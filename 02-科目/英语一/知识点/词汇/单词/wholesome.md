@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 后缀-some]
 
 ## 同根词
 
-**后缀 `-some`**：[[02-科目/英语一/知识点/词汇/单词/wearisome|wearisome]] · [[02-科目/英语一/知识点/词汇/单词/winsome|winsome]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-some|后缀 -some — 形容词后缀]]**：wearisome · winsome
 
 ---
 

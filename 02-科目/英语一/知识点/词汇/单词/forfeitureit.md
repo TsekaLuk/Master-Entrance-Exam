@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 前缀-for]
 
 ## 同根词
 
-**前缀 `for-`**：[[02-科目/英语一/知识点/词汇/单词/forbearance|forbearance]] · [[02-科目/英语一/知识点/词汇/单词/straightforward|straightforward]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-for|前缀 for- — 加强]]**：forbearance · straightforward
 
 ---
 

@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 后缀-ency]
 
 ## 同根词
 
-**后缀 `-ency`**：[[02-科目/英语一/知识点/词汇/单词/consistency|consistency]] · [[02-科目/英语一/知识点/词汇/单词/deficiency|deficiency]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ency|后缀 -ency — 名词后缀]]**：consistency · deficiency
 
 ---
 

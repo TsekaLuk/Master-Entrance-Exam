@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 前缀-an]
 
 ## 同根词
 
-**前缀 `an-`**：[[02-科目/英语一/知识点/词汇/单词/annexation|annexation]] · [[02-科目/英语一/知识点/词汇/单词/annul|annul]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-an|前缀 an- — 无]]**：annexation · annul
 
 ---
 

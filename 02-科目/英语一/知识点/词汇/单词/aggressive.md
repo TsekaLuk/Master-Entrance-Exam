@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 前缀-ag, 后缀-ive]
 
 ## 同根词
 
-**前缀 `ag-`**：[[02-科目/英语一/知识点/词汇/单词/aggrandize|aggrandize]] · [[02-科目/英语一/知识点/词汇/单词/aggrieve|aggrieve]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-ag|前缀 ag- — 加强]]**：aggrandize · aggrieve
 
-**后缀 `-ive`**：[[02-科目/英语一/知识点/词汇/单词/incisive|incisive]] · [[02-科目/英语一/知识点/词汇/单词/impassive|impassive]] · [[02-科目/英语一/知识点/词汇/单词/passive|passive]] · [[02-科目/英语一/知识点/词汇/单词/restive|restive]] · [[02-科目/英语一/知识点/词汇/单词/substantive|substantive]] · [[02-科目/英语一/知识点/词汇/单词/vindictive|vindictive]] · [[02-科目/英语一/知识点/词汇/单词/disruptive|disruptive]] · [[02-科目/英语一/知识点/词汇/单词/distinctive|distinctive]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ive|后缀 -ive — 形容词后缀]]**：incisive · impassive · passive · restive · substantive · vindictive · disruptive · distinctive
 
 ---
 

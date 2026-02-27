@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 词根-tent, 前缀-ex]
 
 ## 同根词
 
-**词根 `tent`**：[[02-科目/英语一/知识点/词汇/单词/portentous|portentous]] · [[02-科目/英语一/知识点/词汇/单词/pretentious|pretentious]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-tent|词根 tent — 伸展]]**：portentous · pretentious
 
-**前缀 `ex-`**：[[02-科目/英语一/知识点/词汇/单词/exacting|exacting]] · [[02-科目/英语一/知识点/词汇/单词/exceptional|exceptional]] · [[02-科目/英语一/知识点/词汇/单词/excitability|excitability]] · [[02-科目/英语一/知识点/词汇/单词/expenditure|expenditure]] · [[02-科目/英语一/知识点/词汇/单词/exceed|exceed]] · [[02-科目/英语一/知识点/词汇/单词/exclusive|exclusive]] · [[02-科目/英语一/知识点/词汇/单词/exempt|exempt]] · [[02-科目/英语一/知识点/词汇/单词/expire|expire]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-ex|前缀 ex- — 出]]**：exacting · exceptional · excitability · expenditure · exceed · exclusive · exempt · expire
 
 ---
 

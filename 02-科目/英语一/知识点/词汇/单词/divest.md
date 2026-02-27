@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 前缀-di]
 
 ## 同根词
 
-**前缀 `di-`**：[[02-科目/英语一/知识点/词汇/单词/dilemma|dilemma]] · [[02-科目/英语一/知识点/词汇/单词/dilute|dilute]] · [[02-科目/英语一/知识点/词汇/单词/individual|individual]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-di|前缀 di- — 离开]]**：dilemma · dilute · individual
 
 ---
 

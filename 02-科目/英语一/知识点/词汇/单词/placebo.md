@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 词根-plac]
 
 ## 同根词
 
-**词根 `plac`**：[[02-科目/英语一/知识点/词汇/单词/compliant|compliant]] · [[02-科目/英语一/知识点/词汇/单词/implacable|implacable]] · [[02-科目/英语一/知识点/词汇/单词/placate|placate]] · [[02-科目/英语一/知识点/词汇/单词/utopian|utopian]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-plac|词根 plac — 放置]]**：compliant · implacable · placate · utopian
 
 ---
 

@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 后缀-ify]
 
 ## 同根词
 
-**后缀 `-ify`**：[[02-科目/英语一/知识点/词汇/单词/fortify|fortify]] · [[02-科目/英语一/知识点/词汇/单词/modify|modify]] · [[02-科目/英语一/知识点/词汇/单词/mollify|mollify]] · [[02-科目/英语一/知识点/词汇/单词/stratify|stratify]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ify|后缀 -ify — 动词后缀]]**：fortify · modify · mollify · stratify
 
 ---
 

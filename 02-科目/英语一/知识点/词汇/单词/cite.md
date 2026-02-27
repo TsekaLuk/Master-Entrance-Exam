@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 词根-cit]
 
 ## 同根词
 
-**词根 `cit`**：[[02-科目/英语一/知识点/词汇/单词/excitability|excitability]] · [[02-科目/英语一/知识点/词汇/单词/solicitude|solicitude]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-cit|词根 cit — 召集]]**：excitability · solicitude
 
 ---
 

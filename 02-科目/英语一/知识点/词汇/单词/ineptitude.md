@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 前缀-in, 后缀-itude]
 
 ## 同根词
 
-**前缀 `in-`**：[[02-科目/英语一/知识点/词汇/单词/intransigent|intransigent]] · [[02-科目/英语一/知识点/词汇/单词/inimical|inimical]] · [[02-科目/英语一/知识点/词汇/单词/incipient|incipient]] · [[02-科目/英语一/知识点/词汇/单词/incisive|incisive]] · [[02-科目/英语一/知识点/词汇/单词/indurate|indurate]] · [[02-科目/英语一/知识点/词汇/单词/infinite|infinite]] · [[02-科目/英语一/知识点/词汇/单词/informed|informed]] · [[02-科目/英语一/知识点/词汇/单词/ingenious|ingenious]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-in|前缀 in- — 否定]]**：intransigent · inimical · incipient · incisive · indurate · infinite · informed · ingenious
 
-**后缀 `-itude`**：[[02-科目/英语一/知识点/词汇/单词/solicitude|solicitude]] · [[02-科目/英语一/知识点/词汇/单词/servitude|servitude]] · [[02-科目/英语一/知识点/词汇/单词/substitute|substitute]] · [[02-科目/英语一/知识点/词汇/单词/lassitude|lassitude]] · [[02-科目/英语一/知识点/词汇/单词/magnitude|magnitude]] · [[02-科目/英语一/知识点/词汇/单词/platitude|platitude]] · [[02-科目/英语一/知识点/词汇/单词/plenitude|plenitude]] · [[02-科目/英语一/知识点/词汇/单词/plentitude|plentitude]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-itude|后缀 -itude — 抽象名词后缀，表性质、状态]]**：solicitude · servitude · substitute · lassitude · magnitude · platitude · plenitude · plentitude
 
 ---
 

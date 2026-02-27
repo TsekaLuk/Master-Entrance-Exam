@@ -26,11 +26,11 @@ tags: [GRE词汇, 英语, 词根-gen, 后缀-er, 后缀-ity]
 
 ## 同根词
 
-**词根 `gen`**：[[02-科目/英语一/知识点/词汇/单词/congenial|congenial]] · [[02-科目/英语一/知识点/词汇/单词/genesis|genesis]] · [[02-科目/英语一/知识点/词汇/单词/genial|genial]] · [[02-科目/英语一/知识点/词汇/单词/germane|germane]] · [[02-科目/英语一/知识点/词汇/单词/ingenious|ingenious]] · [[02-科目/英语一/知识点/词汇/单词/ingenuous|ingenuous]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-gen|词根 gen — 生]]**：congenial · genesis · genial · germane · ingenious · ingenuous
 
-**后缀 `-er`**：[[02-科目/英语一/知识点/词汇/单词/beleaguer|beleaguer]] · [[02-科目/英语一/知识点/词汇/单词/insider|insider]] · [[02-科目/英语一/知识点/词汇/单词/obstreperous|obstreperous]] · [[02-科目/英语一/知识点/词汇/单词/preposterous|preposterous]] · [[02-科目/英语一/知识点/词汇/单词/unlettered|unlettered]] · [[02-科目/英语一/知识点/词汇/单词/vulnerable|vulnerable]] · [[02-科目/英语一/知识点/词汇/单词/flustered|flustered]] · [[02-科目/英语一/知识点/词汇/单词/badger|badger]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-er|后缀 -er — 名词后缀]]**：beleaguer · insider · obstreperous · preposterous · unlettered · vulnerable · flustered · badger
 
-**后缀 `-ity`**：[[02-科目/英语一/知识点/词汇/单词/hyperactivity|hyperactivity]] · [[02-科目/英语一/知识点/词汇/单词/equanimity|equanimity]] · [[02-科目/英语一/知识点/词汇/单词/superficiality|superficiality]] · [[02-科目/英语一/知识点/词汇/单词/conformity|conformity]] · [[02-科目/英语一/知识点/词汇/单词/formality|formality]] · [[02-科目/英语一/知识点/词汇/单词/levity|levity]] · [[02-科目/英语一/知识点/词汇/单词/maturity|maturity]] · [[02-科目/英语一/知识点/词汇/单词/mediocrity|mediocrity]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ity|后缀 -ity — 名词后缀]]**：hyperactivity · equanimity · superficiality · conformity · formality · levity · maturity · mediocrity
 
 ---
 

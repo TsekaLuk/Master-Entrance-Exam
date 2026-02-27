@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 前缀-im, 后缀-able]
 
 ## 同根词
 
-**前缀 `im-`**：[[02-科目/英语一/知识点/词汇/单词/immature|immature]] · [[02-科目/英语一/知识点/词汇/单词/impassive|impassive]] · [[02-科目/英语一/知识点/词汇/单词/implacable|implacable]] · [[02-科目/英语一/知识点/词汇/单词/improvise|improvise]] · [[02-科目/英语一/知识点/词汇/单词/immune|immune]] · [[02-科目/英语一/知识点/词汇/单词/impenetrable|impenetrable]] · [[02-科目/英语一/知识点/词汇/单词/imperative|imperative]] · [[02-科目/英语一/知识点/词汇/单词/impersonate|impersonate]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-im|前缀 im- — 否定]]**：immature · impassive · implacable · improvise · immune · impenetrable · imperative · impersonate
 
-**后缀 `-able`**：[[02-科目/英语一/知识点/词汇/单词/amiable|amiable]] · [[02-科目/英语一/知识点/词汇/单词/inevitable|inevitable]] · [[02-科目/英语一/知识点/词汇/单词/indispensable|indispensable]] · [[02-科目/英语一/知识点/词汇/单词/implacable|implacable]] · [[02-科目/英语一/知识点/词汇/单词/despicable|despicable]] · [[02-科目/英语一/知识点/词汇/单词/interminable|interminable]] · [[02-科目/英语一/知识点/词汇/单词/intractable|intractable]] · [[02-科目/英语一/知识点/词汇/单词/tractable|tractable]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-able|后缀 -able — 形容词后缀]]**：amiable · inevitable · indispensable · implacable · despicable · interminable · intractable · tractable
 
 ---
 

@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 前缀-contra, 后缀-ory]
 
 ## 同根词
 
-**前缀 `contra-`**：[[02-科目/英语一/知识点/词汇/单词/contravene|contravene]] · [[02-科目/英语一/知识点/词汇/单词/controversial|controversial]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-contra|前缀 contra- — 相反]]**：contravene · controversial
 
-**后缀 `-ory`**：[[02-科目/英语一/知识点/词汇/单词/conciliatory|conciliatory]] · [[02-科目/英语一/知识点/词汇/单词/inventory|inventory]] · [[02-科目/英语一/知识点/词汇/单词/perfunctory|perfunctory]] · [[02-科目/英语一/知识点/词汇/单词/refractory|refractory]] · [[02-科目/英语一/知识点/词汇/单词/transitory|transitory]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ory|后缀 -ory — 形容词后缀]]**：conciliatory · inventory · perfunctory · refractory · transitory
 
 ---
 

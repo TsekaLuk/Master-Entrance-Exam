@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 前缀-sur, 后缀-ance]
 
 ## 同根词
 
-**前缀 `sur-`**：[[02-科目/英语一/知识点/词汇/单词/surrender|surrender]] · [[02-科目/英语一/知识点/词汇/单词/surcharge|surcharge]] · [[02-科目/英语一/知识点/词汇/单词/surfeit|surfeit]] · [[02-科目/英语一/知识点/词汇/单词/surrogate|surrogate]] · [[02-科目/英语一/知识点/词汇/单词/survive|survive]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-sur|前缀 sur- — 加强]]**：surrender · surcharge · surfeit · surrogate · survive
 
-**后缀 `-ance`**：[[02-科目/英语一/知识点/词汇/单词/relevance|relevance]] · [[02-科目/英语一/知识点/词汇/单词/defiance|defiance]] · [[02-科目/英语一/知识点/词汇/单词/dissonance|dissonance]] · [[02-科目/英语一/知识点/词汇/单词/exuberance|exuberance]] · [[02-科目/英语一/知识点/词汇/单词/forbearance|forbearance]] · [[02-科目/英语一/知识点/词汇/单词/reliance|reliance]] · [[02-科目/英语一/知识点/词汇/单词/extravagance|extravagance]] · [[02-科目/英语一/知识点/词汇/单词/nuance|nuance]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ance|后缀 -ance — 名词后缀]]**：relevance · defiance · dissonance · exuberance · forbearance · reliance · extravagance · nuance
 
 ---
 

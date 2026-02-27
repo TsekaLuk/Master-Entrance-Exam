@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 词根-min, 后缀-ence]
 
 ## 同根词
 
-**词根 `min`**：[[02-科目/英语一/知识点/词汇/单词/minute|minute]] · [[02-科目/英语一/知识点/词汇/单词/preeminent|preeminent]] · [[02-科目/英语一/知识点/词汇/单词/prominent|prominent]] · [[02-科目/英语一/知识点/词汇/单词/undermine|undermine]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-min|词根 min — 突出]]**：minute · preeminent · prominent · undermine
 
-**后缀 `-ence`**：[[02-科目/英语一/知识点/词汇/单词/negligence|negligence]] · [[02-科目/英语一/知识点/词汇/单词/permanence|permanence]] · [[02-科目/英语一/知识点/词汇/单词/complacency|complacency]] · [[02-科目/英语一/知识点/词汇/单词/consequence|consequence]] · [[02-科目/英语一/知识点/词汇/单词/innocence|innocence]] · [[02-科目/英语一/知识点/词汇/单词/persistence|persistence]] · [[02-科目/英语一/知识点/词汇/单词/transience|transience]] · [[02-科目/英语一/知识点/词汇/单词/commencement|commencement]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ence|后缀 -ence — 名词后缀]]**：negligence · permanence · complacency · consequence · innocence · persistence · transience · commencement
 
 ---
 

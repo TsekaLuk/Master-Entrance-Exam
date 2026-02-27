@@ -26,11 +26,11 @@ tags: [GRE词汇, 英语, 词根-dic, 前缀-ab, 后缀-ate]
 
 ## 同根词
 
-**词根 `dic`**：[[02-科目/英语一/知识点/词汇/单词/valediction|valediction]] · [[02-科目/英语一/知识点/词汇/单词/vengeance|vengeance]] · [[02-科目/英语一/知识点/词汇/单词/vindicate|vindicate]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-dic|词根 dic — 说]]**：valediction · vengeance · vindicate
 
-**前缀 `ab-`**：[[02-科目/英语一/知识点/词汇/单词/aberrant|aberrant]] · [[02-科目/英语一/知识点/词汇/单词/absolute|absolute]] · [[02-科目/英语一/知识点/词汇/单词/absurd|absurd]] · [[02-科目/英语一/知识点/词汇/单词/abundant|abundant]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-ab|前缀 ab- — 离开→偏离]]**：aberrant · absolute · absurd · abundant
 
-**后缀 `-ate`**：[[02-科目/英语一/知识点/词汇/单词/agitate|agitate]] · [[02-科目/英语一/知识点/词汇/单词/mitigate|mitigate]] · [[02-科目/英语一/知识点/词汇/单词/precipitate|precipitate]] · [[02-科目/英语一/知识点/词汇/单词/conciliate|conciliate]] · [[02-科目/英语一/知识点/词汇/单词/vindicate|vindicate]] · [[02-科目/英语一/知识点/词汇/单词/indurate|indurate]] · [[02-科目/英语一/知识点/词汇/单词/obdurate|obdurate]] · [[02-科目/英语一/知识点/词汇/单词/alleviate|alleviate]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ate|后缀 -ate — 动词后缀]]**：agitate · mitigate · precipitate · conciliate · vindicate · indurate · obdurate · alleviate
 
 ---
 

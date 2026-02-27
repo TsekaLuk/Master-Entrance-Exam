@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 词根-sign]
 
 ## 同根词
 
-**词根 `sign`**：[[02-科目/英语一/知识点/词汇/单词/indignation|indignation]] · [[02-科目/英语一/知识点/词汇/单词/resignation|resignation]] · [[02-科目/英语一/知识点/词汇/单词/significant|significant]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-sign|词根 sign — 标记]]**：indignation · resignation · significant
 
 ---
 

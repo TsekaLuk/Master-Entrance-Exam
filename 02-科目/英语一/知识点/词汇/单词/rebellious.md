@@ -26,11 +26,11 @@ tags: [GRE词汇, 英语, 词根-bell, 前缀-re, 后缀-ious]
 
 ## 同根词
 
-**词根 `bell`**：[[02-科目/英语一/知识点/词汇/单词/bellicose|bellicose]] · [[02-科目/英语一/知识点/词汇/单词/belligerent|belligerent]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-bell|词根 bell — 战争]]**：bellicose · belligerent
 
-**前缀 `re-`**：[[02-科目/英语一/知识点/词汇/单词/react|react]] · [[02-科目/英语一/知识点/词汇/单词/reactant|reactant]] · [[02-科目/英语一/知识点/词汇/单词/reactionary|reactionary]] · [[02-科目/英语一/知识点/词汇/单词/recapitulate|recapitulate]] · [[02-科目/英语一/知识点/词汇/单词/recipient|recipient]] · [[02-科目/英语一/知识点/词汇/单词/rescind|rescind]] · [[02-科目/英语一/知识点/词汇/单词/reconcile|reconcile]] · [[02-科目/英语一/知识点/词汇/单词/relevance|relevance]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-re|前缀 re- — 加强]]**：react · reactant · reactionary · recapitulate · recipient · rescind · reconcile · relevance
 
-**后缀 `-ious`**：[[02-科目/英语一/知识点/词汇/单词/magnanimous|magnanimous]] · [[02-科目/英语一/知识点/词汇/单词/ingenious|ingenious]] · [[02-科目/英语一/知识点/词汇/单词/perspicacious|perspicacious]] · [[02-科目/英语一/知识点/词汇/单词/tendentious|tendentious]] · [[02-科目/英语一/知识点/词汇/单词/pretentious|pretentious]] · [[02-科目/英语一/知识点/词汇/单词/oblivious|oblivious]] · [[02-科目/英语一/知识点/词汇/单词/obsequious|obsequious]] · [[02-科目/英语一/知识点/词汇/单词/vivacious|vivacious]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ious|后缀 -ious — 形容词后缀]]**：magnanimous · ingenious · perspicacious · tendentious · pretentious · oblivious · obsequious · vivacious
 
 ---
 

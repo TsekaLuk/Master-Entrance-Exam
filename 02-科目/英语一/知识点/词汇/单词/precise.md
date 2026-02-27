@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 词根-cid, 前缀-pre]
 
 ## 同根词
 
-**词根 `cid`**：[[02-科目/英语一/知识点/词汇/单词/incisive|incisive]] · [[02-科目/英语一/知识点/词汇/单词/rescind|rescind]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-cid|词根 cid — 切]]**：incisive · rescind
 
-**前缀 `pre-`**：[[02-科目/英语一/知识点/词汇/单词/precipitate|precipitate]] · [[02-科目/英语一/知识点/词汇/单词/precept|precept]] · [[02-科目/英语一/知识点/词汇/单词/preface|preface]] · [[02-科目/英语一/知识点/词汇/单词/preeminent|preeminent]] · [[02-科目/英语一/知识点/词汇/单词/prestige|prestige]] · [[02-科目/英语一/知识点/词汇/单词/pretentious|pretentious]] · [[02-科目/英语一/知识点/词汇/单词/preamble|preamble]] · [[02-科目/英语一/知识点/词汇/单词/preempt|preempt]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-pre|前缀 pre- — 前]]**：precipitate · precept · preface · preeminent · prestige · pretentious · preamble · preempt
 
 ---
 

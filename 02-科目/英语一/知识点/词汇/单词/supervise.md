@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 词根-vis, 前缀-super]
 
 ## 同根词
 
-**词根 `vis`**：[[02-科目/英语一/知识点/词汇/单词/improvise|improvise]] · [[02-科目/英语一/知识点/词汇/单词/provident|provident]] · [[02-科目/英语一/知识点/词汇/单词/revise|revise]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-vis|词根 vis — 看]]**：improvise · provident · revise
 
-**前缀 `super-`**：[[02-科目/英语一/知识点/词汇/单词/superficial|superficial]] · [[02-科目/英语一/知识点/词汇/单词/superficiality|superficiality]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-super|前缀 super- — 上]]**：superficial · superficiality
 
 ---
 

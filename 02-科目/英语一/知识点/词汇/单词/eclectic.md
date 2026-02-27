@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 词根-lect, 后缀-ic]
 
 ## 同根词
 
-**词根 `lect`**：[[02-科目/英语一/知识点/词汇/单词/beleaguer|beleaguer]] · [[02-科目/英语一/知识点/词汇/单词/negligence|negligence]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-lect|词根 lect — 集合，选择]]**：beleaguer · negligence
 
-**后缀 `-ic`**：[[02-科目/英语一/知识点/词汇/单词/lethargic|lethargic]] · [[02-科目/英语一/知识点/词汇/单词/antiseptic|antiseptic]] · [[02-科目/英语一/知识点/词汇/单词/pandemic|pandemic]] · [[02-科目/英语一/知识点/词汇/单词/panegyric|panegyric]] · [[02-科目/英语一/知识点/词汇/单词/prosaic|prosaic]] · [[02-科目/英语一/知识点/词汇/单词/sophisticated|sophisticated]] · [[02-科目/英语一/知识点/词汇/单词/aesthetic|aesthetic]] · [[02-科目/英语一/知识点/词汇/单词/arrhythmic|arrhythmic]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ic|后缀 -ic — 形容词后缀]]**：lethargic · antiseptic · pandemic · panegyric · prosaic · sophisticated · aesthetic · arrhythmic
 
 ---
 

@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 前缀-en, 后缀-ure]
 
 ## 同根词
 
-**前缀 `en-`**：[[02-科目/英语一/知识点/词汇/单词/enduring|enduring]] · [[02-科目/英语一/知识点/词汇/单词/disentangle|disentangle]] · [[02-科目/英语一/知识点/词汇/单词/endow|endow]] · [[02-科目/英语一/知识点/词汇/单词/enfetter|enfetter]] · [[02-科目/英语一/知识点/词汇/单词/enfranchise|enfranchise]] · [[02-科目/英语一/知识点/词汇/单词/enmesh|enmesh]] · [[02-科目/英语一/知识点/词汇/单词/ennoble|ennoble]] · [[02-科目/英语一/知识点/词汇/单词/ennui|ennui]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-en|前缀 en- — 入]]**：enduring · disentangle · endow · enfetter · enfranchise · enmesh · ennoble · ennui
 
-**后缀 `-ure`**：[[02-科目/英语一/知识点/词汇/单词/censure|censure]] · [[02-科目/英语一/知识点/词汇/单词/immature|immature]] · [[02-科目/英语一/知识点/词汇/单词/maturity|maturity]] · [[02-科目/英语一/知识点/词汇/单词/indenture|indenture]] · [[02-科目/英语一/知识点/词汇/单词/featureless|featureless]] · [[02-科目/英语一/知识点/词汇/单词/overture|overture]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ure|后缀 -ure — 抽象名词后缀，表行为、结果、状态]]**：censure · immature · maturity · indenture · featureless · overture
 
 ---
 

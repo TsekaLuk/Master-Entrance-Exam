@@ -27,13 +27,13 @@ tags: [GRE词汇, 英语, 前缀-pre, 前缀-un, 后缀-ed, 后缀-ent]
 
 ## 同根词
 
-**前缀 `pre-`**：[[02-科目/英语一/知识点/词汇/单词/precipitate|precipitate]] · [[02-科目/英语一/知识点/词汇/单词/precept|precept]] · [[02-科目/英语一/知识点/词汇/单词/precise|precise]] · [[02-科目/英语一/知识点/词汇/单词/preface|preface]] · [[02-科目/英语一/知识点/词汇/单词/preeminent|preeminent]] · [[02-科目/英语一/知识点/词汇/单词/prestige|prestige]] · [[02-科目/英语一/知识点/词汇/单词/pretentious|pretentious]] · [[02-科目/英语一/知识点/词汇/单词/preamble|preamble]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-pre|前缀 pre- — 前]]**：precipitate · precept · precise · preface · preeminent · prestige · pretentious · preamble
 
-**前缀 `un-`**：[[02-科目/英语一/知识点/词汇/单词/unanimous|unanimous]] · [[02-科目/英语一/知识点/词汇/单词/uninitiated|uninitiated]] · [[02-科目/英语一/知识点/词汇/单词/unsubstantiated|unsubstantiated]] · [[02-科目/英语一/知识点/词汇/单词/unassailable|unassailable]] · [[02-科目/英语一/知识点/词汇/单词/unconscionable|unconscionable]] · [[02-科目/英语一/知识点/词汇/单词/unearthly|unearthly]] · [[02-科目/英语一/知识点/词汇/单词/unfasten|unfasten]] · [[02-科目/英语一/知识点/词汇/单词/ungainly|ungainly]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-un|前缀 un- — 否定]]**：unanimous · uninitiated · unsubstantiated · unassailable · unconscionable · unearthly · unfasten · ungainly
 
-**后缀 `-ed`**：[[02-科目/英语一/知识点/词汇/单词/informed|informed]] · [[02-科目/英语一/知识点/词汇/单词/settled|settled]] · [[02-科目/英语一/知识点/词汇/单词/unsubstantiated|unsubstantiated]] · [[02-科目/英语一/知识点/词汇/单词/sustained|sustained]] · [[02-科目/英语一/知识点/词汇/单词/versed|versed]] · [[02-科目/英语一/知识点/词汇/单词/discombobulated|discombobulated]] · [[02-科目/英语一/知识点/词汇/单词/concerted|concerted]] · [[02-科目/英语一/知识点/词汇/单词/convoluted|convoluted]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ed|后缀 -ed — 形容词后缀]]**：informed · settled · unsubstantiated · sustained · versed · discombobulated · concerted · convoluted
 
-**后缀 `-ent`**：[[02-科目/英语一/知识点/词汇/单词/intransigent|intransigent]] · [[02-科目/英语一/知识点/词汇/单词/belligerent|belligerent]] · [[02-科目/英语一/知识点/词汇/单词/recipient|recipient]] · [[02-科目/英语一/知识点/词汇/单词/beneficent|beneficent]] · [[02-科目/英语一/知识点/词汇/单词/proficient|proficient]] · [[02-科目/英语一/知识点/词汇/单词/permanent|permanent]] · [[02-科目/英语一/知识点/词汇/单词/preeminent|preeminent]] · [[02-科目/英语一/知识点/词汇/单词/prominent|prominent]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ent|后缀 -ent — 形容词后缀]]**：intransigent · belligerent · recipient · beneficent · proficient · permanent · preeminent · prominent
 
 ---
 

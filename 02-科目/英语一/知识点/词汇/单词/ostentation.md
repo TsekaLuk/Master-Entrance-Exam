@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 词根-tend, 后缀-ation]
 
 ## 同根词
 
-**词根 `tend`**：[[02-科目/英语一/知识点/词汇/单词/tendentious|tendentious]] · [[02-科目/英语一/知识点/词汇/单词/tension|tension]] · [[02-科目/英语一/知识点/词汇/单词/tentative|tentative]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-tend|词根 tend — 伸展→试探]]**：tendentious · tension · tentative
 
-**后缀 `-ation`**：[[02-科目/英语一/知识点/词汇/单词/duration|duration]] · [[02-科目/英语一/知识点/词汇/单词/deprivation|deprivation]] · [[02-科目/英语一/知识点/词汇/单词/indignation|indignation]] · [[02-科目/英语一/知识点/词汇/单词/resignation|resignation]] · [[02-科目/英语一/知识点/词汇/单词/provocation|provocation]] · [[02-科目/英语一/知识点/词汇/单词/aspiration|aspiration]] · [[02-科目/英语一/知识点/词汇/单词/annexation|annexation]] · [[02-科目/英语一/知识点/词汇/单词/deterioration|deterioration]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ation|后缀 -ation — 名词后缀]]**：duration · deprivation · indignation · resignation · provocation · aspiration · annexation · deterioration
 
 ---
 

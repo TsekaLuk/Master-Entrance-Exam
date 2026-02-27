@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 后缀-ic, 后缀-ular]
 
 ## 同根词
 
-**后缀 `-ic`**：[[02-科目/英语一/知识点/词汇/单词/lethargic|lethargic]] · [[02-科目/英语一/知识点/词汇/单词/eclectic|eclectic]] · [[02-科目/英语一/知识点/词汇/单词/antiseptic|antiseptic]] · [[02-科目/英语一/知识点/词汇/单词/pandemic|pandemic]] · [[02-科目/英语一/知识点/词汇/单词/panegyric|panegyric]] · [[02-科目/英语一/知识点/词汇/单词/prosaic|prosaic]] · [[02-科目/英语一/知识点/词汇/单词/sophisticated|sophisticated]] · [[02-科目/英语一/知识点/词汇/单词/aesthetic|aesthetic]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ic|后缀 -ic — 形容词后缀]]**：lethargic · eclectic · antiseptic · pandemic · panegyric · prosaic · sophisticated · aesthetic
 
-**后缀 `-ular`**：[[02-科目/英语一/知识点/词汇/单词/spectacular|spectacular]] · [[02-科目/英语一/知识点/词汇/单词/cellular|cellular]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ular|后缀 -ular — 形容词后缀，“似…形状的”，“有…性质的”]]**：spectacular · cellular
 
 ---
 

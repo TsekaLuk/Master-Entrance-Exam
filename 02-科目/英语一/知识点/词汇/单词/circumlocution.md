@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 词根-log]
 
 ## 同根词
 
-**词根 `log`**：[[02-科目/英语一/知识点/词汇/单词/apologize|apologize]] · [[02-科目/英语一/知识点/词汇/单词/soliloquy|soliloquy]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-log|词根 log — 说]]**：apologize · soliloquy
 
 ---
 

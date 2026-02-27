@@ -26,11 +26,11 @@ tags: [GRE词汇, 英语, 词根-dic, 词根-vin, 后缀-ate]
 
 ## 同根词
 
-**词根 `dic`**：[[02-科目/英语一/知识点/词汇/单词/abdicate|abdicate]] · [[02-科目/英语一/知识点/词汇/单词/valediction|valediction]] · [[02-科目/英语一/知识点/词汇/单词/vengeance|vengeance]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-dic|词根 dic — 说]]**：abdicate · valediction · vengeance
 
-**词根 `vin`**：[[02-科目/英语一/知识点/词汇/单词/vengeance|vengeance]] · [[02-科目/英语一/知识点/词汇/单词/vindictive|vindictive]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-vin|词根 vin — 力量]]**：vengeance · vindictive
 
-**后缀 `-ate`**：[[02-科目/英语一/知识点/词汇/单词/agitate|agitate]] · [[02-科目/英语一/知识点/词汇/单词/mitigate|mitigate]] · [[02-科目/英语一/知识点/词汇/单词/precipitate|precipitate]] · [[02-科目/英语一/知识点/词汇/单词/conciliate|conciliate]] · [[02-科目/英语一/知识点/词汇/单词/abdicate|abdicate]] · [[02-科目/英语一/知识点/词汇/单词/indurate|indurate]] · [[02-科目/英语一/知识点/词汇/单词/obdurate|obdurate]] · [[02-科目/英语一/知识点/词汇/单词/alleviate|alleviate]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ate|后缀 -ate — 动词后缀]]**：agitate · mitigate · precipitate · conciliate · abdicate · indurate · obdurate · alleviate
 
 ---
 

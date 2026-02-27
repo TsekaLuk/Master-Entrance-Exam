@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 前缀-un, 后缀-en]
 
 ## 同根词
 
-**前缀 `un-`**：[[02-科目/英语一/知识点/词汇/单词/unanimous|unanimous]] · [[02-科目/英语一/知识点/词汇/单词/uninitiated|uninitiated]] · [[02-科目/英语一/知识点/词汇/单词/unsubstantiated|unsubstantiated]] · [[02-科目/英语一/知识点/词汇/单词/unassailable|unassailable]] · [[02-科目/英语一/知识点/词汇/单词/unconscionable|unconscionable]] · [[02-科目/英语一/知识点/词汇/单词/unprecedented|unprecedented]] · [[02-科目/英语一/知识点/词汇/单词/unearthly|unearthly]] · [[02-科目/英语一/知识点/词汇/单词/ungainly|ungainly]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-un|前缀 un- — 否定]]**：unanimous · uninitiated · unsubstantiated · unassailable · unconscionable · unprecedented · unearthly · ungainly
 
-**后缀 `-en`**：[[02-科目/英语一/知识点/词汇/单词/dampen|dampen]] · [[02-科目/英语一/知识点/词汇/单词/ripen|ripen]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-en|后缀 -en — 动词后缀，“使...”“使失去活力”]]**：dampen · ripen
 
 ---
 

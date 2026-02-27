@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 前缀-anti, 后缀-tic]
 
 ## 同根词
 
-**前缀 `anti-`**：[[02-科目/英语一/知识点/词汇/单词/antidote|antidote]] · [[02-科目/英语一/知识点/词汇/单词/antiseptic|antiseptic]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-anti|前缀 anti- — 反对]]**：antidote · antiseptic
 
-**后缀 `-tic`**：[[02-科目/英语一/知识点/词汇/单词/diplomatic|diplomatic]] · [[02-科目/英语一/知识点/词汇/单词/exotic|exotic]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-tic|后缀 -tic — 形容词后缀]]**：diplomatic · exotic
 
 ---
 

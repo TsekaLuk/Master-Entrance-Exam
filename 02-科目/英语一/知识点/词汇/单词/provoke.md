@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 词根-voc, 前缀-pro]
 
 ## 同根词
 
-**词根 `voc`**：[[02-科目/英语一/知识点/词汇/单词/equivocate|equivocate]] · [[02-科目/英语一/知识点/词汇/单词/provocation|provocation]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-voc|词根 voc — 声音→叫喊]]**：equivocate · provocation
 
-**前缀 `pro-`**：[[02-科目/英语一/知识点/词汇/单词/procurement|procurement]] · [[02-科目/英语一/知识点/词汇/单词/proficient|proficient]] · [[02-科目/英语一/知识点/词汇/单词/prominent|prominent]] · [[02-科目/英语一/知识点/词汇/单词/propensity|propensity]] · [[02-科目/英语一/知识点/词汇/单词/proprietary|proprietary]] · [[02-科目/英语一/知识点/词汇/单词/portentous|portentous]] · [[02-科目/英语一/知识点/词汇/单词/improvise|improvise]] · [[02-科目/英语一/知识点/词汇/单词/provident|provident]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-pro|前缀 pro- — 前]]**：procurement · proficient · prominent · propensity · proprietary · portentous · improvise · provident
 
 ---
 

@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 后缀-ar, 后缀-ian]
 
 ## 同根词
 
-**后缀 `-ar`**：[[02-科目/英语一/知识点/词汇/单词/familiarity|familiarity]] · [[02-科目/英语一/知识点/词汇/单词/insular|insular]] · [[02-科目/英语一/知识点/词汇/单词/precarious|precarious]] · [[02-科目/英语一/知识点/词汇/单词/singularity|singularity]] · [[02-科目/英语一/知识点/词汇/单词/vicarious|vicarious]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ar|后缀 -ar — 形容词后缀]]**：familiarity · insular · precarious · singularity · vicarious
 
-**后缀 `-ian`**：[[02-科目/英语一/知识点/词汇/单词/utopian|utopian]] · [[02-科目/英语一/知识点/词汇/单词/pedestrian|pedestrian]] · [[02-科目/英语一/知识点/词汇/单词/plebeian|plebeian]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ian|后缀 -ian — 形容词后缀]]**：utopian · pedestrian · plebeian
 
 ---
 

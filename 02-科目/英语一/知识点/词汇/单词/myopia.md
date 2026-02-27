@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 后缀-ia]
 
 ## 同根词
 
-**后缀 `-ia`**：[[02-科目/英语一/知识点/词汇/单词/monomania|monomania]] · [[02-科目/英语一/知识点/词汇/单词/inertia|inertia]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ia|后缀 -ia — 名词后缀]]**：monomania · inertia
 
 ---
 

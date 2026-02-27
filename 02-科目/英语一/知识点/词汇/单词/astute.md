@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 后缀-ute]
 
 ## 同根词
 
-**后缀 `-ute`**：[[02-科目/英语一/知识点/词汇/单词/minute|minute]] · [[02-科目/英语一/知识点/词汇/单词/constitute|constitute]] · [[02-科目/英语一/知识点/词汇/单词/resolute|resolute]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ute|后缀 -ute — 形容词后缀]]**：minute · constitute · resolute
 
 ---
 

@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 前缀-ab]
 
 ## 同根词
 
-**前缀 `ab-`**：[[02-科目/英语一/知识点/词汇/单词/abdicate|abdicate]] · [[02-科目/英语一/知识点/词汇/单词/aberrant|aberrant]] · [[02-科目/英语一/知识点/词汇/单词/absolute|absolute]] · [[02-科目/英语一/知识点/词汇/单词/abundant|abundant]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-ab|前缀 ab- — 离开→偏离]]**：abdicate · aberrant · absolute · abundant
 
 ---
 

@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 后缀-age]
 
 ## 同根词
 
-**后缀 `-age`**：[[02-科目/英语一/知识点/词汇/单词/disparage|disparage]] · [[02-科目/英语一/知识点/词汇/单词/bondage|bondage]] · [[02-科目/英语一/知识点/词汇/单词/ravage|ravage]] · [[02-科目/英语一/知识点/词汇/单词/savage|savage]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-age|后缀 -age — 动词后缀]]**：disparage · bondage · ravage · savage
 
 ---
 

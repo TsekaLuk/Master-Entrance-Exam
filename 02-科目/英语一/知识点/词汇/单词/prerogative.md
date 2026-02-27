@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 前缀-pre, 后缀-ative]
 
 ## 同根词
 
-**前缀 `pre-`**：[[02-科目/英语一/知识点/词汇/单词/precipitate|precipitate]] · [[02-科目/英语一/知识点/词汇/单词/precept|precept]] · [[02-科目/英语一/知识点/词汇/单词/precise|precise]] · [[02-科目/英语一/知识点/词汇/单词/preface|preface]] · [[02-科目/英语一/知识点/词汇/单词/preeminent|preeminent]] · [[02-科目/英语一/知识点/词汇/单词/prestige|prestige]] · [[02-科目/英语一/知识点/词汇/单词/pretentious|pretentious]] · [[02-科目/英语一/知识点/词汇/单词/preamble|preamble]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-pre|前缀 pre- — 前]]**：precipitate · precept · precise · preface · preeminent · prestige · pretentious · preamble
 
-**后缀 `-ative`**：[[02-科目/英语一/知识点/词汇/单词/innovative|innovative]] · [[02-科目/英语一/知识点/词汇/单词/conservative|conservative]] · [[02-科目/英语一/知识点/词汇/单词/tentative|tentative]] · [[02-科目/英语一/知识点/词汇/单词/derivative|derivative]] · [[02-科目/英语一/知识点/词汇/单词/cooperative|cooperative]] · [[02-科目/英语一/知识点/词汇/单词/figurative|figurative]] · [[02-科目/英语一/知识点/词汇/单词/meditative|meditative]] · [[02-科目/英语一/知识点/词汇/单词/palliative|palliative]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ative|后缀 -ative — 形容词后缀]]**：innovative · conservative · tentative · derivative · cooperative · figurative · meditative · palliative
 
 ---
 

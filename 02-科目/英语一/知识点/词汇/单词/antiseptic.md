@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 前缀-anti, 后缀-ic]
 
 ## 同根词
 
-**前缀 `anti-`**：[[02-科目/英语一/知识点/词汇/单词/antibiotic|antibiotic]] · [[02-科目/英语一/知识点/词汇/单词/antidote|antidote]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-anti|前缀 anti- — 反对]]**：antibiotic · antidote
 
-**后缀 `-ic`**：[[02-科目/英语一/知识点/词汇/单词/lethargic|lethargic]] · [[02-科目/英语一/知识点/词汇/单词/eclectic|eclectic]] · [[02-科目/英语一/知识点/词汇/单词/pandemic|pandemic]] · [[02-科目/英语一/知识点/词汇/单词/panegyric|panegyric]] · [[02-科目/英语一/知识点/词汇/单词/prosaic|prosaic]] · [[02-科目/英语一/知识点/词汇/单词/sophisticated|sophisticated]] · [[02-科目/英语一/知识点/词汇/单词/aesthetic|aesthetic]] · [[02-科目/英语一/知识点/词汇/单词/arrhythmic|arrhythmic]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ic|后缀 -ic — 形容词后缀]]**：lethargic · eclectic · pandemic · panegyric · prosaic · sophisticated · aesthetic · arrhythmic
 
 ---
 

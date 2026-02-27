@@ -26,11 +26,11 @@ tags: [GRE词汇, 英语, 词根-act, 词根-ag, 后缀-ity]
 
 ## 同根词
 
-**词根 `act`**：[[02-科目/英语一/知识点/词汇/单词/agitate|agitate]] · [[02-科目/英语一/知识点/词汇/单词/react|react]] · [[02-科目/英语一/知识点/词汇/单词/reactant|reactant]] · [[02-科目/英语一/知识点/词汇/单词/reactionary|reactionary]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-act|词根 act — 做→行动]]**：agitate · react · reactant · reactionary
 
-**词根 `ag`**：[[02-科目/英语一/知识点/词汇/单词/exacting|exacting]] · [[02-科目/英语一/知识点/词汇/单词/intransigent|intransigent]] · [[02-科目/英语一/知识点/词汇/单词/mitigate|mitigate]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-ag|词根 ag — 做]]**：exacting · intransigent · mitigate
 
-**后缀 `-ity`**：[[02-科目/英语一/知识点/词汇/单词/equanimity|equanimity]] · [[02-科目/英语一/知识点/词汇/单词/superficiality|superficiality]] · [[02-科目/英语一/知识点/词汇/单词/conformity|conformity]] · [[02-科目/英语一/知识点/词汇/单词/formality|formality]] · [[02-科目/英语一/知识点/词汇/单词/generosity|generosity]] · [[02-科目/英语一/知识点/词汇/单词/levity|levity]] · [[02-科目/英语一/知识点/词汇/单词/maturity|maturity]] · [[02-科目/英语一/知识点/词汇/单词/mediocrity|mediocrity]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ity|后缀 -ity — 名词后缀]]**：equanimity · superficiality · conformity · formality · generosity · levity · maturity · mediocrity
 
 ---
 

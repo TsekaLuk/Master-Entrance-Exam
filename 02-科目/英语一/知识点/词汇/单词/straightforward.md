@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 前缀-for, 后缀-ward]
 
 ## 同根词
 
-**前缀 `for-`**：[[02-科目/英语一/知识点/词汇/单词/forbearance|forbearance]] · [[02-科目/英语一/知识点/词汇/单词/forfeitureit|forfeitureit]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-for|前缀 for- — 加强]]**：forbearance · forfeitureit
 
-**后缀 `-ward`**：[[02-科目/英语一/知识点/词汇/单词/awkward|awkward]] · [[02-科目/英语一/知识点/词汇/单词/wayward|wayward]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ward|后缀 -ward — 形容词后缀]]**：awkward · wayward
 
 ---
 

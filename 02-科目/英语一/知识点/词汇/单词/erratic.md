@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 后缀-atic]
 
 ## 同根词
 
-**后缀 `-atic`**：[[02-科目/英语一/知识点/词汇/单词/static|static]] · [[02-科目/英语一/知识点/词汇/单词/phlegmatic|phlegmatic]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-atic|后缀 -atic — 形容词后缀]]**：static · phlegmatic
 
 ---
 

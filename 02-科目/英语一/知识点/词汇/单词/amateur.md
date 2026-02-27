@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 词根-am, 后缀-or]
 
 ## 同根词
 
-**词根 `am`**：[[02-科目/英语一/知识点/词汇/单词/amiable|amiable]] · [[02-科目/英语一/知识点/词汇/单词/inimical|inimical]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-am|词根 am — 爱]]**：amiable · inimical
 
-**后缀 `-or`**：[[02-科目/英语一/知识点/词汇/单词/candor|candor]] · [[02-科目/英语一/知识点/词汇/单词/temporal|temporal]] · [[02-科目/英语一/知识点/词汇/单词/meteoric|meteoric]] · [[02-科目/英语一/知识点/词汇/单词/authority|authority]] · [[02-科目/英语一/知识点/词汇/单词/moratorium|moratorium]] · [[02-科目/英语一/知识点/词汇/单词/authoritarian|authoritarian]] · [[02-科目/英语一/知识点/词汇/单词/fervor|fervor]] · [[02-科目/英语一/知识点/词汇/单词/rigor|rigor]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-or|后缀 -or — 名词后缀]]**：candor · temporal · meteoric · authority · moratorium · authoritarian · fervor · rigor
 
 ---
 

@@ -26,11 +26,11 @@ tags: [GRE词汇, 英语, 词根-cur, 前缀-pro, 后缀-ment]
 
 ## 同根词
 
-**词根 `cur`**：[[02-科目/英语一/知识点/词汇/单词/discourse|discourse]] · [[02-科目/英语一/知识点/词汇/单词/secure|secure]] · [[02-科目/英语一/知识点/词汇/单词/sinecure|sinecure]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-cur|词根 cur — 关心→顾虑]]**：discourse · secure · sinecure
 
-**前缀 `pro-`**：[[02-科目/英语一/知识点/词汇/单词/proficient|proficient]] · [[02-科目/英语一/知识点/词汇/单词/prominent|prominent]] · [[02-科目/英语一/知识点/词汇/单词/propensity|propensity]] · [[02-科目/英语一/知识点/词汇/单词/proprietary|proprietary]] · [[02-科目/英语一/知识点/词汇/单词/portentous|portentous]] · [[02-科目/英语一/知识点/词汇/单词/improvise|improvise]] · [[02-科目/英语一/知识点/词汇/单词/provident|provident]] · [[02-科目/英语一/知识点/词汇/单词/provocation|provocation]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-pro|前缀 pro- — 前]]**：proficient · prominent · propensity · proprietary · portentous · improvise · provident · provocation
 
-**后缀 `-ment`**：[[02-科目/英语一/知识点/词汇/单词/understatement|understatement]] · [[02-科目/英语一/知识点/词汇/单词/rapprochement|rapprochement]] · [[02-科目/英语一/知识点/词汇/单词/inclement|inclement]] · [[02-科目/英语一/知识点/词汇/单词/fundamental|fundamental]] · [[02-科目/英语一/知识点/词汇/单词/rudimentary|rudimentary]] · [[02-科目/英语一/知识点/词汇/单词/commencement|commencement]] · [[02-科目/英语一/知识点/词汇/单词/ferment|ferment]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ment|后缀 -ment — 名词后缀]]**：understatement · rapprochement · inclement · fundamental · rudimentary · commencement · ferment
 
 ---
 

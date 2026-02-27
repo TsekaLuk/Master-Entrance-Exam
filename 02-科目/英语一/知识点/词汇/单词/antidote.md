@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 前缀-anti]
 
 ## 同根词
 
-**前缀 `anti-`**：[[02-科目/英语一/知识点/词汇/单词/antibiotic|antibiotic]] · [[02-科目/英语一/知识点/词汇/单词/antiseptic|antiseptic]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-anti|前缀 anti- — 反对]]**：antibiotic · antiseptic
 
 ---
 

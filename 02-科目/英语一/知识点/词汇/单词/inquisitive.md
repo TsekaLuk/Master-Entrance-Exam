@@ -26,11 +26,11 @@ tags: [GRE词汇, 英语, 词根-quir, 前缀-in, 后缀-itive]
 
 ## 同根词
 
-**词根 `quir`**：[[02-科目/英语一/知识点/词汇/单词/acquisition|acquisition]] · [[02-科目/英语一/知识点/词汇/单词/conquer|conquer]] · [[02-科目/英语一/知识点/词汇/单词/conquest|conquest]] · [[02-科目/英语一/知识点/词汇/单词/perquisite|perquisite]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-quir|词根 quir — 寻找→获得]]**：acquisition · conquer · conquest · perquisite
 
-**前缀 `in-`**：[[02-科目/英语一/知识点/词汇/单词/intransigent|intransigent]] · [[02-科目/英语一/知识点/词汇/单词/inimical|inimical]] · [[02-科目/英语一/知识点/词汇/单词/incipient|incipient]] · [[02-科目/英语一/知识点/词汇/单词/incisive|incisive]] · [[02-科目/英语一/知识点/词汇/单词/indurate|indurate]] · [[02-科目/英语一/知识点/词汇/单词/infinite|infinite]] · [[02-科目/英语一/知识点/词汇/单词/informed|informed]] · [[02-科目/英语一/知识点/词汇/单词/ingenious|ingenious]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-in|前缀 in- — 否定]]**：intransigent · inimical · incipient · incisive · indurate · infinite · informed · ingenious
 
-**后缀 `-itive`**：[[02-科目/英语一/知识点/词汇/单词/definitive|definitive]] · [[02-科目/英语一/知识点/词汇/单词/sensitive|sensitive]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-itive|后缀 -itive — 形容词后缀]]**：definitive · sensitive
 
 ---
 

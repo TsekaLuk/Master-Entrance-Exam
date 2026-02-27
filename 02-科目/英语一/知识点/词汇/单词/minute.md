@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 词根-min, 后缀-ute]
 
 ## 同根词
 
-**词根 `min`**：[[02-科目/英语一/知识点/词汇/单词/eminence|eminence]] · [[02-科目/英语一/知识点/词汇/单词/preeminent|preeminent]] · [[02-科目/英语一/知识点/词汇/单词/prominent|prominent]] · [[02-科目/英语一/知识点/词汇/单词/undermine|undermine]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-min|词根 min — 突出]]**：eminence · preeminent · prominent · undermine
 
-**后缀 `-ute`**：[[02-科目/英语一/知识点/词汇/单词/constitute|constitute]] · [[02-科目/英语一/知识点/词汇/单词/resolute|resolute]] · [[02-科目/英语一/知识点/词汇/单词/astute|astute]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ute|后缀 -ute — 形容词后缀]]**：constitute · resolute · astute
 
 ---
 

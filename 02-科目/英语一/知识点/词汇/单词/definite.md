@@ -26,11 +26,11 @@ tags: [GRE词汇, 英语, 词根-fin, 前缀-de, 后缀-ite]
 
 ## 同根词
 
-**词根 `fin`**：[[02-科目/英语一/知识点/词汇/单词/definitive|definitive]] · [[02-科目/英语一/知识点/词汇/单词/finale|finale]] · [[02-科目/英语一/知识点/词汇/单词/finesse|finesse]] · [[02-科目/英语一/知识点/词汇/单词/finite|finite]] · [[02-科目/英语一/知识点/词汇/单词/infinite|infinite]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-fin|词根 fin — 边界→末尾]]**：definitive · finale · finesse · finite · infinite
 
-**前缀 `de-`**：[[02-科目/英语一/知识点/词汇/单词/definitive|definitive]] · [[02-科目/英语一/知识点/词汇/单词/deprivation|deprivation]] · [[02-科目/英语一/知识点/词汇/单词/despicable|despicable]] · [[02-科目/英语一/知识点/词汇/单词/indeterminate|indeterminate]] · [[02-科目/英语一/知识点/词汇/单词/devious|devious]] · [[02-科目/英语一/知识点/词汇/单词/debate|debate]] · [[02-科目/英语一/知识点/词汇/单词/debonair|debonair]] · [[02-科目/英语一/知识点/词汇/单词/decadent|decadent]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-de|前缀 de- — 加强]]**：definitive · deprivation · despicable · indeterminate · devious · debate · debonair · decadent
 
-**后缀 `-ite`**：[[02-科目/英语一/知识点/词汇/单词/finite|finite]] · [[02-科目/英语一/知识点/词汇/单词/infinite|infinite]] · [[02-科目/英语一/知识点/词汇/单词/perquisite|perquisite]] · [[02-科目/英语一/知识点/词汇/单词/erudite|erudite]] · [[02-科目/英语一/知识点/词汇/单词/ignite|ignite]] · [[02-科目/英语一/知识点/词汇/单词/sybarite|sybarite]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ite|后缀 -ite — 动词后缀]]**：finite · infinite · perquisite · erudite · ignite · sybarite
 
 ---
 

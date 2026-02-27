@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 前缀-inter]
 
 ## 同根词
 
-**前缀 `inter-`**：[[02-科目/英语一/知识点/词汇/单词/intermittent|intermittent]] · [[02-科目/英语一/知识点/词汇/单词/disinterested|disinterested]] · [[02-科目/英语一/知识点/词汇/单词/interchangeable|interchangeable]] · [[02-科目/英语一/知识点/词汇/单词/interim|interim]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-inter|前缀 inter- — 相互]]**：intermittent · disinterested · interchangeable · interim
 
 ---
 

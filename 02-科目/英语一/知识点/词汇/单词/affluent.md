@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 前缀-af, 后缀-ent]
 
 ## 同根词
 
-**前缀 `af-`**：[[02-科目/英语一/知识点/词汇/单词/affable|affable]] · [[02-科目/英语一/知识点/词汇/单词/affliction|affliction]] · [[02-科目/英语一/知识点/词汇/单词/affront|affront]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-af|前缀 af- — 向]]**：affable · affliction · affront
 
-**后缀 `-ent`**：[[02-科目/英语一/知识点/词汇/单词/intransigent|intransigent]] · [[02-科目/英语一/知识点/词汇/单词/belligerent|belligerent]] · [[02-科目/英语一/知识点/词汇/单词/recipient|recipient]] · [[02-科目/英语一/知识点/词汇/单词/beneficent|beneficent]] · [[02-科目/英语一/知识点/词汇/单词/proficient|proficient]] · [[02-科目/英语一/知识点/词汇/单词/permanent|permanent]] · [[02-科目/英语一/知识点/词汇/单词/preeminent|preeminent]] · [[02-科目/英语一/知识点/词汇/单词/prominent|prominent]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ent|后缀 -ent — 形容词后缀]]**：intransigent · belligerent · recipient · beneficent · proficient · permanent · preeminent · prominent
 
 ---
 

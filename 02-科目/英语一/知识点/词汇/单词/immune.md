@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 前缀-im]
 
 ## 同根词
 
-**前缀 `im-`**：[[02-科目/英语一/知识点/词汇/单词/immature|immature]] · [[02-科目/英语一/知识点/词汇/单词/impassive|impassive]] · [[02-科目/英语一/知识点/词汇/单词/implacable|implacable]] · [[02-科目/英语一/知识点/词汇/单词/improvise|improvise]] · [[02-科目/英语一/知识点/词汇/单词/immutable|immutable]] · [[02-科目/英语一/知识点/词汇/单词/impenetrable|impenetrable]] · [[02-科目/英语一/知识点/词汇/单词/imperative|imperative]] · [[02-科目/英语一/知识点/词汇/单词/impersonate|impersonate]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-im|前缀 im- — 否定]]**：immature · impassive · implacable · improvise · immutable · impenetrable · imperative · impersonate
 
 ---
 

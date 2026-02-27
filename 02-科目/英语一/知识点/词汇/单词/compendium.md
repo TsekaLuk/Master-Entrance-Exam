@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 词根-pens, 前缀-com]
 
 ## 同根词
 
-**词根 `pens`**：[[02-科目/英语一/知识点/词汇/单词/expenditure|expenditure]] · [[02-科目/英语一/知识点/词汇/单词/indispensable|indispensable]] · [[02-科目/英语一/知识点/词汇/单词/propensity|propensity]] · [[02-科目/英语一/知识点/词汇/单词/recompense|recompense]] · [[02-科目/英语一/知识点/词汇/单词/suspend|suspend]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-pens|词根 pens — 悬挂→拉]]**：expenditure · indispensable · propensity · recompense · suspend
 
-**前缀 `com-`**：[[02-科目/英语一/知识点/词汇/单词/commend|commend]] · [[02-科目/英语一/知识点/词汇/单词/commotion|commotion]] · [[02-科目/英语一/知识点/词汇/单词/recompense|recompense]] · [[02-科目/英语一/知识点/词汇/单词/compliant|compliant]] · [[02-科目/英语一/知识点/词汇/单词/comprehensive|comprehensive]] · [[02-科目/英语一/知识点/词汇/单词/accomplish|accomplish]] · [[02-科目/英语一/知识点/词汇/单词/communal|communal]] · [[02-科目/英语一/知识点/词汇/单词/compatible|compatible]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-com|前缀 com- — 共同]]**：commend · commotion · recompense · compliant · comprehensive · accomplish · communal · compatible
 
 ---
 

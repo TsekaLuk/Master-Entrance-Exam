@@ -26,11 +26,11 @@ tags: [GRE词汇, 英语, 前缀-un, 后缀-ed, 后缀-ice]
 
 ## 同根词
 
-**前缀 `un-`**：[[02-科目/英语一/知识点/词汇/单词/unanimous|unanimous]] · [[02-科目/英语一/知识点/词汇/单词/uninitiated|uninitiated]] · [[02-科目/英语一/知识点/词汇/单词/unsubstantiated|unsubstantiated]] · [[02-科目/英语一/知识点/词汇/单词/unassailable|unassailable]] · [[02-科目/英语一/知识点/词汇/单词/unconscionable|unconscionable]] · [[02-科目/英语一/知识点/词汇/单词/unprecedented|unprecedented]] · [[02-科目/英语一/知识点/词汇/单词/unearthly|unearthly]] · [[02-科目/英语一/知识点/词汇/单词/unfasten|unfasten]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-un|前缀 un- — 否定]]**：unanimous · uninitiated · unsubstantiated · unassailable · unconscionable · unprecedented · unearthly · unfasten
 
-**后缀 `-ed`**：[[02-科目/英语一/知识点/词汇/单词/informed|informed]] · [[02-科目/英语一/知识点/词汇/单词/settled|settled]] · [[02-科目/英语一/知识点/词汇/单词/unsubstantiated|unsubstantiated]] · [[02-科目/英语一/知识点/词汇/单词/sustained|sustained]] · [[02-科目/英语一/知识点/词汇/单词/versed|versed]] · [[02-科目/英语一/知识点/词汇/单词/discombobulated|discombobulated]] · [[02-科目/英语一/知识点/词汇/单词/concerted|concerted]] · [[02-科目/英语一/知识点/词汇/单词/convoluted|convoluted]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ed|后缀 -ed — 形容词后缀]]**：informed · settled · unsubstantiated · sustained · versed · discombobulated · concerted · convoluted
 
-**后缀 `-ice`**：[[02-科目/英语一/知识点/词汇/单词/novice|novice]] · [[02-科目/英语一/知识点/词汇/单词/apprentice|apprentice]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ice|后缀 -ice — 名词后缀]]**：novice · apprentice
 
 ---
 

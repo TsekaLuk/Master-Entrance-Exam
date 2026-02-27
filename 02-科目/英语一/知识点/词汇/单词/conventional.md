@@ -26,11 +26,11 @@ tags: [GRE词汇, 英语, 前缀-con, 后缀-al, 后缀-ion]
 
 ## 同根词
 
-**前缀 `con-`**：[[02-科目/英语一/知识点/词汇/单词/conciliate|conciliate]] · [[02-科目/英语一/知识点/词汇/单词/conciliatory|conciliatory]] · [[02-科目/英语一/知识点/词汇/单词/reconcile|reconcile]] · [[02-科目/英语一/知识点/词汇/单词/conform|conform]] · [[02-科目/英语一/知识点/词汇/单词/conformity|conformity]] · [[02-科目/英语一/知识点/词汇/单词/congenial|congenial]] · [[02-科目/英语一/知识点/词汇/单词/conquer|conquer]] · [[02-科目/英语一/知识点/词汇/单词/conquest|conquest]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-con|前缀 con- — 共同]]**：conciliate · conciliatory · reconcile · conform · conformity · congenial · conquer · conquest
 
-**后缀 `-al`**：[[02-科目/英语一/知识点/词汇/单词/exceptional|exceptional]] · [[02-科目/英语一/知识点/词汇/单词/formality|formality]] · [[02-科目/英语一/知识点/词汇/单词/medieval|medieval]] · [[02-科目/英语一/知识点/词汇/单词/residual|residual]] · [[02-科目/英语一/知识点/词汇/单词/trivial|trivial]] · [[02-科目/英语一/知识点/词汇/单词/acquittal|acquittal]] · [[02-科目/英语一/知识点/词汇/单词/communal|communal]] · [[02-科目/英语一/知识点/词汇/单词/prodigal|prodigal]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-al|后缀 -al — 形容词后缀]]**：exceptional · formality · medieval · residual · trivial · acquittal · communal · prodigal
 
-**后缀 `-ion`**：[[02-科目/英语一/知识点/词汇/单词/reactionary|reactionary]] · [[02-科目/英语一/知识点/词汇/单词/exceptional|exceptional]] · [[02-科目/英语一/知识点/词汇/单词/valediction|valediction]] · [[02-科目/英语一/知识点/词汇/单词/commotion|commotion]] · [[02-科目/英语一/知识点/词汇/单词/passionate|passionate]] · [[02-科目/英语一/知识点/词汇/单词/abstention|abstention]] · [[02-科目/英语一/知识点/词汇/单词/tension|tension]] · [[02-科目/英语一/知识点/词汇/单词/affliction|affliction]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ion|后缀 -ion — 名词后缀]]**：reactionary · exceptional · valediction · commotion · passionate · abstention · tension · affliction
 
 ---
 

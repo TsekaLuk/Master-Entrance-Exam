@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 词根-mit, 前缀-sub]
 
 ## 同根词
 
-**词根 `mit`**：[[02-科目/英语一/知识点/词汇/单词/mitigate|mitigate]] · [[02-科目/英语一/知识点/词汇/单词/intermittent|intermittent]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-mit|词根 mit — 投掷→发送]]**：mitigate · intermittent
 
-**前缀 `sub-`**：[[02-科目/英语一/知识点/词汇/单词/substantive|substantive]] · [[02-科目/英语一/知识点/词汇/单词/substitute|substitute]] · [[02-科目/英语一/知识点/词汇/单词/unsubstantiated|unsubstantiated]] · [[02-科目/英语一/知识点/词汇/单词/insubordinate|insubordinate]] · [[02-科目/英语一/知识点/词汇/单词/subdue|subdue]] · [[02-科目/英语一/知识点/词汇/单词/subjugate|subjugate]] · [[02-科目/英语一/知识点/词汇/单词/sublime|sublime]] · [[02-科目/英语一/知识点/词汇/单词/subtle|subtle]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-sub|前缀 sub- — 下]]**：substantive · substitute · unsubstantiated · insubordinate · subdue · subjugate · sublime · subtle
 
 ---
 

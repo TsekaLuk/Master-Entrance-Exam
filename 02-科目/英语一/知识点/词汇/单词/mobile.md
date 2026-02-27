@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 词根-mov, 后缀-ile]
 
 ## 同根词
 
-**词根 `mov`**：[[02-科目/英语一/知识点/词汇/单词/commotion|commotion]] · [[02-科目/英语一/知识点/词汇/单词/motility|motility]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-mov|词根 mov — 动]]**：commotion · motility
 
-**后缀 `-ile`**：[[02-科目/英语一/知识点/词汇/单词/servile|servile]] · [[02-科目/英语一/知识点/词汇/单词/versatile|versatile]] · [[02-科目/英语一/知识点/词汇/单词/docile|docile]] · [[02-科目/英语一/知识点/词汇/单词/fertile|fertile]] · [[02-科目/英语一/知识点/词汇/单词/hostility|hostility]] · [[02-科目/英语一/知识点/词汇/单词/juvenile|juvenile]] · [[02-科目/英语一/知识点/词汇/单词/labile|labile]] · [[02-科目/英语一/知识点/词汇/单词/puerile|puerile]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ile|后缀 -ile — 形容词后缀]]**：servile · versatile · docile · fertile · hostility · juvenile · labile · puerile
 
 ---
 

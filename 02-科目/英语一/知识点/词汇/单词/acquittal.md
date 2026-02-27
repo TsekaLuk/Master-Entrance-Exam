@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 前缀-ac, 后缀-al]
 
 ## 同根词
 
-**前缀 `ac-`**：[[02-科目/英语一/知识点/词汇/单词/acquisition|acquisition]] · [[02-科目/英语一/知识点/词汇/单词/accentuate|accentuate]] · [[02-科目/英语一/知识点/词汇/单词/accomplish|accomplish]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-ac|前缀 ac- — 向]]**：acquisition · accentuate · accomplish
 
-**后缀 `-al`**：[[02-科目/英语一/知识点/词汇/单词/exceptional|exceptional]] · [[02-科目/英语一/知识点/词汇/单词/formality|formality]] · [[02-科目/英语一/知识点/词汇/单词/medieval|medieval]] · [[02-科目/英语一/知识点/词汇/单词/residual|residual]] · [[02-科目/英语一/知识点/词汇/单词/trivial|trivial]] · [[02-科目/英语一/知识点/词汇/单词/communal|communal]] · [[02-科目/英语一/知识点/词汇/单词/conventional|conventional]] · [[02-科目/英语一/知识点/词汇/单词/prodigal|prodigal]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-al|后缀 -al — 形容词后缀]]**：exceptional · formality · medieval · residual · trivial · communal · conventional · prodigal
 
 ---
 

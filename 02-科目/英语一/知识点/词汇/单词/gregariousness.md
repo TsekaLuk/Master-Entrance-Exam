@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 后缀-ary, 后缀-ous]
 
 ## 同根词
 
-**后缀 `-ary`**：[[02-科目/英语一/知识点/词汇/单词/reactionary|reactionary]] · [[02-科目/英语一/知识点/词汇/单词/proprietary|proprietary]] · [[02-科目/英语一/知识点/词汇/单词/sedentary|sedentary]] · [[02-科目/英语一/知识点/词汇/单词/arbitrary|arbitrary]] · [[02-科目/英语一/知识点/词汇/单词/elementary|elementary]] · [[02-科目/英语一/知识点/词汇/单词/rudimentary|rudimentary]] · [[02-科目/英语一/知识点/词汇/单词/salutary|salutary]] · [[02-科目/英语一/知识点/词汇/单词/solitary|solitary]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ary|后缀 -ary — 形容词后缀]]**：reactionary · proprietary · sedentary · arbitrary · elementary · rudimentary · salutary · solitary
 
-**后缀 `-ous`**：[[02-科目/英语一/知识点/词汇/单词/unanimous|unanimous]] · [[02-科目/英语一/知识点/词汇/单词/capricious|capricious]] · [[02-科目/英语一/知识点/词汇/单词/portentous|portentous]] · [[02-科目/英语一/知识点/词汇/单词/devious|devious]] · [[02-科目/英语一/知识点/词汇/单词/obvious|obvious]] · [[02-科目/英语一/知识点/词汇/单词/infamous|infamous]] · [[02-科目/英语一/知识点/词汇/单词/obstreperous|obstreperous]] · [[02-科目/英语一/知识点/词汇/单词/preposterous|preposterous]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ous|后缀 -ous — 形容词后缀]]**：unanimous · capricious · portentous · devious · obvious · infamous · obstreperous · preposterous
 
 ---
 

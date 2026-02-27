@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 词根-lect, 后缀-ence]
 
 ## 同根词
 
-**词根 `lect`**：[[02-科目/英语一/知识点/词汇/单词/beleaguer|beleaguer]] · [[02-科目/英语一/知识点/词汇/单词/eclectic|eclectic]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-lect|词根 lect — 集合，选择]]**：beleaguer · eclectic
 
-**后缀 `-ence`**：[[02-科目/英语一/知识点/词汇/单词/permanence|permanence]] · [[02-科目/英语一/知识点/词汇/单词/eminence|eminence]] · [[02-科目/英语一/知识点/词汇/单词/complacency|complacency]] · [[02-科目/英语一/知识点/词汇/单词/consequence|consequence]] · [[02-科目/英语一/知识点/词汇/单词/innocence|innocence]] · [[02-科目/英语一/知识点/词汇/单词/persistence|persistence]] · [[02-科目/英语一/知识点/词汇/单词/transience|transience]] · [[02-科目/英语一/知识点/词汇/单词/commencement|commencement]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ence|后缀 -ence — 名词后缀]]**：permanence · eminence · complacency · consequence · innocence · persistence · transience · commencement
 
 ---
 

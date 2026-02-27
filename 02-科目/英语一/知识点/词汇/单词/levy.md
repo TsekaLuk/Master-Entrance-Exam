@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 词根-lev]
 
 ## 同根词
 
-**词根 `lev`**：[[02-科目/英语一/知识点/词汇/单词/alleviate|alleviate]] · [[02-科目/英语一/知识点/词汇/单词/levity|levity]] · [[02-科目/英语一/知识点/词汇/单词/relevance|relevance]] · [[02-科目/英语一/知识点/词汇/单词/relevant|relevant]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-lev|词根 lev — 举]]**：alleviate · levity · relevance · relevant
 
 ---
 

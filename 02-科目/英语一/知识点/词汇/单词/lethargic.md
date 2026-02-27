@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 词根-arg, 后缀-ic]
 
 ## 同根词
 
-**词根 `arg`**：[[02-科目/英语一/知识点/词汇/单词/largesse|largesse]] · [[02-科目/英语一/知识点/词汇/单词/lethargy|lethargy]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-arg|词根 arg — 闲置，虚度]]**：largesse · lethargy
 
-**后缀 `-ic`**：[[02-科目/英语一/知识点/词汇/单词/eclectic|eclectic]] · [[02-科目/英语一/知识点/词汇/单词/antiseptic|antiseptic]] · [[02-科目/英语一/知识点/词汇/单词/pandemic|pandemic]] · [[02-科目/英语一/知识点/词汇/单词/panegyric|panegyric]] · [[02-科目/英语一/知识点/词汇/单词/prosaic|prosaic]] · [[02-科目/英语一/知识点/词汇/单词/sophisticated|sophisticated]] · [[02-科目/英语一/知识点/词汇/单词/aesthetic|aesthetic]] · [[02-科目/英语一/知识点/词汇/单词/arrhythmic|arrhythmic]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ic|后缀 -ic — 形容词后缀]]**：eclectic · antiseptic · pandemic · panegyric · prosaic · sophisticated · aesthetic · arrhythmic
 
 ---
 

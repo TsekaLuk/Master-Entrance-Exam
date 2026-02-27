@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 词根-string]
 
 ## 同根词
 
-**词根 `string`**：[[02-科目/英语一/知识点/词汇/单词/astringent|astringent]] · [[02-科目/英语一/知识点/词汇/单词/prestige|prestige]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-string|词根 string — 压;]]**：astringent · prestige
 
 ---
 

@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 后缀-ose]
 
 ## 同根词
 
-**后缀 `-ose`**：[[02-科目/英语一/知识点/词汇/单词/bellicose|bellicose]] · [[02-科目/英语一/知识点/词汇/单词/morose|morose]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ose|后缀 -ose — 形容词后缀]]**：bellicose · morose
 
 ---
 

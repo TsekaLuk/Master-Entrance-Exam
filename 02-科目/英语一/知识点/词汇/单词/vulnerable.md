@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 后缀-able, 后缀-er]
 
 ## 同根词
 
-**后缀 `-able`**：[[02-科目/英语一/知识点/词汇/单词/amiable|amiable]] · [[02-科目/英语一/知识点/词汇/单词/inevitable|inevitable]] · [[02-科目/英语一/知识点/词汇/单词/indispensable|indispensable]] · [[02-科目/英语一/知识点/词汇/单词/implacable|implacable]] · [[02-科目/英语一/知识点/词汇/单词/despicable|despicable]] · [[02-科目/英语一/知识点/词汇/单词/interminable|interminable]] · [[02-科目/英语一/知识点/词汇/单词/intractable|intractable]] · [[02-科目/英语一/知识点/词汇/单词/tractable|tractable]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-able|后缀 -able — 形容词后缀]]**：amiable · inevitable · indispensable · implacable · despicable · interminable · intractable · tractable
 
-**后缀 `-er`**：[[02-科目/英语一/知识点/词汇/单词/generosity|generosity]] · [[02-科目/英语一/知识点/词汇/单词/beleaguer|beleaguer]] · [[02-科目/英语一/知识点/词汇/单词/insider|insider]] · [[02-科目/英语一/知识点/词汇/单词/obstreperous|obstreperous]] · [[02-科目/英语一/知识点/词汇/单词/preposterous|preposterous]] · [[02-科目/英语一/知识点/词汇/单词/unlettered|unlettered]] · [[02-科目/英语一/知识点/词汇/单词/flustered|flustered]] · [[02-科目/英语一/知识点/词汇/单词/badger|badger]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-er|后缀 -er — 名词后缀]]**：generosity · beleaguer · insider · obstreperous · preposterous · unlettered · flustered · badger
 
 ---
 

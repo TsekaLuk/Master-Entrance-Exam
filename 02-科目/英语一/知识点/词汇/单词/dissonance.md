@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 前缀-dis, 后缀-ance]
 
 ## 同根词
 
-**前缀 `dis-`**：[[02-科目/英语一/知识点/词汇/单词/discipline|discipline]] · [[02-科目/英语一/知识点/词汇/单词/discourse|discourse]] · [[02-科目/英语一/知识点/词汇/单词/disparage|disparage]] · [[02-科目/英语一/知识点/词汇/单词/disparate|disparate]] · [[02-科目/英语一/知识点/词汇/单词/indispensable|indispensable]] · [[02-科目/英语一/知识点/词汇/单词/dissident|dissident]] · [[02-科目/英语一/知识点/词汇/单词/diversity|diversity]] · [[02-科目/英语一/知识点/词汇/单词/discombobulated|discombobulated]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-dis|前缀 dis- — 否定]]**：discipline · discourse · disparage · disparate · indispensable · dissident · diversity · discombobulated
 
-**后缀 `-ance`**：[[02-科目/英语一/知识点/词汇/单词/relevance|relevance]] · [[02-科目/英语一/知识点/词汇/单词/defiance|defiance]] · [[02-科目/英语一/知识点/词汇/单词/exuberance|exuberance]] · [[02-科目/英语一/知识点/词汇/单词/forbearance|forbearance]] · [[02-科目/英语一/知识点/词汇/单词/reliance|reliance]] · [[02-科目/英语一/知识点/词汇/单词/surveillance|surveillance]] · [[02-科目/英语一/知识点/词汇/单词/extravagance|extravagance]] · [[02-科目/英语一/知识点/词汇/单词/nuance|nuance]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ance|后缀 -ance — 名词后缀]]**：relevance · defiance · exuberance · forbearance · reliance · surveillance · extravagance · nuance
 
 ---
 

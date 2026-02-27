@@ -26,11 +26,11 @@ tags: [GRE词汇, 英语, 词根-st, 前缀-con, 后缀-ant]
 
 ## 同根词
 
-**词根 `st`**：[[02-科目/英语一/知识点/词汇/单词/consistency|consistency]] · [[02-科目/英语一/知识点/词汇/单词/consistent|consistent]] · [[02-科目/英语一/知识点/词汇/单词/constitute|constitute]] · [[02-科目/英语一/知识点/词汇/单词/inconstancy|inconstancy]] · [[02-科目/英语一/知识点/词汇/单词/oust|oust]] · [[02-科目/英语一/知识点/词汇/单词/reinstate|reinstate]] · [[02-科目/英语一/知识点/词汇/单词/restive|restive]] · [[02-科目/英语一/知识点/词汇/单词/stasis|stasis]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-st|词根 st — 站立]]**：consistency · consistent · constitute · inconstancy · oust · reinstate · restive · stasis
 
-**前缀 `con-`**：[[02-科目/英语一/知识点/词汇/单词/conciliate|conciliate]] · [[02-科目/英语一/知识点/词汇/单词/conciliatory|conciliatory]] · [[02-科目/英语一/知识点/词汇/单词/reconcile|reconcile]] · [[02-科目/英语一/知识点/词汇/单词/conform|conform]] · [[02-科目/英语一/知识点/词汇/单词/conformity|conformity]] · [[02-科目/英语一/知识点/词汇/单词/congenial|congenial]] · [[02-科目/英语一/知识点/词汇/单词/conquer|conquer]] · [[02-科目/英语一/知识点/词汇/单词/conquest|conquest]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-con|前缀 con- — 共同]]**：conciliate · conciliatory · reconcile · conform · conformity · congenial · conquer · conquest
 
-**后缀 `-ant`**：[[02-科目/英语一/知识点/词汇/单词/reactant|reactant]] · [[02-科目/英语一/知识点/词汇/单词/relevant|relevant]] · [[02-科目/英语一/知识点/词汇/单词/compliant|compliant]] · [[02-科目/英语一/知识点/词汇/单词/observant|observant]] · [[02-科目/英语一/知识点/词汇/单词/significant|significant]] · [[02-科目/英语一/知识点/词汇/单词/substantial|substantial]] · [[02-科目/英语一/知识点/词汇/单词/substantive|substantive]] · [[02-科目/英语一/知识点/词汇/单词/unsubstantiated|unsubstantiated]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ant|后缀 -ant — 形容词后缀]]**：reactant · relevant · compliant · observant · significant · substantial · substantive · unsubstantiated
 
 ---
 

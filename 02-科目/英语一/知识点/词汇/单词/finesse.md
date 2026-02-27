@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 词根-fin]
 
 ## 同根词
 
-**词根 `fin`**：[[02-科目/英语一/知识点/词汇/单词/definite|definite]] · [[02-科目/英语一/知识点/词汇/单词/definitive|definitive]] · [[02-科目/英语一/知识点/词汇/单词/finale|finale]] · [[02-科目/英语一/知识点/词汇/单词/finite|finite]] · [[02-科目/英语一/知识点/词汇/单词/infinite|infinite]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-fin|词根 fin — 边界→末尾]]**：definite · definitive · finale · finite · infinite
 
 ---
 

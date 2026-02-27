@@ -25,9 +25,9 @@ tags: [GRE词汇, 英语, 词根-st, 后缀-atic]
 
 ## 同根词
 
-**词根 `st`**：[[02-科目/英语一/知识点/词汇/单词/consistency|consistency]] · [[02-科目/英语一/知识点/词汇/单词/consistent|consistent]] · [[02-科目/英语一/知识点/词汇/单词/constant|constant]] · [[02-科目/英语一/知识点/词汇/单词/constitute|constitute]] · [[02-科目/英语一/知识点/词汇/单词/inconstancy|inconstancy]] · [[02-科目/英语一/知识点/词汇/单词/oust|oust]] · [[02-科目/英语一/知识点/词汇/单词/reinstate|reinstate]] · [[02-科目/英语一/知识点/词汇/单词/restive|restive]]
+**[[02-科目/英语一/知识点/词汇/词根/词根-st|词根 st — 站立]]**：consistency · consistent · constant · constitute · inconstancy · oust · reinstate · restive
 
-**后缀 `-atic`**：[[02-科目/英语一/知识点/词汇/单词/erratic|erratic]] · [[02-科目/英语一/知识点/词汇/单词/phlegmatic|phlegmatic]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-atic|后缀 -atic — 形容词后缀]]**：erratic · phlegmatic
 
 ---
 

@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 前缀-under]
 
 ## 同根词
 
-**前缀 `under-`**：[[02-科目/英语一/知识点/词汇/单词/undermine|undermine]] · [[02-科目/英语一/知识点/词汇/单词/understatement|understatement]] · [[02-科目/英语一/知识点/词汇/单词/underhanded|underhanded]]
+**[[02-科目/英语一/知识点/词汇/前缀/前缀-under|前缀 under- — 下]]**：undermine · understatement · underhanded
 
 ---
 

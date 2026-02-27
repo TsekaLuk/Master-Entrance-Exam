@@ -24,7 +24,7 @@ tags: [GRE词汇, 英语, 后缀-ible]
 
 ## 同根词
 
-**后缀 `-ible`**：[[02-科目/英语一/知识点/词汇/单词/compatible|compatible]] · [[02-科目/英语一/知识点/词汇/单词/incompatible|incompatible]] · [[02-科目/英语一/知识点/词汇/单词/discernible|discernible]] · [[02-科目/英语一/知识点/词汇/单词/inexhaustible|inexhaustible]] · [[02-科目/英语一/知识点/词汇/单词/intangible|intangible]] · [[02-科目/英语一/知识点/词汇/单词/irascible|irascible]]
+**[[02-科目/英语一/知识点/词汇/后缀/后缀-ible|后缀 -ible — 形容词后缀]]**：compatible · incompatible · discernible · inexhaustible · intangible · irascible
 
 ---
 
