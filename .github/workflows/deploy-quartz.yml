@@ -37,6 +37,10 @@ jobs:
           git clone --depth 1 https://github.com/jackyzha0/quartz.git /tmp/quartz
           cd /tmp/quartz
           npm install
+          # 设置正确的 baseUrl（GitHub Pages 地址）
+          sed -i 's|baseUrl: "quartz.jzhao.xyz"|baseUrl: "tsekaluk.github.io/Master-Entrance-Exam"|' quartz.config.ts
+          # 设置站点标题
+          sed -i 's|pageTitle: "🪴 Quartz 4"|pageTitle: "843 考研备考笔记"|' quartz.config.ts
 
       - name: Copy vault content to Quartz
         run: |
